@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
-p {
-  color: DimGray;
+h1, h2, h3 {
+  font-family: 'Stardos Stencil', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
 }

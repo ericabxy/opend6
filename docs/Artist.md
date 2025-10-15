@@ -16,3 +16,9 @@ In *D6 Fantasy*, Artist noticeably omits "literary compositions" from its possib
 *D6 Fantasy* is missing the Forgery skill because expertise in written language is part of the Reading/Writing skill. For this reason as a general rule Forgery is considered an Artist talent that is spun off into its own skill for certain genres.
 
 Of note is the fact that Forgery is an ancillary skill that explicitly states in its description that other skills are needed to detect or make a forgery. Artist seems like a natural fit for this "other skills", as does Reading/Writing. Overall there is a strong case for merging both skills into Artist.
+
+### &lt;Creative Ability&gt;
+
+### Forgery
+
+### Reading/Writing

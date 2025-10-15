@@ -9,6 +9,6 @@ _<span title='Space'>Mechanical</span>:_ Gunnery, Navigation, Exoskeleton Operat
 
 Coordination to Space Agility: Firearms, Missile Weapons, Sleight of Hand, Throwing.
 
-See [Sleight of Hand](sleightOfHand.md)
+See [Sleight of Hand](SleightOfHand.md)
 
 See [Fine motor skill](https://en.wikipedia.org/wiki/Fine_motor_skill)

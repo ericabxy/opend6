@@ -7,9 +7,9 @@ __Alternate Names:__ <span title='Space & Fantasy'>Agility</span>, Balance
 
 __Notes:__ <span title='Star Wars'>Dexterity</span>
 
-See [Dodge](dodge.md)
+See [Dodge](Dodge.md)
 
-See [Melee Combat](meleeCombat.md)
+See [Melee Combat](MeleeCombat.md)
 
 See Balance
 

@@ -24,11 +24,13 @@ blockquote, table {
 }
 
 a:link {
-  color: CornflowerBlue;
+  color: RoyalBlue;
+  color: MidnightBlue;
 }
 
 a:visited {
-  color: Plum;
+  color: DarkOrchid;
+  color: Indigo;
 }
 
 span[title] {

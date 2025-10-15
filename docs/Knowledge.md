@@ -5,4 +5,4 @@ Knowledge
 
 __Alternate Names:__ Lore, Wisdom, <span title='Solar'>Science</span>
 
-See [Scholar](scholar.md)
+See [Scholar](Scholar.md)

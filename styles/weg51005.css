@@ -1,11 +1,6 @@
-:root {
-  --upgrade: #dfdfdf, #f5f5f5;
-}
-
 html {
   background: linear-gradient(Gray, WhiteSmoke, Gray);
   height: 100%;
-  margin: 0;
 }
 
 body {
@@ -13,16 +8,16 @@ body {
   background-color: WhiteSmoke;
   color: Black;
   margin: 0;
-  padding: 0;
-}
-
-p {
   padding: .5em;
 }
 
-blockquote {
+blockquote, table {
+  background: linear-gradient(#f0f0f0, #f3f3f3);
+  border: 1px solid Black;
+  margin: .5em auto;
+  padding: .5em;
 }
-
+  
 caption, h1, h2, h3 {
   font-family: 'Stardos Stencil', sans-serif;
   font-weight: bold;
@@ -30,9 +25,7 @@ caption, h1, h2, h3 {
   text-transform: uppercase;
 }
 
-/* Table layout */
 table {
-  background-color: #dcdcdc;
   border-collapse: collapse;
 }
 
@@ -44,24 +37,34 @@ td {
   padding: 1px .5em;
 }
 
+/* Mobile Styles */
+@media only screen and (max-width: 640px) {
+  body {
+    margin: 0;
+  }
+}
+
 /* Tablet layout */
-@media only screen and (min-width: 401px) and (max-width: 960px) {
+@media only screen and (min-width: 641px) and (max-width: 800px) {
+  body {
+    column-count: 2;
+  }
+
   table {
     margin: auto;
   }
 }
 
 /* Desktop layout */
-@media only screen and (min-width: 961px) {
+@media only screen and (min-width: 801px) {
   body {
     border: 6px solid Black;
     column-count: 2;
-    margin: 1em auto;
-    max-width: 960px;
+    margin: 0 auto;
+    width: 800px;
   }
   
   table {
-    clear: both;
-    margin: .5em auto;
+    margin: auto;
   }
 }

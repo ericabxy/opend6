@@ -2,24 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-
-h1, h2, h3 {
-  font-family: 'Stardos Stencil', sans-serif;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-/* Desktop layout */
-@media only screen and (min-width: 961px) {
-  body {
-    border: 6px solid Black;
-    column-count: 2;
-    margin: 1em auto;
-    max-width: 960px;
-  }
-  
-  table {
-    clear: both;
-    margin: .5em auto;
-  }
-}
+@import "./weg51005.css";

@@ -161,10 +161,22 @@ Reading/Writing. Overall there is a strong case for merging both skills into
 Artist.
 
 <table>
-<caption>genre conversion for Artist</caption>
-<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
-<tr><td>artist (Perception)</td><td>artist (Perception)</td><td>artist (Acumen)</td></tr>
-<tr><td>forgery (Perception)</td><td>forgery (Knowledge)</td><td>reading/writing (Intellect), artist (Acumen)</td></tr>
+  <caption>genre conversion for Artist</caption>
+  <tr>
+    <td><strong>Space</strong></td>
+    <td><strong>Adventure</strong></td>
+    <td><strong>Fantasy</strong></td>
+  </tr>
+  <tr>
+    <td>artist (Perception)</td>
+    <td>artist (Perception)</td>
+    <td>artist (Acumen)</td>
+  </tr>
+  <tr>
+    <td>forgery (Perception)</td>
+    <td>forgery (Knowledge)</td>
+    <td>reading/writing (Intellect), artist (Acumen)</td>
+  </tr>
 </table>
 
 ---

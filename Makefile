@@ -9,7 +9,7 @@ build: $(TEMPLATE)
 	DESTDIR=$(DESTDIR) $(PYTHON) $(TEMPLATE) $(SRC)/*
 
 run: $(VENV)/bin/activate
-	$(PYTHON) -m httpmdhtml.server -d docs
+	$(PYTHON) -m httpmdhtml.server -d docs --css_file docs/assets/css/weg51005.css
 
 setup: requirements.txt
 	python3 -m venv $(VENV)

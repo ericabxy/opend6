@@ -1,0 +1,71 @@
+html {
+  background: linear-gradient(Gray, WhiteSmoke, Gray);
+  height: 100%;
+}
+
+body {
+  background-color: WhiteSmoke;
+  color: Black;
+  margin: 0;
+  padding: .5em;
+}
+
+caption, h1, h2, h3 {
+  font-family: 'Stardos Stencil', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+blockquote, table {
+  background: linear-gradient(#f0f0f0, #f3f3f3);
+  border: 1px solid Black;
+  padding: .5em;
+}
+
+a:link {
+  color: CornflowerBlue;
+}
+
+a:visited {
+  color: Plum;
+}
+
+span[title] {
+  text-decoration: underline dotted;
+}
+
+blockquote ins {
+  text-decoration: none;
+}
+
+blockquote ins::before {
+  content: '[';
+}
+
+blockquote ins::after {
+  content: ']';
+}
+
+
+/* Tablet layout */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+  blockquote, table {
+    float: right;
+  }
+}
+
+/* Desktop layout */
+@media only screen and (min-width: 961px) {
+  body {
+    border: 6px solid Black;
+    column-count: 2;
+    margin: 1em auto;
+    max-width: 960px;
+  }
+  
+  table {
+    clear: both;
+    margin: .5em auto;
+  }
+}

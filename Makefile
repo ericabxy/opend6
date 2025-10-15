@@ -9,7 +9,7 @@ build: $(TEMPLATE)
 	DESTDIR=$(DESTDIR) $(PYTHON) $(TEMPLATE) $(SRC)/*
 
 run: $(VENV)/bin/activate
-	$(PYTHON) -m http.server -d docs
+	$(PYTHON) -m httpmdhtml.server -d docs
 
 setup: requirements.txt
 	python3 -m venv $(VENV)

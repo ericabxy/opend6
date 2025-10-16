@@ -1,7 +1,7 @@
 Genre Book System
 ----------
 
-This list combines the attributes and skills shared by the three D6 genre books. 71 unique skills were compressed into 37 based on context clues.
+This list combines the attributes and skills shared by the three D6 genre books. 71 unique skills were compressed to 37 based on context clues.
 
 ### [Coordination](Coordination.md)
 
@@ -61,10 +61,12 @@ This list combines the attributes and skills shared by the three D6 genre books.
 Methodology
 -----------
 
-The name used in majority (at least two of the three books) determined the skill name. The attribute used in majority determined the governing attribute. The following attributes were assumed to be synonyms.
+If a skill is omitted by at least one book, a close reading of all skill descriptions determines which skill covers the missing skill, and the covered skill is not included in this list.
+
+The name used in majority (at least two of the three books) determines the skill name. The attribute used in majority determines the governing attribute. The following attributes are considered synonymous.
 
 - Reflexes and Agility
 - Strength and Physique
-- Intellect and Knowledge
+- Knowledge and Intellect
 - Perception and Acumen
 - Confidence, Presence, and Charisma

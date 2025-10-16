@@ -9,7 +9,7 @@ Artist
 
 > Familiarity with and ability to understand various forms of written communication, as well as the ability to create literary compositions, including forging papers and identifying such forgeries. Characters do not begin with the ability to read or write. (_Fantasy_, __reading/writing__)
 
-__Based On:__ <span title='Fantasy'>Acumen</span>, <span title='Fantasy'>Intellect</span>, <span title='Adventure'>Knowledge</span>, <span title='Adventure & Space'>Perception</span>
+__Based On:__ <span title='Fantasy'>Acumen</span>, <span title='Adventure & Space'>Perception</span>
 
 In *D6 Fantasy*, Artist noticeably omits "literary compositions" from its possible applications. A close reading of the rest of the skill list reveals Reading/Writing took over that responsibility. Therefore, Reading/Writing is considered in general a part of the Artist skill.
 
@@ -19,6 +19,12 @@ Of note is the fact that Forgery is an ancillary skill that explicitly states in
 
 ### &lt;Creative Ability&gt;
 
-### Forgery
+Forgery
+-------
 
-### Reading/Writing
+__Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Knowledge</span>
+
+Reading/Writing
+---------------
+
+__Based On:__ <span title='Fantasy'>Acumen</span>

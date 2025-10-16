@@ -11,11 +11,11 @@ Missile Weapons
 
 > Firing unpowered ranged weapons. (_Adventure_, _Space_, __missile weapons__)
 
-__Based On:__ <span title='Space'>Agility</span>, <span title='System Book, Adventure & Fantasy'>Coordination</span>, <span title='Space'>Mechanical</span>
+__Alternative Names:__ <span title='Adventure & Fantasy'>Marksmanship</span>
+
+__Based On:__ <span title='Adventure & Fantasy'>Coordination</span>
 
 __Description:__ <q>Characters who engage in long-range combat may wish to increase their proficiency with missile weapons (bows, blowguns, pistols, rifles, blasters, flame-throwers, and so on).</q>
-
-__All Names:__ <span title='Space'>Firearms</span>, <span title='Space'>Gunnery</span>, <span title='Adventure & Fantasy'>Marksmanship</span>, <span title='Adventure & Space'>Missile Weapons</span>
 
 _Fantasy_ is technically the most comprehensive form of this skill, because it has no other skills for handling weapons, so Marksmanship covers everything.
 
@@ -25,7 +25,24 @@ _Space_ specifies further by categorizing mounted weapons under Gunnery. However
 
 Firing a ranged weapon is an essential combat function of the Coordination attribute, making Marksmanship a core combat skill.
 
+Firearms
+--------
+
+__Based On:__ <span title='Space'>Agility</span>
+
+Gunnery
+-------
+
+__Based On:__ <span title='Space'>Mechanical</span>
+
+Missile Weapons
+---------------
+
+__Based On:__ <span title='Space'>Agility</span>, <span title='Adventure'>Coordination</span>
+
 ### &lt;Missle Weapon&gt;
+
+__Based On:__ <span title='System Book'>Coordination</span>
 
 > Like the &lt;_melee weapon_&gt;, each type of weapon requires different knowledge and muscle control, and therefore a character cannot apply her experience in one weapon to another. For example, a character highly skilled in the use of a rifle (die code of 8D+1) may have only limited knowledge of pistols (die code of 5D+2) and absolutely no experience in blowgun (default to Coordination die code of 4D).
 

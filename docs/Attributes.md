@@ -3,27 +3,28 @@ Core Attributes
 
 ### [Coordination](Coordination.md)
 
-- [Marksmanship](Marksmanship.md)
-- [Sleight of Hand](SleightOfHand.md)
-- [Throwing](Throwing.md)
+- [Marksmanship](Marksmanship.md) (⇉ Coordination)
+- [Sleight of Hand](SleightOfHand.md) (⇉ Coordination)
+- [Throwing](Throwing.md) (⇉ Coordination)
 
 ### [Endurance](Endurance.md)
 
 ### [Reflexes](Reflexes.md)
 
-- [Acrobatics](Acrobatics.md)
-- [Dodge](Dodge.md)
-- [Fighting](Fighting.md)
-- [Flying](Flying.md)
-- [Melee Combat](MeleeCombat.md)
-- [Running](Running.md)
-- [Swimming](Swimming.md)
+- [Acrobatics](Acrobatics.md) (⇶ Reflexes)
+- [Climb/Jump](ClimbJump.md) (⇉ Reflexes)
+- [Dodge](Dodge.md) (⇶ Reflexes)
+- [Fighting/Brawling](Fighting.md) (⇶ Reflexes)
+- [Flying/0-G](Flying.md) (⇶ Reflexes)
+- [Melee Combat](MeleeCombat.md) (⇶ Reflexes)
+- [Stealth/Sneak](Stealth.md) (⇉ Reflexes)
 
 ### [Strength](Strength.md)
 
-- [Climb/Jump](ClimbJump.md)
-- [Lifting](Lifting.md)
-- [Stamina](Stamina.md)
+- [Lifting](Lifting.md) (⇶ Strength)
+- [Running](Running.md) (⇉ Strength)
+- [Stamina](Stamina.md) (⇶ Strength)
+- [Swimming](Swimming.md) (⇶ Strength)
 
 Optional Attributes
 ---
@@ -32,45 +33,44 @@ Optional Attributes
 
 ### [Knowledge](Knowledge.md)
 
-- [Business/Trading](Business.md)
-- [Languages](Languages.md)
-- [Scholar](Scholar.md)
+- [Business/Trading](Business.md) (⇶ Knowledge)
+- [Languages](Languages.md) (⇶ Knowledge)
+- [Navigation](Navigation.md) (⇉ Knowledge)
+- [Scholar](Scholar.md) (⇶ Knowledge)
 
 ### [Magic]
 
 ### [Mechanical](Mechanical.md)
 
-- [Crafting/Repair](Crafting.md)
-- [Navigation](Navigation.md)
-- [Piloting](Piloting.md)
-- [Riding](Riding.md)
+- [Crafting/Repair](Crafting.md) (⇉ Perception)
+- [Piloting](Piloting.md) (⇉ Coordination)
+- [Riding](Riding.md) (⇶ Reflexes)
 
 ### [Perception](Perception.md)
 
-- [Command](Command.md)
-- [Gambling](Gambling.md)
-- [Hide](Hide.md)
-- [Intimidation](Intimidation.md)
-- [Investigation](Investigation.md)
-- [Know-how](Know-how.md)
-- [Persuasion](Persuasion.md)
-- [Search](Search.md)
-- [Stealth/Sneak](Stealth.md)
-- [Streetwise](Streetwise.md)
-- [Survival](Survival.md)
+- [Artist](Artist.md) (⇶ Perception)
+- [Gambling](Gambling.md) (⇶ Perception)
+- [Hide](Hide.md) (⇶ Perception)
+- [Investigation](Investigation.md) (⇶ Perception)
+- [Know-how](Know-how.md) (⇶ Perception)
+- [Search](Search.md) (⇶ Perception)
+- [Streetwise](Streetwise.md) (⇉ Perception)
+- [Survival](Survival.md) (⇉ Perception)
 
 ### [Confidence](Confidence.md)
 
-- [Con/Bluff](Con.md)
-- [Willpower/Mettle](Mettle.md)
+- [Command](Command.md) (⇉ Confidence)
+- [Con/Bluff](Con.md) (⇉ Confidence)
+- [Intimidation](Intimidation.md) (⇉ Confidence)
+- [Persuasion](Persuasion.md) (⇉ Confidence)
+- [Willpower/Mettle](Mettle.md) (⇉ Confidence)
 
 ### [Psionic Power]
 
 ### [Technical](Technical.md)
 
-- [Artist](Artist.md)
-- [Medicine/Healing](Medicine.md)
-- [Security/Traps](Security.md)
-- [Tech/Devices](Tech.md)
+- [Medicine/Healing](Medicine.md) (⇉ Knowledge)
+- [Tech/Devices](Tech.md) (⇉ Knowledge)
+- [Traps/Security](Traps.md) (⇉ Knowledge)
 
 ### [Willpower]

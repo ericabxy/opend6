@@ -3,7 +3,9 @@ Fighting
 
 > Competence in unarmed combat. (<cite>D6 Adventure</cite>, <cite>D6 Space</cite>, brawling, <cite>D6 Fantasy</cite>, fighting)
 
-__Based On:__ Reflexes.
+__Alternate Names:__ <span title='Adventure & Space'>Brawling</span>, <span title='Fantasy'>Fighting</span>
+
+__Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Space & Fantasy'>Agility</span>
 
 __Description:__ A <q cite=''>Weaponless Fighing Style</q>
 

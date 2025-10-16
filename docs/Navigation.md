@@ -5,6 +5,8 @@ Navigation
 
 > Plotting courses, such as through space using a vessel's navigational computer interface, or on land using maps or landmarks, as well as creating maps. (_Space_, __navigation__)
 
+__Based On:__ <span title='Space'>Mechanical</span>, <span title='Adventure'>Knowledge</span>, <span title='Fantasy'>Intellect</span>
+
 ### Plotting courses
 
 <q>Determining the correct course...</q> (<cite>Adventure & Fantasy</cite>)
@@ -28,3 +30,8 @@ _D6 Space_ adds the ability to use a navigational computer, a skill imported fro
 ### Creating maps
 
 <q>...as well as creating maps.</q> (<cite>Adventure, Space, & Fantasy</cite>)
+
+Astrography
+-----------
+
+See [Scholar:Astrography](Scholar.md#Astrography)

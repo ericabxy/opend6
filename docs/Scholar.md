@@ -19,4 +19,30 @@ __Based On:__ <span title='Adventure & Space'>Knowledge</span>, <span title='Fan
 
 __Note:__ In _D6 Space_, Astrography and Navigation are two separate skills.
 
-See [Knowledge](Knowledge.md)
+Aliens
+------
+
+Astrography
+-----------
+
+Bureaucracy
+-----------
+
+Command
+-------
+
+See [Command](Command.md)
+
+Cultures
+--------
+
+Security Regulations
+--------------------
+
+Tactics
+-------
+
+Note
+----
+
+Scholar operates similarly to the [Knowledge](Knowledge.md) attribute.

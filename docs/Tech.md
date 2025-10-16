@@ -5,19 +5,36 @@ Tech
 
 > Using and designing (not making) complex mechanical or electronic equipment, such as programming and operating computers and manipulating communication devices. (_Adventure_, __tech__)
 
-- comm (<span title='Space'>Mechanical</span>)
-- devices (<span title='Fantasy'>Intellect</span>)
-- computer interface/repair (<span title='Space'>Technical</span>)
-- robot interface/repair (<span title='Space'>Technical</span>)
-- sensors (<span title='Space'>Mechanical</span>)
-- shields (<span title='Space'>Mechanical</span>)
-- tech (<span title='Adventure'>Knowledge</span>)
+__Alternate Names:__ <span title='Adventure'>Tech</span>, <span title='Fantasy'>Devices</span>
 
-__Note:__ In _D6 Space_, the Tech skill is replaced by five more specialized skills.
-
-__Note:__ In _D6 Fantasy_, the Devices skill replaces Tech.
+__Based On:__ <span title='Adventure'>Knowledge</span>, <span title='Fantasy'>Intellect</span>
 
 Tech represents an understanding of complex technologies. You can use, design, and even fix technologically advanced equipment and devices, but making or building anything requires additional skill in [Crafting](Crafting.md).
+
+Comm
+----
+
+__Based On:__ <span title='Space'>Mechanical</span>
+
+Sensors
+-------
+
+__Based On:__ <span title='Space'>Mechanical</span>
+
+Shields
+-------
+
+__Based On:__ <span title='Space'>Mechanical</span>
+
+Computer Interface/Repair
+-------------------------
+
+__Based On:__ <span title='Space'>Technical</span>
+
+Robot Interface/Repair
+----------------------
+
+__Based On:__ <span title='Space'>Technical</span>
 
 ### Related Skills
 

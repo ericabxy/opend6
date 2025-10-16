@@ -5,58 +5,58 @@ This list combines the attributes and skills shared by the three D6 genre books.
 
 ### [Coordination](Coordination.md)
 
-- [Marksmanship](Marksmanship.md) (⇉ Coordination)
-- [Piloting](Piloting.md) (⇉ Coordination)
-- [Sleight of Hand](SleightOfHand.md) (⇉ Coordination)
-- [Throwing](Throwing.md) (⇉ Coordination)
+- [Marksmanship](Marksmanship.md) <span title='Space: Reflexes'>?</span>
+- [Piloting](Piloting.md) <span title='Space: Mechanical'>?</span>
+- [Sleight of Hand](SleightOfHand.md) <span title='Space: Reflexes'>?</span>
+- [Throwing](Throwing.md) <span title='Space: Reflexes'>?</span>
 
 ### [Reflexes](Reflexes.md)
 
-- [Acrobatics](Acrobatics.md) (⇶ Reflexes)
-- [Climb/Jump](ClimbJump.md) (⇉ Reflexes)
-- [Dodge](Dodge.md) (⇶ Reflexes)
-- [Brawling](Fighting.md) (⇶ Reflexes)
-- [Flying](Flying.md) (⇶ Reflexes)
-- [Melee Combat](MeleeCombat.md) (⇶ Reflexes)
-- [Riding](Riding.md) (⇶ Reflexes)
-- [Sneak](Sneak.md) (⇉ Reflexes)
+- [Acrobatics](Acrobatics.md)
+- [Climb/Jump](ClimbJump.md) <span title='Space: Strength'>?</span>
+- [Dodge](Dodge.md)
+- [Brawling](Fighting.md)
+- [Flying](Flying.md)
+- [Melee Combat](MeleeCombat.md)
+- [Riding](Riding.md)
+- [Sneak](Sneak.md) <span title='Space: Perception'>?</span>
 
 ### [Strength](Strength.md)
 
-- [Lifting](Lifting.md) (⇶ Strength)
-- [Running](Running.md) (⇉ Strength)
-- [Stamina](Stamina.md) (⇶ Strength)
-- [Swimming](Swimming.md) (⇶ Strength)
+- [Lifting](Lifting.md)
+- [Running](Running.md) <span title='Space: Reflexes'>?</span>
+- [Stamina](Stamina.md)
+- [Swimming](Swimming.md)
 
 ### [Knowledge](Knowledge.md)
 
-- [Business](Business.md) (⇶ Knowledge)
-- [Languages](Languages.md) (⇶ Knowledge)
-- [Medicine](Medicine.md) (⇉ Knowledge)
-- [Navigation](Navigation.md) (⇉ Knowledge)
-- [Scholar](Scholar.md) (⇶ Knowledge)
-- [Tech](Tech.md) (⇉ Knowledge)
-- [Security](Traps.md) (⇉ Knowledge)
+- [Business](Business.md)
+- [Languages](Languages.md)
+- [Medicine](Medicine.md) <span title='Space: Technical'>?</span>
+- [Navigation](Navigation.md) <span title='Space: Mechanical'>?</span>
+- [Scholar](Scholar.md)
+- [Tech](Tech.md)
+- [Security](Traps.md) <span title='Space: Technical'>?</span>
 
 ### [Perception](Perception.md)
 
-- [Artist](Artist.md) (⇶ Perception)
-- [Repair](RepairCraft.md) (⇉ Perception)
-- [Gambling](Gambling.md) (⇶ Perception)
-- [Hide](Hide.md) (⇶ Perception)
-- [Investigation](Investigation.md) (⇶ Perception)
-- [Know-how](Know-how.md) (⇶ Perception)
-- [Search](Search.md) (⇶ Perception)
-- [Streetwise](Streetwise.md) (⇉ Perception)
-- [Survival](Survival.md) (⇉ Perception)
+- [Artist](Artist.md)
+- [Repair](RepairCraft.md) <span title='Space: Technical'>?</span>
+- [Gambling](Gambling.md)
+- [Hide](Hide.md)
+- [Investigation](Investigation.md)
+- [Know-how](Know-how.md)
+- [Search](Search.md)
+- [Streetwise](Streetwise.md) <span title='Space: Knowledge'>?</span>
+- [Survival](Survival.md) <span title='Space: Knowledge'>?</span>
 
 ### [Confidence](Confidence.md)
 
-- [Command](Command.md) (⇉ Confidence)
-- [Con](Con.md) (⇉ Confidence)
-- [Intimidation](Intimidation.md) (⇉ Confidence)
-- [Persuasion](Persuasion.md) (⇉ Confidence)
-- [Willpower](Mettle.md) (⇉ Confidence)
+- [Command](Command.md)
+- [Con](Con.md)
+- [Intimidation](Intimidation.md)
+- [Persuasion](Persuasion.md)
+- [Willpower](Mettle.md)
 
 Methodology
 -----------

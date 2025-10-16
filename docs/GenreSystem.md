@@ -1,13 +1,12 @@
-Core Attributes
+Genre Book System
 ----------
 
 ### [Coordination](Coordination.md)
 
 - [Marksmanship](Marksmanship.md) (⇉ Coordination)
+- [Piloting](Piloting.md) (⇉ Coordination)
 - [Sleight of Hand](SleightOfHand.md) (⇉ Coordination)
 - [Throwing](Throwing.md) (⇉ Coordination)
-
-### [Endurance](Endurance.md)
 
 ### [Reflexes](Reflexes.md)
 
@@ -17,6 +16,7 @@ Core Attributes
 - [Fighting/Brawling](Fighting.md) (⇶ Reflexes)
 - [Flying/0-G](Flying.md) (⇶ Reflexes)
 - [Melee Combat](MeleeCombat.md) (⇶ Reflexes)
+- [Riding](Riding.md) (⇶ Reflexes)
 - [Stealth/Sneak](Stealth.md) (⇉ Reflexes)
 
 ### [Strength](Strength.md)
@@ -26,29 +26,20 @@ Core Attributes
 - [Stamina](Stamina.md) (⇶ Strength)
 - [Swimming](Swimming.md) (⇶ Strength)
 
-Optional Attributes
----
-
-### [Intellect](Intellect.md)
-
 ### [Knowledge](Knowledge.md)
 
 - [Business/Trading](Business.md) (⇶ Knowledge)
 - [Languages](Languages.md) (⇶ Knowledge)
+- [Medicine/Healing](Medicine.md) (⇉ Knowledge)
 - [Navigation](Navigation.md) (⇉ Knowledge)
 - [Scholar](Scholar.md) (⇶ Knowledge)
-
-### [Magic]
-
-### [Mechanical](Mechanical.md)
-
-- [Crafting/Repair](Crafting.md) (⇉ Perception)
-- [Piloting](Piloting.md) (⇉ Coordination)
-- [Riding](Riding.md) (⇶ Reflexes)
+- [Tech/Devices](Tech.md) (⇉ Knowledge)
+- [Traps/Security](Traps.md) (⇉ Knowledge)
 
 ### [Perception](Perception.md)
 
 - [Artist](Artist.md) (⇶ Perception)
+- [Crafting/Repair](Crafting.md) (⇉ Perception)
 - [Gambling](Gambling.md) (⇶ Perception)
 - [Hide](Hide.md) (⇶ Perception)
 - [Investigation](Investigation.md) (⇶ Perception)
@@ -64,13 +55,3 @@ Optional Attributes
 - [Intimidation](Intimidation.md) (⇉ Confidence)
 - [Persuasion](Persuasion.md) (⇉ Confidence)
 - [Willpower/Mettle](Mettle.md) (⇉ Confidence)
-
-### [Psionic Power]
-
-### [Technical](Technical.md)
-
-- [Medicine/Healing](Medicine.md) (⇉ Knowledge)
-- [Tech/Devices](Tech.md) (⇉ Knowledge)
-- [Traps/Security](Traps.md) (⇉ Knowledge)
-
-### [Willpower]

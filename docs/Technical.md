@@ -7,8 +7,12 @@ __Alternate Names:__ <span title='Solar'>Technology</span>
 
 Combines [Knowledge](Knowledge.md) and [Coordination](Coordination.md)
 
-See 
-
-See First Aid
-
-See Forgery
+- Artist (Perception, Perception, Acumen)
+  - Forgery (Perception, Knowledge, Intellect)
+  - Reading/Writing (Intellect)
+- Medicine/Healing (Technical, Knowledge, Intellect)
+- Security/Traps (Technical, Knowledge, Intellect)
+  - Demolition(s) (Technical, Knowledge, Intellect)
+- Tech/Devices (Knowledge, Intellect)
+  - Computer Interface/Repair (Technical)
+  - Robot Interface/Repair (Technical)

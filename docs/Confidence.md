@@ -6,3 +6,12 @@ Confidence
 __Alternate Names:__ Charm, <span title='Adventure'>Presence</span>
 
 __Note:__ <span title='Fantasy'>Charisma</span>
+
+- Command (Perception)
+- Con (Perception)
+- Intimidation (Knowledge)
+- Persuasion (Perception)
+  - Animal Handling
+  - Bargain
+  - Charm
+- Willpower (Knowledge)

@@ -6,3 +6,12 @@ Knowledge
 __Alternate Names:__ Lore, Wisdom, <span title='Solar'>Science</span>
 
 See [Scholar](Scholar.md)
+
+- Business/Trading (Knowledge, Knowledge, Intellect)
+- Languages/Speaking (Knowledge, Knowledge, Intellect)
+- Scholar (Knowledge, Knowledge, Intellect)
+  - Bureaucracy
+  - Cultures (Aliens)
+  - Navigation (Astrography)
+  - Security Regulations
+  - Tactics (Command)

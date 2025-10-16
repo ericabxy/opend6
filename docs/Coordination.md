@@ -1,5 +1,5 @@
 Coordination
-============
+------------
 
 > __Coordination__ represents a character's ability to perform feats that require manual dexterity or hand-eye cooperation, i.e., fine motor skills. Such tasks include firing a bow or gun, picking a lock, and throwing a grenade.
 

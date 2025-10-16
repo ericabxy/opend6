@@ -5,11 +5,11 @@ Attributes and Skills
 ---------------------
 
 - [Fitness](Strength.md)
-  - [Manual Dexterity](sleightOfHand.md)
-  - Reflexes
-  - [Stamina](stamina.md)
-  - [Strength](lifting.md)
-  - [Unarmed Combat](fighting.md)
+  - [Manual Dexterity](SleightOfHand.md)
+  - [Reflexes](Dodge.md)
+  - [Stamina](Stamina.md)
+  - [Strength](Lifting.md)
+  - [Unarmed Combat](Fighting.md)
 - [Reason](Intellect.md)
   - Command
   - Persuasion

@@ -51,7 +51,7 @@ blockquote ins::after {
 
 
 /* Tablet layout */
-@media only screen and (min-width: 600px) and (max-width: 900px) {
+@media only screen and (min-width: 768px) and (max-width: 960px) {
   body {
     column-count: 2;
   }
@@ -62,7 +62,7 @@ blockquote ins::after {
 }
 
 /* Desktop layout */
-@media only screen and (min-width: 901px) {
+@media only screen and (min-width: 961px) {
   body {
     border: 6px solid Black;
     column-count: 2;

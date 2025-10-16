@@ -7,11 +7,7 @@ __Alternate Names:__ Mechanics, Sensory Extension, Symbiotic Attachment
 
 Combines [Reflexes](Reflexes.md) and [Knowledge](Knowledge.md)
 
-See [Crafting/Repair](Crafting.md#repair)
-
-- Comm
-- Sensors
-- Shields
+See [Repair/Crafting](RepairCraft.md)
 
 See [Riding](Riding.md)
 

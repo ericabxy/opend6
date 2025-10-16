@@ -9,3 +9,8 @@ Disguise
 --------
 
 __Based On:__ <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
+
+No Attributes
+-------------
+
+Con is a stand-in for the [Confidence](Confidence.md) attribute.

@@ -5,3 +5,8 @@ __Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Space & Fant
 
 Contortion
 ----------
+
+No Attributes
+-------------
+
+Acrobatics is a stand-in for the [Reflexes](Reflexes.md) attribute.

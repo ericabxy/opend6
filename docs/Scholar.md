@@ -42,7 +42,7 @@ Security Regulations
 Tactics
 -------
 
-Note
+No Attributes
 ----
 
-Scholar operates similarly to the [Knowledge](Knowledge.md) attribute.
+Scholar is a stand-in for the [Knowledge](Knowledge.md) attribute.

@@ -39,3 +39,8 @@ Repair
 ### Vehicle Repair
 
 > Fixing ground- and ocean-based vehicles that do not fly. (*Space*, **vehicle repair**)
+
+No Attribute
+------------
+
+Repair is a stand-in for the [Mechanical](Mechanical.md) attribute.

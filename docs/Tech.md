@@ -56,3 +56,8 @@ Technology Level
 ----------------
 
 The description in _D6 Adventure_ suggests that electronic equipment is omitted from the _D6 Fantasy_ skill description. This is likely a matter of tech level; a fantasy setting may have complex mechanical devices but few if any powered by electricity. Nevertheless, a _Fantasy_ character in a setting that includes electronics would still categorize such equipment under Devices.
+
+No Attribute
+------------
+
+Tech is a stand-in for the [Technical](Technical.md) attribute.

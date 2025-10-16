@@ -24,3 +24,8 @@ In order to consolidate the skill list we might treat Know-how like Scholar for 
   - Streetwise
   - Survival
   - Willpower/Mettle
+
+No Attribute
+------------
+
+Know-how is a stand-in for the [Intellect](Intellect.md) attribute.

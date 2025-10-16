@@ -8,3 +8,8 @@ Mettle
 __Based On:__ <span title='Space'>Knowledge</span>, <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
 
 __Alternate Names:__ <span title='Adventure & Space'>Willpower</span>, <span title='Fantasy'>Mettle</span>
+
+No Attribute
+------------
+
+Mettle is a stand-in for the [Willpower](Willpower.md) attribute.

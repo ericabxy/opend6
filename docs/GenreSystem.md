@@ -1,6 +1,8 @@
 Genre Book System
 ----------
 
+This list combines the attributes and skills shared by the three D6 genre books. 71 unique skills were compressed into 37 based on context clues.
+
 ### [Coordination](Coordination.md)
 
 - [Marksmanship](Marksmanship.md) (⇉ Coordination)
@@ -14,7 +16,7 @@ Genre Book System
 - [Climb/Jump](ClimbJump.md) (⇉ Reflexes)
 - [Dodge](Dodge.md) (⇶ Reflexes)
 - [Brawling](Fighting.md) (⇶ Reflexes)
-- [Flying/0-G](Flying.md) (⇶ Reflexes)
+- [Flying](Flying.md) (⇶ Reflexes)
 - [Melee Combat](MeleeCombat.md) (⇶ Reflexes)
 - [Riding](Riding.md) (⇶ Reflexes)
 - [Sneak](Sneak.md) (⇉ Reflexes)
@@ -34,7 +36,7 @@ Genre Book System
 - [Navigation](Navigation.md) (⇉ Knowledge)
 - [Scholar](Scholar.md) (⇶ Knowledge)
 - [Tech](Tech.md) (⇉ Knowledge)
-- [Traps/Security](Traps.md) (⇉ Knowledge)
+- [Security](Traps.md) (⇉ Knowledge)
 
 ### [Perception](Perception.md)
 
@@ -54,4 +56,15 @@ Genre Book System
 - [Con](Con.md) (⇉ Confidence)
 - [Intimidation](Intimidation.md) (⇉ Confidence)
 - [Persuasion](Persuasion.md) (⇉ Confidence)
-- [Willpower/Mettle](Mettle.md) (⇉ Confidence)
+- [Willpower](Mettle.md) (⇉ Confidence)
+
+Methodology
+-----------
+
+The name used in majority (at least two of the three books) determined the skill name. The attribute used in majority determined the governing attribute. The following attributes were assumed to be synonyms.
+
+- Reflexes and Agility
+- Strength and Physique
+- Intellect and Knowledge
+- Perception and Acumen
+- Confidence, Presence, and Charisma

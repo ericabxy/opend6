@@ -61,3 +61,17 @@ No Attribute
 ------------
 
 Tech is a stand-in for the [Technical](Technical.md) attribute.
+
+Notes
+-----
+
+<table>
+<caption>genre conversion for Tech</caption>
+<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
+<tr><td>comm (Mechanical)</td><td>tech (Knowledge)</td><td>devices (Intellect)</td></tr>
+<tr><td>sensors (Mechanical)</td><td>tech (Knowledge)</td><td>devices (Intellect)</td></tr>
+<tr><td>shields (Mechanical)</td><td>tech (Knowledge)</td><td>devices (Intellect)</td></tr>
+<tr><td>interface/repair skills (Technical)</td><td>tech (Knowledge)</td><td>devices (Intellect)</td></tr>
+</table>
+
+- [Technology - Wikipedia](https://en.wikipedia.org/wiki/Technology)

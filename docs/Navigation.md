@@ -35,3 +35,15 @@ Astrography
 -----------
 
 See [Scholar:Astrography](Scholar.md#Astrography)
+
+Notes
+-----
+
+<table>
+<caption>genre conversion for Navigation</caption>
+<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
+<tr><td>astrography (Knowledge)</td><td>scholar, navigation (Knowledge)</td><td>scholar, navigation (Intellect)</td></tr>
+<tr><td>navigation (Mechanical)</td><td>navigation (Knowledge)</td><td>navigation (Intellect)</td></tr>
+</table>
+
+- [Land navigation - Wikipedia](https://en.wikipedia.org/wiki/Land_navigation)

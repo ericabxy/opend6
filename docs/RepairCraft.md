@@ -44,3 +44,12 @@ No Attribute
 ------------
 
 Repair is a stand-in for the [Mechanical](Mechanical.md) attribute.
+
+Notes
+-----
+
+<table>
+<caption>genre conversion for Repair</caption>
+<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
+<tr><td>repair only skills (Technical)</td><td>repair (Perception)</td><td>crafting (Acumen)</td></tr>
+</table>

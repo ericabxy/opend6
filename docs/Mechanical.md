@@ -12,3 +12,5 @@ See [Repair/Crafting](RepairCraft.md)
 See [Riding](Riding.md)
 
 See [Driving](Piloting.md#driving)
+
+- [Mechanics - Wikipedia](https://en.wikipedia.org/wiki/Mechanics)

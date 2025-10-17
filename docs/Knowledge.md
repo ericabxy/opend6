@@ -5,8 +5,6 @@ Knowledge
 
 __Alternate Names:__ Lore, Wisdom, <span title='Solar'>Science</span>
 
-See [Scholar](Scholar.md)
-
 - Business/Trading (Knowledge, Knowledge, Intellect)
 - Languages/Speaking (Knowledge, Knowledge, Intellect)
 - Scholar (Knowledge, Knowledge, Intellect)
@@ -15,3 +13,8 @@ See [Scholar](Scholar.md)
   - Navigation (Astrography)
   - Security Regulations
   - Tactics (Command)
+
+No Attribute
+------------
+
+Knowledge can be replaced by the [Scholar](Scholar.md) skill.

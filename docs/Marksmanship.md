@@ -1,5 +1,5 @@
-Missile Weapons
----------------
+Marksmanship
+------------
 
 > Shooting any gun a person can carry, even if it requires a tripod setup to fire. Covers everything from small slug throwers to shoulder-launched rockets. (_Space_, __firearms__)
 
@@ -71,3 +71,25 @@ _Pistol_
 _Rifle_
 
 _Starship Gunnery_
+
+Notes
+-----
+
+*Fantasy* is technically the most comprehensive form of this skill, because it
+has no other skills for handling weapons, so Marksmanship covers everything.
+
+*Adventure* splits this into modern weapons with guns and rocket launchers
+being covered by Marksmanship, while primitive weapons like bows and slings
+are covered by Missile Weapons.
+
+*Space* specifies further by categorizing mounted weapons under Gunnery.
+However, Gunnery is governed by the Mechanical attribute rather than Agility
+because it's closely related to machine and vehicle operation.
+
+<table>
+<caption>genre conversion for Marksmanship</caption>
+<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
+<tr><td>firearms (Agility)</td><td>marksmanship (Coordination)</td><td>marksmanship (Coordination)</td></tr>
+<tr><td>gunnery (Mechanical)</td><td>marksmanship (Coordination)</td><td>marksmanship (Coordination)</td></tr>
+<tr><td>missile weapons (Agility)</td><td>missile weapons (Coordination)</td><td>marksmanship (Coordination)</td></tr>
+</table>

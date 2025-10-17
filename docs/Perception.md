@@ -24,3 +24,5 @@ See [Search]
 - Search
 - Streetwise
 - Survival
+
+- [Cognition - Wikipedia](https://en.wikipedia.org/wiki/Cognition)

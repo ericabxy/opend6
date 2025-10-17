@@ -29,3 +29,18 @@ No Attribute
 ------------
 
 Know-how is a stand-in for the [Intellect](Intellect.md) attribute.
+
+Notes
+-----
+
+Know-how is reserved for performing basic tasks with no particular
+specialization or perfection, hence "basic", "not fancy" and "utilitarian". It
+is described as a "catch-all" skill which could mean its meant to generally
+cover a character's mundane abilities, or is meant to govern specific everyday
+tasks as specializations.
+
+<table>
+<caption>genre conversion for Know-how</caption>
+<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
+<tr><td>know-how (Perception)</td><td>know-how (Perception)</td><td>know-how (Acumen)</td></tr>
+</table>

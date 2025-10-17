@@ -22,3 +22,12 @@ _Brawling:_ From haymaker punches to shin kicks. Easiest to master.
 > _Wrestling_ has arisen out of a desire to disable an opponent without causing too much physical harm. Though some have strayed away from this ideal, most who practice wrestling focus on grappling their adversary and physically inhibiting his movements.
 
 > _Brawling_, the least formulaic of the three, includes the typical tavern-fight tactics—from wild haymaker punches to kicks targeted at an opponent's shins (or other, more fragile areas). Most characters that choose a weaponless fighting style will usually learn brawling, the easiest of the three to master.
+
+Notes
+-----
+
+<table>
+<caption>genre conversion for Brawling</caption>
+<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
+<tr><td>brawling (Agility)</td><td>brawling (Reflexes)</td><td>fighting (Agility)</td></tr>
+</table>

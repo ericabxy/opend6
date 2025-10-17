@@ -42,7 +42,45 @@ Security Regulations
 Tactics
 -------
 
-No Attributes
+No Attribute
 ----
 
 Scholar is a stand-in for the [Knowledge](Knowledge.md) attribute.
+
+Notes
+-----
+
+Scholar might accumulate the following skills under its domain. Some of them
+are separate skills in certain genre books, while others are suggested in the
+description(s) of Scholar itself.
+
+- *aliens* (Knowledge (*Space*))
+- *alchemy* (Scholar (*Fantasy*))
+- *arcane lore* (Scholar (*Fantasy*))
+- *archeology*  (Scholar (*Adventure*, *Space*))
+- *art* (Scholar (*Space*))
+- *astrography* (Knowledge (*Space*))
+- *bureaucracy* (Knowledge (*Space*))
+- *chemistry* (Scholar (*Adventure*, *Space*))
+- *cooking* (Scholar (*Space*, *Fantasy*))
+- *cultures* (Knowledge (*Space*)), (Intellect (*Fantasy*))
+- *interior design* (Scholar (*Adventure*))
+- *mathematics* (Scholar (*Adventure*, *Space*))
+- *security regulations* (Knowledge (*Space*))
+- *tactics* (Knowledge (*Space*))
+
+The defining characteristic of Scholar is specializing in academic knowledge
+of a subject, but needing other skills in order to properly apply the
+knowledge.
+
+<table>
+<caption>genre conversion for Scholar</caption>
+<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
+<tr><td>aliens (Knowledge)</td><td>scholar (Knowledge)</td><td>scholar or cultures (Intellect)</td></tr>
+<tr><td>astrography (Knowledge)</td><td>scholar, navigation (Knowledge)</td><td>scholar, navigation (Intellect)</td></tr>
+<tr><td>bureaucracy (Knowledge)</td><td>scholar (Knowledge)</td><td>scholar or cultures (Intellect)</td></tr>
+<tr><td>cultures (Knowledge)</td><td>scholar (Knowledge)</td><td>cultures (Intellect)</td></tr>
+<tr><td>scholar (Knowledge)</td><td>scholar (Knowledge)</td><td>scholar (Intellect)</td></tr>
+<tr><td>security regulations (Knowledge)</td><td>security (Knowledge)</td><td>scholar, cultures (Intellect)</td></tr>
+<tr><td>tactics (Knowledge)</td><td>scholar (Knowledge), command (Presence)</td><td>scholar (Intellect), command (Charisma)</td></tr>
+</table>

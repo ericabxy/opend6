@@ -28,3 +28,41 @@ Reading/Writing
 ---------------
 
 __Based On:__ <span title='Fantasy'>Acumen</span>
+
+Notes
+-----
+
+In *D6 Fantasy*, Artist noticeably omits "literary compositions" from its
+possible applications. A close reading of the rest of the skill list reveals
+Reading/Writing took over that responsibility. Therefore, Reading/Writing is
+considered in general a part of the Artist skill.
+
+*D6 Fantasy* is missing the Forgery skill because expertise in written language
+is part of the Reading/Writing skill. For this reason as a general rule Forgery
+is considered an Artist talent that is spun off into its own skill for certain
+genres.
+
+Of note is the fact that Forgery is an ancillary skill that explicitly states
+in its description that other skills are needed to detect or make a forgery.
+Artist seems like a natural fit for this "other skills", as does
+Reading/Writing. Overall there is a strong case for merging both skills into
+Artist.
+
+<table>
+  <caption>genre conversion for Artist</caption>
+  <tr>
+    <td><strong>Space</strong></td>
+    <td><strong>Adventure</strong></td>
+    <td><strong>Fantasy</strong></td>
+  </tr>
+  <tr>
+    <td>artist (Perception)</td>
+    <td>artist (Perception)</td>
+    <td>artist (Acumen)</td>
+  </tr>
+  <tr>
+    <td>forgery (Perception)</td>
+    <td>forgery (Knowledge)</td>
+    <td>reading/writing (Intellect), artist (Acumen)</td>
+  </tr>
+</table>

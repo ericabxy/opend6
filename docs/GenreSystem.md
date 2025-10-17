@@ -1,7 +1,10 @@
-Genre Book System
-----------
+Genre System
+------------
 
-This list combines the attributes and skills shared by the three D6 genre books. 71 unique skills were compressed to 37 based on context clues.
+There are 71 unique skills shared by the books _D6 Adventure_, _D6 Space_, and _D6 Fantasy_. This comprehensive list combines all of them into 37 based on context clues.
+
+Attributes and Skills
+---------------------
 
 ### [Coordination](Coordination.md)
 

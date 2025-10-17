@@ -6,14 +6,5 @@
 h2, h3 {
   font-family: 'Stardos Stencil', sans-serif;
   font-weight: bold;
-  text-align: center;
   text-transform: uppercase;
-}
-
-/* Desktop layout */
-@media only screen and (min-width: 961px) {
-  body {
-    border: 6px solid Black;
-    column-count: 2;
-  }
 }

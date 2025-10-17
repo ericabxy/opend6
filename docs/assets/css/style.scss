@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-:heading(2, 3) {
+h2, h3 {
   font-family: 'Stardos Stencil', sans-serif;
   font-weight: bold;
   text-align: center;

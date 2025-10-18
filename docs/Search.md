@@ -7,8 +7,9 @@ Search
 
 __Based On:__ <span title='Adventure & Space'>Perception</span>, <span title='Fantasy'>Acumen</span>
 
-Tracking
---------
+### Shadowing
+
+### Tracking
 
 > Following the trail of another person, animal, or creature, or keeping after a moving target without being noticed. (_Adventure_, _Fantasy_, __tracking__)
 

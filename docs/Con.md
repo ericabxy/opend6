@@ -11,17 +11,13 @@ __Alternative Names:__ <span title='Adventure & Space'>Con</span>, <span title='
 
 __Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
 
-Disguise
---------
+### Assume Identity (System Book)
+
+### Disguise
 
 > Altering features or clothing to be unrecognizable or to look like someone else. Also useful in acting performances. (_Adventure_, _Fantasy_, __disguise__)
 
 __Based On:__ <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
-
-No Attribute
-------------
-
-Con is a stand-in for the [Confidence](Confidence.md) attribute.
 
 Notes
 -----

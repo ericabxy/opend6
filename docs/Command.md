@@ -5,7 +5,7 @@ Command
 
 > Effectively ordering and coordinating others in team situations (such as commanding a battleship crew). (_Space_, __command__)
 
-__Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
+__Based On:__ [<span title='Space'>Perception</span>](Perception.md), [<span title='Adventure'>Presence</span>](Confidence.md), [<span title='Fantasy'>Charisma</span>](Confidence.md)
 
 Notes
 -----

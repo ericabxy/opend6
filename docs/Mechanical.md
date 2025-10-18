@@ -5,12 +5,19 @@ Mechanical
 
 __Alternate Names:__ Mechanics, Sensory Extension, Symbiotic Attachment
 
-Combines [Reflexes](Reflexes.md) and [Knowledge](Knowledge.md)
+By combining [Reflexes](Reflexes.md) and [Knowledge](Knowledge.md), Mechanical is a kind of applied Knowledge attribute.
 
 See [Repair/Crafting](RepairCraft.md)
 
+See [Shields](Tech.md#shields)
+
 See [Riding](Riding.md)
 
-See [Driving](Piloting.md#driving)
+See [Driving](Piloting.md#vehicle-operation)
 
-- [Mechanics - Wikipedia](https://en.wikipedia.org/wiki/Mechanics)
+See [Mechanics - Wikipedia](https://en.wikipedia.org/wiki/Mechanics)
+
+No Attribute
+------------
+
+Mechanical can be replaced by the [Repair](RepairCraft.md) skill.

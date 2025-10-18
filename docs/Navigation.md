@@ -31,6 +31,11 @@ _D6 Space_ adds the ability to use a navigational computer, a skill imported fro
 
 <q>...as well as creating maps.</q> (<cite>Adventure, Space, & Fantasy</cite>)
 
+Natural vs Mechanical
+---------------------
+
+In _D6 Space_ Navigation is more of a technical skill like [Comm](Tech.md#comm), [Sensors](Tech.md#sensors), and [Shields](Tech.md#shields).
+
 Astrography
 -----------
 

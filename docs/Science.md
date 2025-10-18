@@ -5,28 +5,29 @@ __Based On:__ Knowledge, Intellect
 
 __Description:__ <q>A skill in a science discipline (physics, chemistry, biology, geology, thermodynamics, artificial intelligence, et cetera) represents a character's knowledge of that area.</q>
 
-- Anatomy
-- Architecture
+- Anatomy (CORPOREALIST/BIOLOGIST, HEALER/APOTHECRIST/DOCTOR, NECROLOGIST)
 - Artificial Intelligence
-- Astral Events
-- Astral Theory
-- Astronomical Events
+- Architecture (ARCHAEOLOGIST, CARTOGRAPHER)
+- Astral Events (DEMON HUNTER)
+- Astral Theory (SCHOLAR, THEURIST, WARLOCK)
+- Astronomical Events (ARCHAEOLOGIST)
 - Biology
-- Cellular Knowledge
+- Cellular Knowledge (CORPOREALIST/BIOLOGIST, NECROLOGIST, SCHOLAR)
 - Chemistry
-- Criminology
-- Ecology
-- Engineering
-- Finite Mathemetics
-- Fractals
-- Genetics
+- Criminology (INVESTIGATOR, SHERRIF)
+- Ecology (SCHOLAR)
+- Engineering (SABOTEUR, SCHOLAR)
+- Finite Mathematics (ALCHEMIST, SCHOLAR, THEURIST)
+- Fractals (SCHOLAR, THEURIST)
+- Genetics (NECROLOGIST)
 - Geology
-- Inorganic Alchemy
-- Mechanics
-- Organic Alchemy
+- Inorganic Alchemy (ALCHEMIST)
+- Mechanics (SABOTEUR)
+- Organic Alchemy (ALCHEMIST, CORPOREALIST/BIOLOGIST,
+HEALER/APOTHECRIST/DOCTOR, NECROLOGIST, SCHOLAR)
 - Physics
-- Plant Physiology
-- Thermodynamics
+- Plant Physiology (SCHOLAR)
+- Thermodynamics (ALCHEMIST, SABOTEUR, SCHOLAR)
 
 <table>
   <tr>

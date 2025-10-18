@@ -5,14 +5,19 @@ Knowledge
 
 __Alternate Names:__ Lore, Wisdom, <span title='Solar'>Science</span>
 
-- Business/Trading (Knowledge, Knowledge, Intellect)
-- Languages/Speaking (Knowledge, Knowledge, Intellect)
-- Scholar (Knowledge, Knowledge, Intellect)
-  - Bureaucracy
-  - Cultures (Aliens)
-  - Navigation (Astrography)
-  - Security Regulations
-  - Tactics (Command)
+See [Science](Science.md)
+
+See [History](Scholar.md#history-of-area)
+
+See [Languages](Languages.md)
+
+See [Arcane Lore](ArcaneLore.md)
+
+See [Astrography](Scholar.md#astrography)
+
+See [Cultures](Scholar.md#cultures)
+
+See [Knowledge - Wikipedia](https://en.wikipedia.org/wiki/Knowledge)
 
 No Attribute
 ------------

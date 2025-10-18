@@ -14,43 +14,37 @@ Tech represents an understanding of complex technologies. You can use, design, a
 Comm
 ----
 
+> Effectively using communication devices and arrays. (_Space_, __comm__)
+
 __Based On:__ <span title='Space'>Mechanical</span>
 
 Sensors
 -------
+
+> Operating scanner arrays to gather information about one's surroundings. (_Space_, __sensors__)
 
 __Based On:__ <span title='Space'>Mechanical</span>
 
 Shields
 -------
 
+> Deploying and redirecting shields aboard vehicles. (_Space_, __shields__)
+
 __Based On:__ <span title='Space'>Mechanical</span>
 
 Computer Interface/Repair
 -------------------------
+
+> Programming, interfacing with, and fixing computer systems. (_Space_, __computer interface/repair__)
 
 __Based On:__ <span title='Space'>Technical</span>
 
 Robot Interface/Repair
 ----------------------
 
-__Based On:__ <span title='Space'>Technical</span>
-
-### Related Skills
-
-The _automated technology_ family of skills—[Demolitions, Security, and Traps](Security.md)—probably belongs under the Tech umbrella.
-
-### Tech in Space
-
-> Effectively using communication devices and arrays. (_Space_, __comm__)
-
-> Programming, interfacing with, and fixing computer systems. (_Space_, __computer interface/repair__)
-
 > Programming, interfacing with and fixing robots and their systems. (_Space_, __robot interface/repair__)
 
-> Operating scanner arrays to gather information about one's surroundings. (_Space_, __sensors__)
-
-> Deploying and redirecting shields aboard vehicles. (_Space_, __shields__)
+__Based On:__ <span title='Space'>Technical</span>
 
 Technology Level
 ----------------
@@ -64,6 +58,8 @@ Tech is a stand-in for the [Technical](Technical.md) attribute.
 
 Notes
 -----
+
+The [Demolitions, Security, and Traps](Security.md) skill details technology of the _automation_ or _remote operation_ variety.
 
 <table>
 <caption>genre conversion for Tech</caption>

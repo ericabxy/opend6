@@ -9,22 +9,32 @@ Persuasion
 
 __Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
 
-Animal Handling
----------------
+### Animal Handling
 
 > Controlling animals and making them perform tricks and follow commands. (_Adventure_, _Fantasy_, __animal handling__)
 
-Bargain
--------
+### Bargain
 
 > Haggling over prices for goods and services being bought or sold, as well as using bribery. (_Space_, __bargain__)
 
-Charm
------
+### Charm
 
 > Using friendliness, flattery, or seduction to influence someone else. Also useful in business transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette. (_Adventure_, __charm__)
 
 > Using friendliness, flattery, or seduction to influence someone else. Also useful in sales and bartering transactions, putting on performances (such as singing, acting, or storytelling), and situations involving etiquette. (_Fantasy_, __charm__)
+
+### Etiquette
+
+### Haggling
+
+### Public Speaking
+
+### Theatrics
+
+No Attribute
+------------
+
+Persuasion is a stand-in for the [Confidence](Confidence.md) attribute.
 
 Notes
 -----

@@ -5,14 +5,17 @@ Technical
 
 __Alternate Names:__ <span title='Solar'>Technology</span>
 
-Combines [Knowledge](Knowledge.md) and [Coordination](Coordination.md)
+By combining [Knowledge](Knowledge.md) and [Coordination](Coordination.md), Technical is a kind of applied Knowledge attribute.
 
-- Artist (Perception, Perception, Acumen)
-  - Forgery (Perception, Knowledge, Intellect)
-  - Reading/Writing (Intellect)
-- Medicine/Healing (Technical, Knowledge, Intellect)
-- Security/Traps (Technical, Knowledge, Intellect)
-  - Demolition(s) (Technical, Knowledge, Intellect)
-- Tech/Devices (Knowledge, Intellect)
-  - Computer Interface/Repair (Technical)
-  - Robot Interface/Repair (Technical)
+See [Computer Interface/Repair](Tech.md#computer-interface-repair)
+
+See [Security](Security.md)
+
+See [First Aid](Medicine.md#first-aid)
+
+See [Forgery](Artist.md#forgery)
+
+No Attribute
+------------
+
+Technical can be replaced by the [Tech](Tech.md) skill.

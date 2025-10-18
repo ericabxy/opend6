@@ -3,15 +3,20 @@ Confidence
 
 > This attribute <ins>__Confidence__</ins> represents a character's personal effect on others. It includes such skills as oration, acting, and grooming.
 
-__Alternate Names:__ Charm, <span title='Adventure'>Presence</span>
+__Alternate Names:__ Charm, <span title='Adventure'>Presence</span> | <span title='Fantasy'>Charisma</span>
 
-__Note:__ <span title='Fantasy'>Charisma</span>
+See [Public Speaking](Persuasion.md#public-speaking)
 
-- Command (Perception)
-- Con (Perception)
-- Intimidation (Knowledge)
-- Persuasion (Perception)
-  - Animal Handling
-  - Bargain
-  - Charm
-- Willpower (Knowledge)
+See [Theatrics](Persuasion.md#theatrics)
+
+See [Etiquette](Persuasion.md#etiquette)
+
+Presence
+--------
+
+Although its individual entry reads "Confidence", there is evidence this attribute used to be named "Presence". Firstly, it is referred to exclusively as Presence in Chapter 4: Skills. Secondly, "Presence" is an alternate name for this attribute. And finally, if it were named Presence it would sort alphabetically between Perception and Psionic Power on page 20 where we find it. (This remains true even if Psionic Power used to be named "[Spirit](PsionicPower.md)")
+
+No Attribute
+------------
+
+Confidence can be replaced by the [Persuasion](Persuasion.md) skill.

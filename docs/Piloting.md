@@ -7,62 +7,31 @@ Piloting
 
 __Based On:__ <span title='Space'>Mechanical</span>, <span title='Adventure'>Coordination</span>
 
-### Astrogation (spacecraft)
-
-- Adventure: Piloting
-- Space: Piloting
-
-### Aviation (aircraft)
-
-- Adventure: Piloting
-- Space: Piloting
-
-### Driving (landcraft)
-
-- Adventure: Piloting
-- Space: Vehicle Operation
-- Fantasy: Charioteering
-
-### Pilotry (watercraft)
-
-- Adventure: Piloting
-- Space: Vehicle Operation
-- Fantasy: Pilotry
-
-### Powered Armor (exoskeleton)
-
-- Adventure: Piloting
-- Space: Exoskeleton Operation
-
-Charioteering
--------------
+### Charioteering
 
 > Accelerating, steering, and decelerating chariots (in particular) or any kind of cart-and-animal vehicle. (_Fantasy_, __charioteering__)
 
-__Based On:__ <span title='Fantasy'>Coordination</span>
+Charioteering falls under Piloting in _Adventure_ and Vehicle Operation in _Space_.
 
-Exoskeleton Operation
----------------------
+### Exoskeleton Operation
 
 > Using single-person conveyances with skills and abilities that substitute for (not augment) the character's own skills and abilities. This skill substitutes for the character's Agility and Strength skills when using the "suit." (_Space_, __exoskeleton operation__)
 
-__Based On:__ <span title='Space'>Mechanical</span>
+Exoskeleton Operation falls under the "powered armor" clause of Piloting in _Adventure_ and has no analog in _Fantasy_.
 
-Pilotry
--------
+### Pilotry
 
 > Operating any water-faring vehicle, including steering, applying the oars, or managing the sails. (_Fantasy_, __pilotry__)
 
-__Based On:__ <span title='Fantasy'>Coordination</span>
+Pilotry covers nautical vehicles and falls under Piloting in _Adventure_ and Vehicle Operation in _Space_.
 
 - [Piloting - Wikipedia](https://en.wikipedia.org/wiki/Piloting)
 
-Vehicle Operation
------------------
+### Vehicle Operation
 
 > Operating non-flying vehicles traveling on or through the ground or a liquid medium. (_Space_, __vehicle operation__)
 
-__Based On:__ <span title='Space'>Mechanical</span>
+Vehicle Operation excludes aircraft and spacecraft. It is covered by Piloting in _Aventure_ and has no analog in _Fantasy_.
 
 Notes
 -----

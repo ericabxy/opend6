@@ -5,14 +5,17 @@ Reflexes
 
 __Alternate Names:__ <span title='Space & Fantasy'>Agility</span>, Balance
 
-__Notes:__ <span title='Star Wars'>Dexterity</span>
-
 See [Dodge](Dodge.md)
 
 See [Melee Combat](MeleeCombat.md)
 
-See Balance
+See [Balance](Balance.md)
 
 See [Gross motor skill](https://en.wikipedia.org/wiki/Gross_motor_skill)
 
-- Stealth/Sneak
+No Attribute
+------------
+
+Reflexes can be replaced by the [Acrobatics](Acrobatics.md) skill.
+
+Reflexes skills fall under Dexterity in _Star Wars_.

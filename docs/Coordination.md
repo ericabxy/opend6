@@ -5,10 +5,20 @@ Coordination
 
 __Alternate Names:__ Aim, <span title='Star Wars'>Dexterity</span>
 
-_<span title='Space'>Mechanical</span>:_ Gunnery, Navigation, Exoskeleton Operation, Piloting, Vehicle Operation, Comm, Sensors, Shields.
+See [Marksmanship](Marksmanship.md)
 
-Coordination to Space Agility: Firearms, Missile Weapons, Sleight of Hand, Throwing.
+See [Lockpicking](SleightOfHand.md#lockpicking)
 
-See [Sleight of Hand](SleightOfHand.md)
+See [Throwing](Throwing.md)
 
-See [Fine motor skill](https://en.wikipedia.org/wiki/Fine_motor_skill)
+Categorization
+--------------
+
+An easy rule-of-thumb for classifying a skill under Coordination is to ask whether it is a "fine motor skill". See [Fine motor skill - Wikipedia](https://en.wikipedia.org/wiki/Fine_motor_skill).
+
+No Attribute
+------------
+
+Coordination can be replaced by the [Sleight of Hand](SleightOfHand.md) skill.
+
+Coordination skills fall under Agility in _D6 Space_.

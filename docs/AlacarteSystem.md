@@ -102,13 +102,6 @@ A collection of 48 skills to choose from to create a new skill system.
 - [Tracking](Search.md#tracking)
 - [Traps](Traps.md#traps)
 - [&lt;Vessel&gt; Piloting](Piloting.md#vessel-piloting)
-  - Pilot Vessel
-  - Starship Piloting
-  - Boat Piloting
-  - Hovercraft Piloting
-  - Car Driving
-  - Truck Driving
-  - Motorcycle Driving
 
 ### [Confidence](Confidence.md)
 

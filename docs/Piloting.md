@@ -27,11 +27,36 @@ Pilotry covers nautical vehicles and falls under Piloting in _Adventure_ and Veh
 
 - [Piloting - Wikipedia](https://en.wikipedia.org/wiki/Piloting)
 
+### Pilot &lt;Vessel&gt;
+
 ### Vehicle Operation
 
 > Operating non-flying vehicles traveling on or through the ground or a liquid medium. (_Space_, __vehicle operation__)
 
 Vehicle Operation excludes aircraft and spacecraft. It is covered by Piloting in _Aventure_ and has no analog in _Fantasy_.
+
+&lt;Vessel&gt; Piloting
+-----------------------
+
+__Alternate Names:__ Pilot &lt;Vessel&gt;
+
+__Based On:__ Perception
+
+__Description:__ A character must make a _piloting_ roll whenever he attempts to perform a stunt (see the "Vehicle Combat" chapter). Piloting a vehicle under normal circumstances does not require a roll. Types of vessels include starships, boats, hovercraft, and cars, trucks, and motorcycles (in which case the skill can be called driving).
+
+__Used By:__ [Explorer](Explorer.md), Pilot, Smuggler
+
+### Boat Piloting
+
+### Car Driving
+
+### Hovercraft Piloting
+
+### Motorcycle Driving
+
+### Starship Piloting
+
+### Truck Driving
 
 Notes
 -----

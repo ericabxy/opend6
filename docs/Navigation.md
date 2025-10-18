@@ -66,6 +66,14 @@ __Used By:__ Archaeologist, [Cartographer](Cartographer.md), [Explorer](Explorer
 
 __Used By:__ Archaeologist, [Cartographer](Cartographer.md), [Explorer](Explorer.md), Outrider, Pilot
 
+### Terrain
+
+__Used By:__ [Explorer](Explorer.md), Outrider, Pilot, [Tracker/Bounty Hunter](TrackerBountyHunter.md), [Wanderer](Wanderer.md)
+
+### Trade Routes
+
+__Used By:__ Pilot, Smuggler
+
 Natural vs Mechanical
 ---------------------
 

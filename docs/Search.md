@@ -7,11 +7,17 @@ Search
 
 __Based On:__ <span title='Adventure & Space'>Perception</span>, <span title='Fantasy'>Acumen</span>
 
+### Listen
+
+__Used By:__ Bodyguard, [Explorer](Explorer.md), Infiltrator, Investigator, Saboteur, Sherrif, Spelljacker, Spy, [Tracker/Bounty Hunter](TrackerBountyHunter.md)
+
 ### Shadowing
 
 ### Tracking
 
 > Following the trail of another person, animal, or creature, or keeping after a moving target without being noticed. (_Adventure_, _Fantasy_, __tracking__)
+
+__Used By:__ Investigator, Necrologist, [Tracker/Bounty Hunter](TrackerBountyHunter.md)
 
 No Attribute
 ------------

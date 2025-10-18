@@ -19,28 +19,33 @@ __Based On:__ <span title='Adventure & Space'>Knowledge</span>, <span title='Fan
 
 __Note:__ In _D6 Space_, Astrography and Navigation are two separate skills.
 
-Aliens
-------
+### Aliens
 
-Astrography
------------
+### Astrography
 
-Bureaucracy
------------
+### Bureaucracy
 
-Command
--------
+### Command
 
 See [Command](Command.md)
 
-Cultures
---------
+### Cultures
 
-Security Regulations
---------------------
+### History of &lt;Area or Nationality or Species&gt;
 
-Tactics
--------
+__Used By:__ Archaeologist, [Scholar](ScholarProfession.md)
+
+### Secret Societies
+
+__Used By:__ Sherrif
+
+### Sect Knowledge
+
+__Used By:__ Archaeologist, Infiltrator, Theurist
+
+### Security Regulations
+
+### Tactics
 
 No Attribute
 ----

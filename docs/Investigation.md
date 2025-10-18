@@ -5,6 +5,12 @@ Investigation
 
 __Based On:__ <span title='Adventure & Space'>Perception</span>, <span title='Fantasy'>Acumen</span>
 
+### Database Use
+
+### Library Use
+
+__Used By:__ Archaeologist, Corporealist/Biologist, Scholar, Spelljacker, Theurist
+
 Notes
 -----
 

@@ -92,7 +92,6 @@ A collection of 48 skills to choose from to create a new skill system.
 - [Balance](Acrobatics.md#balance)
 - [Blindfighting](Fighting.md#blindfighting)
 - [Cartography](Navigation.md#cartography)
-  + [Chart Constellation](Navigation.md#chart-constellation)
 - [Contacts](Streetwise.md#contacts)
 - [Gambling](Gambling.md#gambling)
 - [&lt;Instrument&gt;](Artist.md#instrument)

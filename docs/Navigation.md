@@ -1,9 +1,9 @@
 Navigation
 ----------
 
-> Determining the correct course using external reference points, such as stars, maps, or landmarks, as well as creating maps. (_Adventure_, _Fantasy_, __navigation__)
+> <mark>Determining the correct course</mark> using <mark>external reference points</mark>, such as stars, <mark>maps, or landmarks</mark>, as well as <mark>creating maps</mark>. (_Adventure_, _Fantasy_, __navigation__)
 
-> Plotting courses, such as through space using a vessel's navigational computer interface, or on land using maps or landmarks, as well as creating maps. (_Space_, __navigation__)
+> <mark>Plotting courses</mark>, such as through space <mark>using a vessel's navigational computer</mark> interface, or on land using <mark>maps or landmarks</mark>, as well as <mark>creating maps</mark>. (_Space_, __navigation__)
 
 __Based On:__ <span title='Space'>Mechanical</span>, <span title='Adventure'>Knowledge</span>, <span title='Fantasy'>Intellect</span>
 
@@ -27,9 +27,44 @@ _D6 Space_ adds the ability to use a navigational computer, a skill imported fro
 
 <q>...or on land using maps or landmarks...</q> (<cite>Space</cite>)
 
-### Creating maps
+### Cartography
 
-<q>...as well as creating maps.</q> (<cite>Adventure, Space, & Fantasy</cite>)
+__Based On:__ Intellect, Perception, Coordination
+
+__Description:__ The _cartography_ skill allows characters to read and create maps of various types, from topographical to political.
+
+<table>
+  <tr>
+    <th>Action</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>Read maps and identify symbols</td>
+    <td>Very Easy</td>
+  </tr>
+  <tr>
+    <td>Create small-scale maps</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>Create terrain maps</td>
+    <td>Moderate</td>
+  </tr>
+  <tr>
+    <td>Create world maps</td>
+    <td>Difficult</td>
+  </tr>
+  <tr>
+    <td>Create dimensional/space maps</td>
+    <td>Very Difficult</td>
+  </tr>
+</table>
+
+__Used By:__ Archaeologist, [Cartographer](Cartographer.md), [Explorer](Explorer.md), Pilot
+
+### Chart Constellation
+
+__Used By:__ Archaeologist, [Cartographer](Cartographer.md), [Explorer](Explorer.md), Outrider, Pilot
 
 Natural vs Mechanical
 ---------------------

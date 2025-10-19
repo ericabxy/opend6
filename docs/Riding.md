@@ -1,17 +1,24 @@
 Riding
 ------
 
-> Controlling and riding domesticated mounts. (_Adventure, _Space_, _Fantasy_, __riding__)
+> __riding:__ Controlling and riding domesticated mounts. (_Adventure, _Space_, _Fantasy_)
 
-__Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Space & Fantasy'>Agility</span>
+__Alternate Names:__ &lt;Creature&gt; Riding, Ride &lt;Creature&gt;, Riding &lt;Creature&gt;
 
-Animal Handling
----------------
+__Based On:__ <span title='Adventure & System Book'>Reflexes</span>, <span title='Space & Fantasy'>Agility</span> | <span title='System Book'>Mechanical</span>
 
-Because the Animal Handling aspect of this skill is governed by different attributes, see [Persuasion:Animal Handling](Persuasion.md#animal-handling).
+__Used By:__ Knight, Outrider
+
+### Dragon Riding
+
+### Giant Lizard Riding
+
+### Horse Riding
 
 Notes
 -----
+
+See also [Animal Handling](Persuasion.md#animal-handling)
 
 <table>
 <caption>genre conversion for Riding</caption>

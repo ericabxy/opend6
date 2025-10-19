@@ -5,4 +5,29 @@ Magic
 
 __Alternate Names:__ Dweomercraft, Mysticism, Witchcraft
 
-See [Theurgy](Theurgy.md)
+### Spells
+
+- Cast Chaos
+- Chaos Burst
+- Chaos Web
+- Contain Chaos
+- Drain
+- Flash
+- Hesitate
+- Netherdart
+- Propel
+- Sense Residual Magic
+- Shroud
+- Warp Magic
+- Zed'oric's Defense
+
+Extranormal: Magic
+------------------
+
+### Alteration
+
+### Apportation
+
+### Conjuration
+
+### Divination

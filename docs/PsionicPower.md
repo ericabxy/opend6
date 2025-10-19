@@ -12,3 +12,26 @@ __Alternate Names:__ Psychic Ability
 ### Mind Worm
 
 ### Telekinesis
+
+Extranormal: Psionics
+---------------------
+
+### Astral Projection
+
+### Empathy
+
+### Far-sensing
+
+### Healing
+
+### Medium
+
+### Protection
+
+### Psychometry
+
+### Strike
+
+### Telekinesis
+
+### Telepathy

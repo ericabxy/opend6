@@ -1,7 +1,7 @@
-A La Carte System
+Alacarte System
 -----------------
 
-A collection of 48 skills to choose from to create a new skill system.
+Alacarte is a catalog of the 48 skills listed in Chapter Four of the _System Book_. Each skill has either a dedicated page, or a specialization entry under another skill.
 
 ### [Coordination](Coordination.md)
 
@@ -15,6 +15,7 @@ A collection of 48 skills to choose from to create a new skill system.
 ### [Reflexes](Reflexes.md)
 
 - [Acrobatics](Acrobatics.md#acrobatics)
+- &lt;Creature&gt; Riding (see Mechanical)
 - [Jumping](ClimbJump.md#jumping)
 - [&lt;Melee Weapon&gt;](MeleeCombat.md#melee-weapon)
 - [Scaling](ClimbJump.md#scaling)
@@ -25,32 +26,29 @@ A collection of 48 skills to choose from to create a new skill system.
 
 ### [Intellect](Intellect.md)
 
-- Alchemical/Chemical Concoction (+Endurance)
+- [Alchemical/Chemical Concoction](Scholar.md#alchemychemistry)
 - [Anatomy](Scholar.md#anatomy)
 - [Arcane Lore](Scholar.md#arcane-lore)
 - [Computer Operations](Tech.md#computer-operations)
 - [Customs of &lt;Region or Cultures&gt;](Scholar.md#customs-of-region-or-cultures)
 - [Diagnose Malady](Medicine.md#diagnose-malady)
 - [Law](Scholar.md#law)
+- &lt;Science&gt; (see Knowledge)
+- Theurgy (see Knowledge)
 
 ### [Knowledge](Knowledge.md)
 
+- Computer Operations (see Intellect)
 - [Etiquette](Scholar.md#etiquette)
 - [Forgery](Artist.md#forgery)
 - [Healing](Medicine.md#healing)
 - [Heraldry](Scholar.md#heraldry)
 - [History of &lt;Area&gt;](Scholar.md#history-of-area)
-- **IDENTIFY POISON** (Knowledge, Intellect, Perception)
-  + Identify Nethercreature (DEMON HUNTER, WARLOCK)
-  + Identify Plant (ARCHAEOLOGIST)
-  + Identify Poison (ALCHEMIST, CORPOREALIST/BIOLOGIST,
-    HEALER/APOTHECRIST/DOCTOR)
-  + Identify Species (ARCHAEOLOGIST, CORPOREALIST/BIOLOGIST, NECROLOGIST)
-  + Identify Substance (ALCHEMIST)
+- [Identify Poison](Identify.md#identify-poison)
 - [Database Use](Investigation.md#database-use)
 - [Navigation](Navigation.md#navigation)
 - [Read/Write &lsaquo;Languages&rsaquo;](Languages.md#readwrite-languages)
-- [&lt;Science&gt;](Science.md) (Knowledge, Intellect)
+- [&lt;Science&gt;](Science.md)
 - [Secret Societies](Scholar.md#secret-societies)
 - [Speak &lsaquo;Languages&rsaquo;](Languages.md#speak-languages)
 - [Theurgy](Theurgy.md)
@@ -58,28 +56,11 @@ A collection of 48 skills to choose from to create a new skill system.
 
 ### [Magic](Magic.md)
 
-- Cast Chaos
-- Chaos Burst
-- Chaos Web
-- Contain Chaos
-- Drain
-- Flash
-- Hesitate
-- Netherdart
-- Propel
-- Sense Residual Magic
-- Shroud
-- Warp Magic
-- Zed'oric's Defense
+- Theurgy (see Knowledge)
 
 ### [Mechanical](Mechanical.md)
 
 - [&lt;Creature&gt; Riding](Riding.md#creature-riding)
-  - Ride Creature
-  - Riding Creature
-  - Horse Riding
-  - Giant Lizard Riding
-  - Dragon Riding
 
 ### [Perception](Perception.md)
 
@@ -87,6 +68,7 @@ A collection of 48 skills to choose from to create a new skill system.
 - [Blindfighting](Fighting.md#blindfighting)
 - [Cartography](Navigation.md#cartography)
 - [Contacts](Streetwise.md#contacts)
+- &lt;Creative Ability&gt; (see Willpower)
 - [Gambling](Gambling.md#gambling)
 - [&lt;Instrument&gt;](Artist.md#instrument)
 - [Information Gathering](Investigation.md#information-gathering)
@@ -99,20 +81,18 @@ A collection of 48 skills to choose from to create a new skill system.
 ### [Confidence](Confidence.md)
 
 - [Assume Identity](Con.md#assume-identity)
-  + [Bartering](Business.md#bartering)
 - [Haggling](Persuasion.md#haggling)
 - [Public Speaking](Persuasion.md#public-speaking)
 
-### Psionic Power
+### [Psionic Power](PsionicPower.md)
 
-- Extra Sensory Perception
-- Mind Assault
-- Mind Worm
-- Telekinesis
+- [Meditation](Meditation.md)
 
 ### [Technical](Technical.md)
+
+- Computer Operations (see Intellect)
 
 ### [Willpower](Willpower.md)
 
 - [&lt;Creative Ability&gt;](CreativeAbility.md)
-- [Meditation](Meditation.md)
+- Meditation (see Psionic Power)

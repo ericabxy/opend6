@@ -11,6 +11,14 @@ __Alternate Names:__ <span title='Adventure & Space'>Business</span>, <span titl
 
 __Based On:__ <span title='Adventure & Space'>Knowledge</span>, <span title='Fantasy'>Intellect</span>
 
+### Appraisal
+
+__Used By:__ Cardsharper, Smuggler
+
+### Bartering
+
+__Used By:__ Smuggler
+
 Notes
 -----
 

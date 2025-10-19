@@ -7,7 +7,7 @@ _Adventure:_ <q>such as [chemistry](AlchemicalChemicalConcoction.md), mathematic
 _Space:_ <q>such as [chemistry](AlchemicalChemicalConcoction.md), mathematics, archaeology, cooking, art, etc.</q><br/>
 _Fantasy:_ <q>such as [alchemy](AlchemicalChemicalConcoction.md), cooking, [arcane lore](#arcane-lore), etc.</q>
 
-__Based On:__ [<span title='Adventure & Space'>Knowledge</span>](Knowledge.md), [<span title='Fantasy'>Intellect</span>](Intellect.md) | Perception
+__Based On:__ [<span title='Adventure & Space'>Knowledge</span>](Knowledge.md), [<span title='Fantasy'>Intellect</span>](Intellect.md) & Perception
 
 Specialization
 --------------

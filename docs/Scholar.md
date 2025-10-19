@@ -1,35 +1,70 @@
 Scholar
 =======
 
-> Understanding of aliens not of the character's own species and their physiology, customs, and history. (<cite>Space</cite>, __aliens__)
-
-> Familiarity with astrographic features (planets, star systems, nebulae), and general knowledge of any civilized elements present (settlements, industry, government, orbital installations). (_Space_, __astrography__)
-
-> Knowledge of and ability to use a bureaucracy's intricate procedures to gain information, and favors, or attain other goals. (_Space_, __bureaucracy__)
-
-> Understanding of the manners, customs, and social expectations of different cultures, including one's own. (_Space_, __cultures__)
-
-> This skill represents knowledge and/or education in areas not covered under any other skill[...]. This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can't actually use it. Scholar can be useful with investigation to narrow a search for information. (_Adventure_, _Space_, _Fantasy_, __scholar__)
-
-> Understanding of how law enforcement organizations, regulations, and personnel operate. (_Space_, __security regulations__)
-
-> Familiarity with deploying military forces and maneuvering them to the best advantage. (_Space_, __tactics__)
+> __scholar:__ This skill represents knowledge and/or education in areas not covered under any other skill(such as...). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can't actually use it. Scholar can be useful with investigation to narrow a search for information.
+<br/><br/>
+_Adventure:_ <q>such as [chemistry](AlchemicalChecmicalConcotion.md), mathematics, archaeology, interior design, etc.</q><br/>
+_Space:_ <q>such as [chemistry](AlchemicalChecmicalConcotion.md), mathematics, archaeology, cooking, art, etc.</q><br/>
+_Fantasy:_ <q>such as [alchemy](AlchemicalChecmicalConcotion.md), cooking, [arcane lore](#arcane-lore), etc.</q>
 
 __Based On:__ <span title='Adventure & Space'>Knowledge</span>, <span title='Fantasy'>Intellect</span>
 
-__Note:__ In _D6 Space_, Astrography and Navigation are two separate skills.
+__Specialization:__ Characters can take multiple specializations of the Scholar skill. Each specialization applies to a different field of study.
 
-### Aliens
+### <span title='Space: Knowledge'>Aliens</span>
 
-### Astrography
+__Description:__ Understanding of aliens not of the character's own species and their physiology, customs, and history. (<cite>Space</cite>, __aliens__)
 
-### Bureaucracy
+See also [Cultures](Scholar.md#cultures)
 
-### Command
+### Arcane Lore
 
-See [Command](Command.md)
+__Description:__ Those possessing this skill know the rumors, tales, and legends of magic (the GM should increase the difficulty for each attempt by the length of time since the occurence at a rate of +1 for every century).
 
-### Cultures
+<table>
+  <tr>
+    <th>Lore</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>Famous wizards</td>
+    <td>Very Easy</td>
+  </tr>
+  <tr>
+    <td>Enchanted item types</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>Individual spells and their effect</td>
+    <td>Moderate</td>
+  </tr>
+  <tr>
+    <td>Precise locations of supposedly magical areas</td>
+    <td>Difficult</td>
+  </tr>
+  <tr>
+    <td>Histories of specific enchanted items</td>
+    <td>Very Difficult</td>
+  </tr>
+</table>
+
+### <span title='Space: Knowledge'>Astrography</span>
+
+__Description:__ Familiarity with astrographic features (planets, star systems, nebulae), and general knowledge of any civilized elements present (settlements, industry, government, orbital installations). (_Space_, __astrography__)
+
+See also [Navigation](Navigation.md#astrography)
+
+### <span title='Space: Knowledge'>Bureaucracy</span>
+
+__Description:__ Knowledge of and ability to use a bureaucracy's intricate procedures to gain information, and favors, or attain other goals. (_Space_, __bureaucracy__)
+
+See also [Cultures](Scholar.md#cultures)
+
+### <span title='Adventure & Space'>Cultures</span>
+
+__Description:__ Understanding of the manners, customs, and social expectations of different cultures, including one's own. (_Space_, __cultures__)
+
+See also [Etiquette](Persuasion.md#etiquette)
 
 ### History of &lt;Area or Nationality or Species&gt;
 
@@ -37,15 +72,25 @@ __Used By:__ Archaeologist, [Scholar](ScholarProfession.md)
 
 ### Secret Societies
 
-__Used By:__ Sherrif
+__Used By:__ Sheriff
 
 ### Sect Knowledge
 
 __Used By:__ Archaeologist, Infiltrator, Theurist
 
-### Security Regulations
+### <span title='Space'>Security Regulations</span>
 
-### Tactics
+> Understanding of how law enforcement organizations, regulations, and personnel operate. (_Space_, __security regulations__)
+
+See also [Cultures](Scholar.md#cultures)
+
+See also [Security](Traps.md#security-regulations)
+
+### <span title='Space'>Tactics</span>
+
+> Familiarity with deploying military forces and maneuvering them to the best advantage. (_Space_, __tactics__)
+
+See also [Command](Command.md#tactics)
 
 No Attribute
 ----
@@ -55,28 +100,9 @@ Scholar is a stand-in for the [Knowledge](Knowledge.md) attribute.
 Notes
 -----
 
-Scholar might accumulate the following skills under its domain. Some of them
-are separate skills in certain genre books, while others are suggested in the
-description(s) of Scholar itself.
+Scholar might accumulate many skills under its domain, or be spun out into different skills like in _D6 Space_.
 
-- *aliens* (Knowledge (*Space*))
-- *alchemy* (Scholar (*Fantasy*))
-- *arcane lore* (Scholar (*Fantasy*))
-- *archeology*  (Scholar (*Adventure*, *Space*))
-- *art* (Scholar (*Space*))
-- *astrography* (Knowledge (*Space*))
-- *bureaucracy* (Knowledge (*Space*))
-- *chemistry* (Scholar (*Adventure*, *Space*))
-- *cooking* (Scholar (*Space*, *Fantasy*))
-- *cultures* (Knowledge (*Space*)), (Intellect (*Fantasy*))
-- *interior design* (Scholar (*Adventure*))
-- *mathematics* (Scholar (*Adventure*, *Space*))
-- *security regulations* (Knowledge (*Space*))
-- *tactics* (Knowledge (*Space*))
-
-The defining characteristic of Scholar is specializing in academic knowledge
-of a subject, but needing other skills in order to properly apply the
-knowledge.
+A defining characteristic of Scholar is specializing in academic knowledge of a subject, but needing other skills in order to properly apply the knowledge.
 
 <table>
 <caption>genre conversion for Scholar</caption>

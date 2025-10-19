@@ -21,3 +21,8 @@ No Attribute
 ------------
 
 Mechanical can be replaced by the [Repair](RepairCraft.md) skill.
+
+Notes
+-----
+
+Mechanical is a D6 [Attribute](index.md#attributes).

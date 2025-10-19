@@ -11,14 +11,16 @@ See [Lockpicking](SleightOfHand.md#lockpicking)
 
 See [Throwing](Throwing.md)
 
-Categorization
---------------
-
-An easy rule-of-thumb for classifying a skill under Coordination is to ask whether it is a "fine motor skill". See [Fine motor skill - Wikipedia](https://en.wikipedia.org/wiki/Fine_motor_skill).
-
 No Attribute
 ------------
 
 Coordination can be replaced by the [Sleight of Hand](SleightOfHand.md) skill.
 
 Coordination skills fall under Agility in _D6 Space_.
+
+Notes
+-----
+
+Coordination is a D6 [Attribute](index.md#attributes).
+
+See [Fine motor skill - Wikipedia](https://en.wikipedia.org/wiki/Fine_motor_skill)

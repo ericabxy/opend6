@@ -22,3 +22,4 @@ $(VENV)/bin/activate: requirements.txt
 clean:
 	$(RM) -rf __pycache__
 	$(RM) -rf $(VENV)
+	$(RM) docs/*.html

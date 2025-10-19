@@ -30,3 +30,5 @@ Notes
 -----
 
 Since most mental abilities rely on a person's perception (gaining knowledge, figuring things out, recognizing patterns, employing empathy), this attribute can govern ALL mental skills if needed. See [Cognition - Wikipedia](https://en.wikipedia.org/wiki/Cognition).
+
+Perception is a D6 [Attribute](index.md#attributes).

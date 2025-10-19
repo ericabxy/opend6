@@ -15,3 +15,8 @@ System Book Skills
 ### Mind Worm
 
 ### Telekinesis
+
+Notes
+-----
+
+Psionic Power is a D6 [Attribute](index.md#attributes).

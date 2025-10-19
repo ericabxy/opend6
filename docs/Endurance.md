@@ -9,3 +9,8 @@ No Attribute
 ------------
 
 Endurance can be replaced by the [Stamina](Stamina.md) skill.
+
+Notes
+-----
+
+Endurance is a D6 [Attribute](index.md#attributes).

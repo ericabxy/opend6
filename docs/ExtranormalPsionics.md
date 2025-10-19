@@ -25,3 +25,9 @@ Skills
 ### Telekinesis
 
 ### Telepathy
+
+See Also
+--------
+
+- [Adventure System](AdventureSystem.md)
+- [Psionic Power](PsionicPower.md)

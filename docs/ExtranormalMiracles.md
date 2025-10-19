@@ -30,3 +30,9 @@ Skills and Invocations
 - Fighting Tree
 - Spiritual Bolt
 - Undead Warrior
+
+See Also
+--------
+
+- [Fantasy System](FantasySystem.md)
+- [Magic](Magic.md)

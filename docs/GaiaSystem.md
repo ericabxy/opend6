@@ -1,8 +1,10 @@
 Children of Gaia
 ----------------
 
-Attributes
-----------
+_Children of Gaia_ is a superpower setting with characters that have elemental, psychic, and other supernatural powers.
+
+Attributes and Skills
+---------------------
 
 ### Coordination
 

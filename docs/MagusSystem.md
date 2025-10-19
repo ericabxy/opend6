@@ -4,15 +4,21 @@ Magus System
 Attributes and Skills
 ---------------------
 
-- [Agility](Reflexes.md)
+_[Agility](Reflexes.md):_ Hand-eye coordination and full-body agility, used to target and dodge magic spells.
+
   - Aim
   - Dodge
-- Strength
-- [Wisdom/Lore](Knowledge.md)
+
+_[Strength](Strength.md):_ Raw muscular power and ability to resist pain and physical damage.
+
+_[Wisdom/Lore](Knowledge.md):_ Knowledge of arcane principles and theories, used to create and identify magical effects.
+
   - Alchemy
   - Arcane Lore
   - Theurgy
-- [Spellcraft](Magic.md)
+
+_[Spellcraft](Magic.md):_ Ability to cast various magic spells through gestures, incantation, or will.
+
   - Charm
   - Farsight
   - Healing
@@ -21,7 +27,9 @@ Attributes and Skills
   - Teleportal
   - Slow
   - Telekinesis
-- Willpower
+
+_[Willpower](Willpower.md):_ Mental fortitude and ability to resist stress and metaphysical damage.
+
   - Meditation
 
 Powers

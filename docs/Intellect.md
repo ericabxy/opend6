@@ -11,3 +11,8 @@ No Attribute
 ------------
 
 Intellect can be replaced by the [Know-how](Know-how.md) skill.
+
+Notes
+-----
+
+Intellect is a D6 [Attribute](index.md#attributes).

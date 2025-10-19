@@ -42,3 +42,8 @@ No Attribute
 ------------
 
 Confidence can be replaced by the [Persuasion](Persuasion.md) skill.
+
+Notes
+-----
+
+Confidence is a D6 [Attribute](index.md#attributes).

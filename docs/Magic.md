@@ -9,3 +9,8 @@ Mentioned Skills
 ----------------
 
 See [Theurgy](Theurgy.md)
+
+Notes
+-----
+
+Magic is a D6 [Attribute](index.md#attributes).

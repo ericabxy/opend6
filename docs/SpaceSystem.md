@@ -84,7 +84,7 @@ Attributes and Skills
 - [Security](Traps.md#security)
 - [Vehicle Repair](RepairCraft.md#vehicle-repair)
 
-### Extranormal: Metaphysics
+### [Extranormal: Metaphysics](ExtranormalMetaphysics.md)
 
 - Channel
 - Sense

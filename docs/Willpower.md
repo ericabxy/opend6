@@ -14,3 +14,8 @@ No Attribute
 ------------
 
 Willpower can be replaced by the [Mettle](Mettle.md) skill.
+
+Notes
+-----
+
+Willpower is a D6 [Attribute](index.md#attributes).

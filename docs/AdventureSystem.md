@@ -71,14 +71,14 @@ Attributes and Skills
 - [Persuasion](Persuasion.md)
 - [Willpower](Mettle.md)
 
-### Extranormal: Magic
+### [Extranormal: Magic](ExtranormalMagic.md)
 
 - Alteration
 - Apportation
 - Conjuration
 - Divination
 
-### Extranormal: Psionics
+### [Extranormal: Psionics](ExtranormalPsionics.md)
 
 - Astral Projection
 - Empathy

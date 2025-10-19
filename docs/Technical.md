@@ -7,6 +7,9 @@ __Alternate Names:__ <span title='Solar'>Technology</span>
 
 By combining [Knowledge](Knowledge.md) and [Coordination](Coordination.md), Technical is a kind of applied Knowledge attribute.
 
+Mentioned Skills
+----------------
+
 See [Computer Interface/Repair](Tech.md#computer-interface-repair)
 
 See [Security](Security.md)
@@ -19,3 +22,8 @@ No Attribute
 ------------
 
 Technical can be replaced by the [Tech](Tech.md) skill.
+
+Notes
+-----
+
+Technical is a D6 [Attribute](index.md#attributes).

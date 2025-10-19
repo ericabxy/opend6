@@ -1,16 +1,16 @@
 Dungeon Crawl
 -------------
 
-Attributes
-----------
+Attributes and Skills
+---------------------
 
-### Strength
+### [Strength](Strength.md)
 
 - [Climbing](ClimbJump.md#climbing)
 - [Jumping](ClimbJump.md#jumping)
 - [Swimming](Swimming.md)
 
-### Dexterity (Coordination, Reflexes)
+### [Dexterity](Coordination.md)
 
 - [Acrobatics](Acrobatics.md)
 - [Hide](Hide.md)
@@ -19,11 +19,11 @@ Attributes
 - [Sleight of Hand](SleightOfHand.md#pick-pocket)
 - [Sneak](Sneak.md)
 
-### Constitution (Endurance)
+### [Constitution](Endurance.md)
 
 - [Stamina](Stamina.md)
 
-### Intelligence
+### [Intelligence](Intellect.md)
 
 - [Crafting](RepairCraft.md#crafting)
   - Appraisal
@@ -39,13 +39,13 @@ Attributes
   - Knowledge
   - [Theurgy](Scholar.md#theurgy)
 
-### [Wisdom] (Knowledge, Perception)
+### [Wisdom](Knowledge.md)
 
 - [Healing](Medicine.md#healing)
 - [Perception](Search.md#perception)
 - [Survival](Survival.md)
 
-### Charisma
+### [Charisma](Confidence.md)
 
 - [Animal Handling](Persuasion.md#animal-handling)
 - [Bluff](Con.md#bluff)

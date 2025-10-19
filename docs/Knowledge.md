@@ -41,3 +41,5 @@ Notes
 -----
 
 See [Knowledge - Wikipedia](https://en.wikipedia.org/wiki/Knowledge)
+
+Knowledge is a D6 [Attribute](index.md#attributes).

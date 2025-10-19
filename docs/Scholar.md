@@ -1,5 +1,5 @@
 Scholar
-=======
+-------
 
 > __scholar:__ This skill represents knowledge and/or education in areas not covered under any other skill(such as...). This may be restricted to a specific field (represented by specializations) or a general knowledge of a wide range of subjects. It is used to remember details, rumors, tales, legends, theories, important people, and the like, as appropriate for the subject in question. However, the broader the category, the fewer the details that can be recalled. It covers what the character himself can recall. Having another skill as a specialization of the scholar skill means that the character knows the theories and history behind the skill but can't actually use it. Scholar can be useful with investigation to narrow a search for information.
 <br/><br/>
@@ -9,7 +9,10 @@ _Fantasy:_ <q>such as [alchemy](AlchemicalChecmicalConcotion.md), cooking, [arca
 
 __Based On:__ <span title='Adventure & Space'>Knowledge</span>, <span title='Fantasy'>Intellect</span>
 
-__Specialization:__ Characters can take multiple specializations of the Scholar skill. Each specialization applies to a different field of study.
+Specialization
+--------------
+
+Characters can take multiple specializations of the Scholar skill. Each specialization applies to a different field of study.
 
 ### <span title='Space: Knowledge'>Aliens</span>
 

@@ -9,11 +9,18 @@ Con
 
 __Alternative Names:__ <span title='Adventure & Space'>Con</span>, <span title='Fantasy'>Bluff</span>
 
-__Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
+__Based On:__ <span title='Space & System Book'>Perception</span>, <span title='Adventure & System Book'>Presence</span>, <span title='Fantasy'>Charisma</span>
+
+Specializations
+---------------
 
 ### Assume Identity
 
 __Used By:__ Bodyguard, Cardsharper, Infiltrator, Investigator, Saboteur, Smuggler, Spy
+
+### Bluff
+
+Con is called Bluff in _D6 Fantasy_. Although the names appear essentially synonymous, Bluff could be considered a specific subset or specialization of Con.
 
 ### Disguise
 
@@ -21,17 +28,21 @@ __Used By:__ Bodyguard, Cardsharper, Infiltrator, Investigator, Saboteur, Smuggl
 
 __Based On:__ <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
 
+### Theatrics
+
+__Description:__ This skill measures a character's ability to fool others into believing he is someone else. The _theatrics_ skill total generated for a given attempt becomes the difficulty needed for another character to see through the performance (usually a Perception roll).
+
+__Used By:__ Infiltrator, [Performer](Performer.md)
+
+No Attribute
+------------
+
+Con can be a stand-in for the [Confidence](Confidence.md) attribute along with [Persuasion](Persuasion.md).
+
 Notes
 -----
 
-Con is the same as a skill called Bluff in *D6 Fantasy*, with minor differences
-in wording. Disguise is covered by Con in *D6 Space*.
-
-The Confidence attribute is known by alternate names, Presence and Charisma, in
-<cite>D6 Adventure</cite>, <cite>D6 Fantasy</cite>. <cite>D6 Space</cite>
-combines Confidence and Perception into one attribute. A close reading of the
-optional attributes in *System Book Chapter 3* suggests Con could be a skill
-governed by either Perception or Confidence.
+The word "Con" refers to a ["scam"](https://en.wikipedia.org/wiki/Scam) or "confidence trick".
 
 <table>
 <caption>genre conversion for Con</caption>

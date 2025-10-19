@@ -5,11 +5,33 @@ Confidence
 
 __Alternate Names:__ Charm, <span title='Adventure'>Presence</span> | <span title='Fantasy'>Charisma</span>
 
+Alacarte Skills
+---------------
+
 See [Public Speaking](Persuasion.md#public-speaking)
 
 See [Theatrics](Persuasion.md#theatrics)
 
 See [Etiquette](Persuasion.md#etiquette)
+
+Interaction Skills
+------------------
+
+See [Bluff](Con.md#bluff)
+
+See [Charm](Persuasion.md#charm)
+
+See [Con](Con.md)
+
+See [Intimidation](Initimidation.md)
+
+See [Persuasion](Persuasion.md)
+
+__Presence-Based Skills:__ charm, con, intimidation, persuasion
+
+__Interaction Skills (Perception, Knowledge):__ con, intimidation, persuasion
+
+__Interaction Skills (Charisma):__ bluff, charm, intimidation, persuasion
 
 Presence
 --------

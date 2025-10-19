@@ -7,8 +7,10 @@ Sleight of Hand
 
 __Based On:__ <span title='Space'>Agility</span>, <span title='Adventure & Fantasy'>Coordination</span>
 
-Lockpicking
------------
+Specializations
+---------------
+
+### Lockpicking
 
 > Opening a mechanical lock without possessing the key or combination. (_Fantasy_, __lockpicking__)
 

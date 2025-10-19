@@ -5,6 +5,9 @@ Perception
 
 __Alternate Names:__ Awareness, Cognition, <span title='Solar'>Observation</span>, Sense | <span title='Fantasy'>Acumen</span>
 
+Mentioned Skills
+----------------
+
 See [Search](Search.md)
 
 See [Bargain](Persuasion.md#bargain)
@@ -13,11 +16,17 @@ See [Command](Command.md)
 
 See [Persuasion](Persuasion.md)
 
-### Cognition
+Interaction Skills
+------------------
 
-Since most mental abilities rely on a person's perception (gaining knowledge, figuring things out, recognizing patterns, employing empathy), this attribute can be used as a catch-all if you only have room for one mental attribute in a game system. See [Cognition - Wikipedia](https://en.wikipedia.org/wiki/Cognition).
+In _D6 Space_, [Con](Con.md) and [Persuasion](Persuasion.md) are governed by the Perception attribute.
 
 No Attribute
 ------------
 
-Perception can be replaced by the [Search](Search.md) skill.
+The primary application of Perception can be replaced by the [Search](Search.md) skill.
+
+Notes
+-----
+
+Since most mental abilities rely on a person's perception (gaining knowledge, figuring things out, recognizing patterns, employing empathy), this attribute can govern ALL mental skills if needed. See [Cognition - Wikipedia](https://en.wikipedia.org/wiki/Cognition).

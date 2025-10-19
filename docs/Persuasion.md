@@ -35,10 +35,6 @@ __Used By:__ Smuggler
 
 ### Public Speaking
 
-### Theatrics
-
-__Used By:__ Infiltrator, Performer
-
 No Attribute
 ------------
 

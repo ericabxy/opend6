@@ -3,6 +3,9 @@ Alacarte System
 
 Alacarte is a catalog of the 48 skills listed in Chapter Four of the _System Book_. Each skill has either a dedicated page, or a specialization entry under another skill.
 
+Attributes and Skills
+---------------------
+
 ### [Coordination](Coordination.md)
 
 - [Lockpicking](SleightOfHand.md#lockpicking)

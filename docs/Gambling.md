@@ -5,6 +5,12 @@ Gambling
 
 __Based On:__ <span title='Adventure & Space'>Perception</span>, <span title='Fantasy'>Acumen</span>
 
+### Gambling
+
+__Based On:__ Perception, Presence
+
+__Used By:__ Cardsharper, [Spellslinger](Spellslinger.md)
+
 Notes
 -----
 

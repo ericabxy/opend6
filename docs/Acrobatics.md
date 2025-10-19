@@ -9,8 +9,15 @@ Acrobatics
 
 __Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Space & Fantasy'>Agility</span>
 
-Contortion
-----------
+### Acrobatics
+
+### Balance
+
+__Based On:__ Perception, Reflexes
+
+__Used By:__ Pilot, Spelljacker, Spy, [Weapon Master](WeaponMaster.md)
+
+### Contortion
 
 > Escaping from otherwise secure physical bonds by twisting, writhing,
 > and contorting the body. (_Adventure_, _Fantasy_, __contortion__)

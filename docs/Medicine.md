@@ -9,6 +9,26 @@ Medicine
 
 __Alternative Names:__ <span title='Adventure & Space'>Medicine</span>, <span title='Fantasy'>Healing</span>
 
+### Diagnose Malady
+
+__Alternate Names:__ Diagnose Malaise
+
+__Based On:__ Intellect, Perception
+
+__Used By:__ Corporealist/Biologist, Healer/Apothecrist/Doctor
+
+### First Aid
+
+__Based On:__ Knowledge, Intellect, Perception, Reflexes
+
+__Used By:__ Explorer, Healer/Apothecrist/Doctor
+
+### Healing
+
+__Based On:__ Knowledge, Intellect, Perception, Reflexes
+
+__Used By:__ Corporealist/Biologist, Healer/Apothecrist/Doctor
+
 Notes
 -----
 

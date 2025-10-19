@@ -5,9 +5,15 @@ Investigation
 
 __Based On:__ <span title='Adventure & Space'>Perception</span>, <span title='Fantasy'>Acumen</span>
 
-### Database Use
+### Information Gathering
 
-### Library Use
+__Based On:__ Perception, Presence
+
+__Used By:__ Demon Hunter, Investigator, Sheriff, Spelljacker, Spy, Tracker/Bounty Hunter
+
+### Library Use/Database Use
+
+__Based On:__ Knowledge, Intellect, Perception
 
 __Used By:__ Archaeologist, Corporealist/Biologist, Scholar, Spelljacker, Theurist
 

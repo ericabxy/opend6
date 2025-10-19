@@ -17,6 +17,8 @@ __Description:__ Understanding of aliens not of the character's own species and 
 
 See also [Cultures](Scholar.md#cultures)
 
+### Anatomy
+
 ### Arcane Lore
 
 __Description:__ Those possessing this skill know the rumors, tales, and legends of magic (the GM should increase the difficulty for each attempt by the length of time since the occurence at a rate of +1 for every century).
@@ -66,17 +68,29 @@ __Description:__ Understanding of the manners, customs, and social expectations 
 
 See also [Etiquette](Persuasion.md#etiquette)
 
+### Heraldry
+
+__Based On:__ Knowledge, Intellect, Perception
+
+__Used By:__ Archaeologist, Knight
+
 ### History of &lt;Area or Nationality or Species&gt;
 
 __Used By:__ Archaeologist, [Scholar](ScholarProfession.md)
 
+### Law
+
+__Alternate Names:__ Corpus Juris
+
+__Used By:__ [Scholar](ScholarProfession.md), Sheriff
+
 ### Secret Societies
 
-__Used By:__ Sheriff
+__Alternate Names:__ Sect Knowledge
 
-### Sect Knowledge
+__Based On:__ Knowledge, Intellect, Perception
 
-__Used By:__ Archaeologist, Infiltrator, Theurist
+__Used By:__ Sheriff, Archaeologist, Infiltrator, Theurist
 
 ### <span title='Space'>Security Regulations</span>
 

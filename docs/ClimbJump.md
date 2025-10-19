@@ -7,21 +7,27 @@ Climbing and Jumping are skills of Reflexes or Agility in _D6 Adventure_ and
 _D6 Fantasy_. _D6 Space_ combines them into a Strength skill called Climb/Jump.
 Climb/Jump is worded more like Jumping ("over obstacles").
 
-__Based On:__ <span title='Space'>Strength</span>
+__Based On:__ <span title='Space'>Strength</span> | <span title='System Book'>Reflexes</span>
 
-Climbing
---------
+### Climbing
 
 > Scaling various surfaces. (_Adventure_, _Fantasy_, __climbing__)
 
 __Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Fantasy'>Agility</span>
 
-Jumping
--------
+### Jumping
 
 > Leaping over obstacles. (_Adventure_, _Fantasy_, __jumping__)
 
 __Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Fantasy'>Agility</span>
+
+### Scaling
+
+__Alternate Names:__ Rock Climbing
+
+__Based On:__ Reflexes, Strength
+
+__Used By:__ [Explorer](Explorer.md), Investigator, Saboteur, Spelljacker, Spy
 
 Notes
 -----

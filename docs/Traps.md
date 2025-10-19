@@ -7,20 +7,23 @@ Traps
 
 __Based On:__ <span title='Space'>Technical</span>, <span title='Adventure'>Knowledge</span>, <span title='Fantasy'>Intellect</span>
 
-Demolitions
------------
+### Demolitions
 
 > Setting explosives to achieve particular destructive effects. (_Space_, __demolition__)
 
 > Using corrosives and explosives to achieve particular destructive effects. (_Adventure_, __demolitions__)
 
-Security
---------
+### Security
 
-Security Regulations/Cultures
------------------------------
+### Security Regulations/Cultures
 
 See [Scholar:Security Regulations](Scholar.md#security-regulations)
+
+### Traps
+
+__Based On:__ Perception, Reflexes
+
+__Used By:__ Archaeologist, Bodyguard, [Explorer](Explorer.md), Saboteur, Spelljacker
 
 Notes
 -----

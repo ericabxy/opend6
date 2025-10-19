@@ -11,22 +11,23 @@ __Based On:__ <span title='Adventure'>Knowledge</span>, <span title='Fantasy'>In
 
 Tech represents an understanding of complex technologies. You can use, design, and even fix technologically advanced equipment and devices, but making or building anything requires additional skill in [Crafting](Crafting.md).
 
-Comm
-----
+### Comm
 
 > Effectively using communication devices and arrays. (_Space_, __comm__)
 
 __Based On:__ <span title='Space'>Mechanical</span>
 
-Sensors
--------
+### Computer Operations
+
+__Based On:__ Intellect, Knowledge, Technical
+
+### Sensors
 
 > Operating scanner arrays to gather information about one's surroundings. (_Space_, __sensors__)
 
 __Based On:__ <span title='Space'>Mechanical</span>
 
-Shields
--------
+### Shields
 
 > Deploying and redirecting shields aboard vehicles. (_Space_, __shields__)
 

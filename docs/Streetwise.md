@@ -9,9 +9,15 @@ __Based On:__ <span title='Space'>Knowledge</span>, <span title='Adventure'>Perc
 
 ### Contacts
 
+__Based On:__ Perception, Presence
+
+__Used By:__ Cardsharper, Investigator, Sheriff, Smuggler
+
 ### Urban Geography
 
 __Based On:__ Knowledge, Intellect, Perception
+
+__Used By:__ Cardsharper, Cartographer, Investigator, Sheriff
 
 __Description:__ A character who knows urban geography can locate public transportation, governmental buildings, and other specific structures. Prowess in this skill allows him to navigate grid streets, subways, and city sewer systems. A successful skill check means that the character can find his way to his destination in half the normal amount of time and without getting lost. Failure means he either simply cannot locate his destination or he becomes utterly lost.
 

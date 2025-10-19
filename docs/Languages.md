@@ -10,12 +10,20 @@ __Based On:__ <span title='Adventure & Space'>Knowledge</span>, <span title='Fan
 Speaking
 --------
 
-__Based On:__ <span title='Fantasy'>Intellect</span>
+__Alternate Names:__ Speak &lt;Language&gt;
+
+__Based On:__ Knowledge, <span title='Fantasy'>Intellect</span>, Perception
+
+__Used By:__ Infiltrator, Outrider, [Spellslinger](Spellslinger.md)
 
 Reading/Writing
 ---------------
 
+__Alternate Names:__ Read/Write &lt;Language&gt;
+
 __Based On:__ <span title='Fantasy'>Intellect</span>
+
+__Used By:__ Archaeologist, Demon Hunter, Infiltrator, Outrider, [Scholar](ScholarProfession.md) [Spellslinger](Spellslinger.md), Theurist
 
 Notes
 -----

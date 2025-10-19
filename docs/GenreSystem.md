@@ -1,7 +1,7 @@
 Genre System
 ------------
 
-There are 71 unique skills shared by the books _D6 Adventure_, _D6 Space_, and _D6 Fantasy_. This comprehensive list combines all of them into 37 based on context clues.
+Genre combines all the skills shared between _D6 Adventure_, _D6 Space_, and _D6 Fantasy_ into a comprehensive list of 37 master skills. Additional skills are listed as specializations on the page for each master skill.
 
 Attributes and Skills
 ---------------------

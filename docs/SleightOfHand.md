@@ -14,6 +14,10 @@ Lockpicking
 
 > Opening a mechanical (not electronic) lock or safe without possessing the key or combination, as well as disarming small mechanical traps. (_Adventure_, __lockpicking__)
 
+__Alternate Names:__ Unlock
+
+__Used By:__ Archaeologist, Demon Hunter, Investigator, Spelljacker, Spy
+
 No Attribute
 ------------
 

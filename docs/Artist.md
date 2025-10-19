@@ -19,13 +19,17 @@ Of note is the fact that Forgery is an ancillary skill that explicitly states in
 
 ### &lt;Creative Ability&gt;
 
-Forgery
--------
+### Forgery
 
-__Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Knowledge</span>
+__Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Knowledge</span>, Coordination, Mechanical
 
-Reading/Writing
----------------
+__Used By:__ Infiltrator, Smuggler
+
+### &lt;Instrument&gt;
+
+__Based On:__ Perception, Presence, Reflexes
+
+### Reading/Writing
 
 __Based On:__ <span title='Fantasy'>Acumen</span>
 

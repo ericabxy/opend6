@@ -11,7 +11,9 @@ __Alternative Names:__ <span title='Adventure & Space'>Con</span>, <span title='
 
 __Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
 
-### Assume Identity (System Book)
+### Assume Identity
+
+__Used By:__ Bodyguard, Cardsharper, Infiltrator, Investigator, Saboteur, Smuggler, Spy
 
 ### Disguise
 

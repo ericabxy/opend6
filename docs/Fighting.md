@@ -15,6 +15,12 @@ __Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Space & Fant
 
 > _Wrestling_ has arisen out of a desire to disable an opponent without causing too much physical harm. Though some have strayed away from this ideal, most who practice wrestling focus on grappling their adversary and physically inhibiting his movements.
 
+### Blindfighting
+
+__Based On:__ Perception, Reflexes
+
+__Used By:__ Bodyguard, Evocator, [Spellslinger](Spellslinger.md), [Weapon Master](WeaponMaster.md)
+
 ### Brawling
 
 > _Brawling_, the least formulaic of the three, includes the typical tavern-fight tactics—from wild haymaker punches to kicks targeted at an opponent's shins (or other, more fragile areas). Most characters that choose a weaponless fighting style will usually learn brawling, the easiest of the three to master.

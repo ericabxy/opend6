@@ -25,11 +25,19 @@ __Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Pre
 
 ### Etiquette
 
+__Based On:__ Knowledge, Intellect, Perception
+
+__Used By:__ Infiltrator
+
 ### Haggling
+
+__Used By:__ Smuggler
 
 ### Public Speaking
 
 ### Theatrics
+
+__Used By:__ Infiltrator, Performer
 
 No Attribute
 ------------

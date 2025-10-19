@@ -61,16 +61,13 @@ Attributes and Skills
 - [Persuasion](Persuasion.md)
 - [Willpower](Mettle.md)
 
-Extranormal Attributes
-----------------------
+### [Extranormal: Magic](ExtranormalMagic.md)
 
-See [Magic](Magic.md#extranormal-magic)
+### [Extranormal: Psionics](ExtranormalPsionics.md)
 
-See [Psionics](PsionicPower.md#extranormal-psionics)
+### [Extranormal: Miracles](ExtranormalMiracles.md)
 
-See [Miracles](Miracles.md)
-
-See [Metaphysics](Metaphysics.md)
+### [Extranormal: Metaphysics](ExtranormalMetaphysics.md)
 
 Methodology
 -----------

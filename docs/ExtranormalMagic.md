@@ -1,6 +1,8 @@
 Extranormal: Magic
 ------------------
 
+__Trait:__ [Extranormal Attribute](Attribute.md#extranormal)
+
 This is a list of "precalculated" magic spells from _D6 Adventure_ and _D6 Fantasy_.
 
 Skills and Spells

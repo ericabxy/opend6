@@ -1,12 +1,12 @@
-Adventure
----------
+Adventure System
+----------------
 
 _D6 Adventure_ combines concepts from action/adventure, modern fantasy, and superhero genres.
 
 Attributes and Skills
 ---------------------
 
-### Reflexes
+### [Reflexes](Reflexes.md)
 
 - [Acrobatics](Acrobatics.md)
 - [Brawling](Fighting.md)
@@ -19,7 +19,7 @@ Attributes and Skills
 - [Riding](Riding.md)
 - [Sneak](Sneak.md)
 
-### Coordination
+### [Coordination](Coordination.md)
 
 - [Lockpicking](SleightOfHand.md#lockpicking)
 - [Marksmanship](Marksmanship.md)
@@ -28,14 +28,14 @@ Attributes and Skills
 - [Sleight of Hand](SleightOfHand.md)
 - [Throwing](Throwing.md)
 
-### Physique
+### [Physique](Strength.md)
 
 - [Lifting](Lifting.md)
 - [Running](Running.md)
 - [Stamina](Stamina.md)
 - [Swimming](Swimming.md)
 
-### Knowledge
+### [Knowledge](Knowledge.md)
 
 - [Business](Business.md)
 - [Demolitions](Traps.md#demolitions)
@@ -47,7 +47,7 @@ Attributes and Skills
 - [Security](Traps.md#security)
 - [Tech](Tech.md)
 
-### Perception
+### [Perception](Perception.md)
 
 - [Artist](Artist.md)
 - [Gambling](Gambling.md)
@@ -60,7 +60,7 @@ Attributes and Skills
 - [Survival](Survival.md)
 - [Tracking](Search.md#tracking)
 
-### Presence
+### [Presence](Confidence.md)
 
 - [Animal Handling](Persuasion.md#animal-handling)
 - [Charm](Persuasion.md#charm)
@@ -71,25 +71,9 @@ Attributes and Skills
 - [Persuasion](Persuasion.md)
 - [Willpower](Mettle.md)
 
-### [Extranormal: Magic](ExtranormalMagic.md)
+### Extranormal
 
-- Alteration
-- Apportation
-- Conjuration
-- Divination
-
-### [Extranormal: Psionics](ExtranormalPsionics.md)
-
-- Astral Projection
-- Empathy
-- Far-sensing
-- Healing
-- Medium
-- Protection
-- Psychometry
-- Strike
-- Telekinesis
-- Telepathy
+Adventure details two supernatural power systems: [Magic](Extranormal.md#magic) and [Psionics](Extranormal.md#psionics).
 
 See Also
 --------

@@ -1,13 +1,18 @@
 Riding
 ------
 
-> __riding:__ Controlling and riding domesticated mounts. (_Adventure, _Space_, _Fantasy_)
+> __riding:__ Controlling and riding domesticated mounts. —<cite>D6 Adventure, Space, and Fantasy, p. 12</cite>
 
 __Alternate Names:__ &lt;Creature&gt; Riding, Ride &lt;Creature&gt;, Riding &lt;Creature&gt;
 
-__Based On:__ <span title='Adventure & System Book'>Reflexes</span>, <span title='Space & Fantasy'>Agility</span> | <span title='System Book'>Mechanical</span>
+__Based On:__ [Reflexes](Reflexes.md), Agility, [Mechanical](Mechanical.md)
+
+__Trait:__ [Skill](Skill.md)
 
 __Used By:__ Knight, Outrider
+
+Specialization
+--------------
 
 ### Dragon Riding
 

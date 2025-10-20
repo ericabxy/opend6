@@ -5,6 +5,8 @@ Magic
 
 __Alternate Names:__ Dweomercraft, Mysticism, Witchcraft | [Chaos Binding](ChaosBinding.md), [Extranormal: Magic](ExtranormalMagic.md), [Extranormal: Miracles](ExtranormalMiracles.md)
 
+__Trait:__ [Attribute](Attribute.md)
+
 Mentioned Skills
 ----------------
 
@@ -13,4 +15,4 @@ See [Theurgy](Theurgy.md)
 Notes
 -----
 
-Magic is a D6 [Attribute](index.md#attributes).
+Magicians and wizards _cast spells_, while religious devotees _invoke miracles_.

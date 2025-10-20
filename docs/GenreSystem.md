@@ -61,13 +61,9 @@ Attributes and Skills
 - [Persuasion](Persuasion.md)
 - [Willpower](Mettle.md)
 
-### [Extranormal: Magic](ExtranormalMagic.md)
+### [Extranormal](Extranormal.md)
 
-### [Extranormal: Psionics](ExtranormalPsionics.md)
-
-### [Extranormal: Miracles](ExtranormalMiracles.md)
-
-### [Extranormal: Metaphysics](ExtranormalMetaphysics.md)
+Characters may have supernatural powers from one of the Extranormal attrubutes Magic, Psionics, Miracles, or Metaphysics.
 
 Methodology
 -----------

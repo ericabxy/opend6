@@ -7,16 +7,16 @@ _Adventure:_ <q>such as [chemistry](AlchemicalChemicalConcoction.md), mathematic
 _Space:_ <q>such as [chemistry](AlchemicalChemicalConcoction.md), mathematics, archaeology, cooking, art, etc.</q><br/>
 _Fantasy:_ <q>such as [alchemy](AlchemicalChemicalConcoction.md), cooking, [arcane lore](#arcane-lore), etc.</q>
 
-__Based On:__ [<span title='Adventure & Space'>Knowledge</span>](Knowledge.md), [<span title='Fantasy'>Intellect</span>](Intellect.md) & Perception
+__Based On:__ [Knowledge](Knowledge.md), [Intellect](Intellect.md), [Perception](Perception.md)
 
 Specialization
 --------------
 
 Characters can take multiple specializations of the Scholar skill. Each specialization applies to a different field of study. Gamemakers can allow for this specialization or extract certain fields of knowledge from Scholar to provide separate skills.
 
-### <span title='Space: Knowledge'>Aliens</span>
+### Aliens
 
-__Description:__ Understanding of aliens not of the character's own species and their physiology, customs, and history. (<cite>D6 Space</cite>, p. 12)
+__Description:__ Understanding of aliens not of the character's own species and their physiology, customs, and history. —<cite>D6 Space, p. 12</cite>
 
 See also [Cultures](Scholar.md#cultures)
 
@@ -25,34 +25,29 @@ See also [Cultures](Scholar.md#cultures)
 __Description:__ Characters with this skill have studied the main functions of the bodies of those species in the animal kingdom.
 
 <table>
-  <tbody>
-      <tr>
-        <th>Action</th>
-        <th>Difficulty</th>
-      </tr>
-      <tr>
-        <td>Guess main functions of a creature's visible features</td>
-        <td>Easy</td>
-      </tr>
-      <tr>
-        <td>Discover creature's weaknesses based on its appearance</td>
-        <td>Moderate</td>
-      </tr>
-      <tr>
-        <td>Alter healing procedures based on specific anatomy†</td>
-        <td>Very Difficult</td>
-      </tr>
-      <tr>
-        <td>Diagnose infections and viruses</td>
-        <td>Heroic</td>
-      </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td colspan='2'>† Adding his _anatomy_ die code as a bonus to his _healing_ skill</td>
-    </tr>
-  </tfoot>
+  <tr>
+    <th>Action</th>
+    <th>Difficulty</th>
+  </tr>
+  <tr>
+    <td>Guess main functions of a creature's visible features</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>Discover creature's weaknesses based on its appearance</td>
+    <td>Moderate</td>
+  </tr>
+  <tr>
+    <td>Alter healing procedures based on specific anatomy†</td>
+    <td>Very Difficult</td>
+  </tr>
+  <tr>
+    <td>Diagnose infections and viruses</td>
+    <td>Heroic</td>
+  </tr>
 </table>
+
+† Adding his _anatomy_ die code as a bonus to his _healing_ skill
 
 __Used By:__ [Corporealist/Biologist](CorporealistBiologist.md), [Healer/Apothecrist/Doctor](HealerApothecristDoctor.md), [Necrologist](Necrologist.md)
 
@@ -87,19 +82,19 @@ __Description:__ Those possessing this skill know the rumors, tales, and legends
   </tr>
 </table>
 
-### <span title='Space: Knowledge'>Astrography</span>
+### Astrography
 
 __Description:__ Familiarity with astrographic features (planets, star systems, nebulae), and general knowledge of any civilized elements present (settlements, industry, government, orbital installations). —<cite>D6 Space, p. 12</cite>
 
 See also [Navigation](Navigation.md#astrography)
 
-### <span title='Space: Knowledge'>Bureaucracy</span>
+### Bureaucracy
 
 __Description:__ Knowledge of and ability to use a bureaucracy's intricate procedures to gain information, and favors, or attain other goals. —<cite>D6 Space, p. 12</cite>
 
 See also [Cultures](Scholar.md#cultures)
 
-### <span title='Adventure & Space'>Cultures</span>
+### Cultures
 
 __Description:__ Understanding of the manners, customs, and social expectations of different cultures, including one's own. —<cite>D6 Space, p. 12</cite>
 
@@ -177,7 +172,7 @@ __Description:__ This skill covers knowledge of groups that act in secrecy.
 
 __Used By:__ [Sheriff](Sheriff.md), [Archaeologist](Archaeologist.md), [Infiltrator](Infiltrator.md), [Theurist](Theurist.md)
 
-### <span title='Space'>Security Regulations</span>
+### Security Regulations
 
 __Description:__ Understanding of how law enforcement organizations, regulations, and personnel operate. —<cite>Space, p. 12</cite>
 
@@ -185,7 +180,7 @@ See also [Cultures](Scholar.md#cultures)
 
 See also [Security](Traps.md#security-regulations)
 
-### <span title='Space'>Tactics</span>
+### Tactics
 
 __Description:__ Familiarity with deploying military forces and maneuvering them to the best advantage. —<cite>Space, p. 13</cite>
 
@@ -204,13 +199,45 @@ A defining characteristic of Scholar is specializing in academic knowledge of a 
 _D6 Space_ includes Scholar but defines several individual fields of knowledge outside of the Scholar skill: Aliens, Astrography, Bureaucracy, Cultures, Security Regulations, and Tactics.
 
 <table>
-<caption>genre conversion for Scholar</caption>
-<tr><td><strong>Space</strong></td><td><strong>Adventure</strong></td><td><strong>Fantasy</strong></td></tr>
-<tr><td>aliens (Knowledge)</td><td>scholar (Knowledge)</td><td>scholar or cultures (Intellect)</td></tr>
-<tr><td>astrography (Knowledge)</td><td>scholar, navigation (Knowledge)</td><td>scholar, navigation (Intellect)</td></tr>
-<tr><td>bureaucracy (Knowledge)</td><td>scholar (Knowledge)</td><td>scholar or cultures (Intellect)</td></tr>
-<tr><td>cultures (Knowledge)</td><td>scholar (Knowledge)</td><td>cultures (Intellect)</td></tr>
-<tr><td>scholar (Knowledge)</td><td>scholar (Knowledge)</td><td>scholar (Intellect)</td></tr>
-<tr><td>security regulations (Knowledge)</td><td>security (Knowledge)</td><td>scholar, cultures (Intellect)</td></tr>
-<tr><td>tactics (Knowledge)</td><td>scholar (Knowledge), command (Presence)</td><td>scholar (Intellect), command (Charisma)</td></tr>
+  <caption>genre conversion for Scholar</caption>
+  <tr>
+    <th>Space</th>
+    <th>Adventure</th>
+    <th>Fantasy</th>
+  </tr>
+  <tr>
+    <td>aliens (Knowledge)</td>
+    <td>scholar (Knowledge)</td>
+    <td>scholar or cultures (Intellect)</td>
+  </tr>
+  <tr>
+    <td>astrography (Knowledge)</td>
+    <td>scholar, navigation (Knowledge)</td>
+    <td>scholar, navigation (Intellect)</td>
+  </tr>
+  <tr>
+    <td>bureaucracy (Knowledge)</td>
+    <td>scholar (Knowledge)</td>
+    <td>scholar or cultures (Intellect)</td>
+  </tr>
+  <tr>
+    <td>cultures (Knowledge)</td>
+    <td>scholar (Knowledge)</td>
+    <td>cultures (Intellect)</td>
+  </tr>
+  <tr>
+    <td>scholar (Knowledge)</td>
+    <td>scholar (Knowledge)</td>
+    <td>scholar (Intellect)</td>
+  </tr>
+  <tr>
+    <td>security regulations (Knowledge)</td>
+    <td>security (Knowledge)</td>
+    <td>scholar, cultures (Intellect)</td>
+  </tr>
+  <tr>
+    <td>tactics (Knowledge)</td>
+    <td>scholar (Knowledge), command (Presence)</td>
+    <td>scholar (Intellect), command (Charisma)</td>
+  </tr>
 </table>

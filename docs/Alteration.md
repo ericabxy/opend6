@@ -7,7 +7,7 @@ Alteration
 
 __Based On:__ Extranormal: Magic
 
-__Trait:__ [Skill](Skill.md#magic)
+__Trait:__ [Skill](Skill.md)
 
 Spells
 ------

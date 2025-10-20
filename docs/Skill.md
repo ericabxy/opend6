@@ -5,9 +5,10 @@ A skill represents a character's level of expertise in a specific area; more nar
 
 A skill can be categorized as a character's _knowledge_ of how to apply an attribute to a specific situation. E.g. a character with good [Reflexes](Reflexes.md) (an attribute) could train to be excellent at [Riding](Riding.md) domesticated mounts (a skill). See [Skill - Wikipedia](https://en.wikipedia.org/wiki/Skill).
 
-Players are usually afforded 7 skill dice to distribute among available skills. A skill starts at the same die code as its base attribute, and each die spent on it raises the code by one die. Dice can be split into pips just like with attributes.
+Creation
+--------
 
-Raising the die code of a skill costs more during character advancement than during character creation.
+Players are usually afforded 7D to distribute among available skills. A skill starts at the same die code as its base attribute, and each die spent on it raises the code by one die. Dice can be split into pips just like with attributes.
 
 ### Example: Space Smuggler Character with 7 Total Skill Dice
 
@@ -25,8 +26,31 @@ Raising the die code of a skill costs more during character advancement than dur
 - Knowledge: 2D
   - Starports 3D
 
+Advancement
+-----------
+
+Raising the die code of a skill costs more during character advancement than during character creation.
+
 Skill Lists
 -----------
 
 - [A la Carte](AlacarteSystem.md)
 - [D6 Genres](GenreSystem.md)
+
+No Attributes
+-------------
+
+Settings are usually designed with a handful of attributes rather than all of them. If a missing attribute governs a core aspect of the challenge or combat system, it can be covered by one or more skills assigned to the remaining attributes.
+
+- [Sleight of Hand](SleightOfHand.md) covers dexterity and hand-eye Coordination
+- [Stamina](Stamina.md) works identically to Endurance
+- [Acrobatics](Acrobatics.md) can stand in for most applications of Reflexes
+- [Lifting](Lifting.md) determines raw Strength
+- [Scholar](Scholar.md) covers all aspects of Knowledge
+- [Repair](RepairCraft.md) covers the main application of Mechanical
+- [Search](Search.md) stands in for many aspects of Perception
+- [Persuasion](Persuasion.md) covers Confidence and the remaining aspects of Perception
+- [Tech](Tech.md) measures all Technical aptitude
+- [Mettle](Mettle.md) covers Willpower
+
+OpenD6 can even work with no attributes whatsoever. In such a case skills usually start at 2D and players get 15D to distribute among them.

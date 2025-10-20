@@ -63,7 +63,7 @@ Attributes and Skills
 
 ### [Extranormal](Extranormal.md)
 
-Characters may have supernatural powers from one of the Extranormal attrubutes Magic, Psionics, Miracles, or Metaphysics.
+See [Magic](ExtranormalMagic.md), [Psionics](ExtranormalPsionics.md), [Miracles](ExtranormalMiracles.md), or [Metaphysics](ExtranormalMetaphysics.md).
 
 Methodology
 -----------

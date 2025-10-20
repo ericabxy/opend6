@@ -3,10 +3,12 @@ Confidence
 
 > This attribute <ins>__Confidence__</ins> represents a character's personal effect on others. It includes such skills as oration, acting, and grooming.
 
-__Alternate Names:__ Charm, <span title='Adventure'>Presence</span> | <span title='Fantasy'>Charisma</span>
+__Alternate Names:__ Charm, Presence, Charisma
 
-Alacarte Skills
----------------
+__Trait:__ [Attribute](Attribute.md)
+
+Mentioned Skills
+----------------
 
 See [Public Speaking](Persuasion.md#public-speaking)
 
@@ -27,12 +29,6 @@ See [Intimidation](Initimidation.md)
 
 See [Persuasion](Persuasion.md)
 
-__Presence-Based Skills:__ charm, con, intimidation, persuasion
-
-__Interaction Skills (Perception, Knowledge):__ con, intimidation, persuasion
-
-__Interaction Skills (Charisma):__ bluff, charm, intimidation, persuasion
-
 Presence
 --------
 
@@ -42,8 +38,3 @@ No Attribute
 ------------
 
 Confidence can be replaced by the [Persuasion](Persuasion.md) skill.
-
-Notes
------
-
-Confidence is a D6 [Attribute](index.md#attributes).

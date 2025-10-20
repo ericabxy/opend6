@@ -9,6 +9,8 @@ _Fantasy:_ <q>such as [alchemy](AlchemicalChemicalConcoction.md), cooking, [arca
 
 __Based On:__ [Knowledge](Knowledge.md), [Intellect](Intellect.md), [Perception](Perception.md)
 
+__Trait:__ [Skill](Skill.md)
+
 Specialization
 --------------
 

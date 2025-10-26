@@ -8,7 +8,7 @@ This is a list of "precalculated" magic spells from _D6 Adventure_ and _D6 Fanta
 Skills and Spells
 -----------------
 
-### Alteration
+### [Alteration](Alteration)
 
 - <span title='Fantasy'>Charm</span> (Cantrip)
 - Countermagic

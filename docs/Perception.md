@@ -1,34 +1,36 @@
 Perception
 ----------
 
-> Sometimes a character may have the opportunity to notice something in his surroundings that might provide an important piece of information. For example, a character might spot a bulging pocket on an adversary, which may indicate the presence of a concealed weapon. The __Perception__ attribute covers such instances as well as those skills that require the ability to read the emotions or logical reasoning of another, like bargaining, commanding, or persuading.
+> Sometimes a character may have the opportunity to notice something in his surroundings that might provide an important piece of information. For example, a character might spot a bulging pocket on an adversary, which may indicate the presence of a concealed weapon. The __Perception__ attribute covers such instances as well as those skills that require the ability to read the emotions or logical reasoning of another, like bargaining, commanding, or persuading. ---<cite>D6 System Book</cite>
 
-__Alternate Names:__ Awareness, Cognition, <span title='Solar'>Observation</span>, Sense | <span title='Fantasy'>Acumen</span>
+__Alternate Names:__ Awareness, Cognition, Observation, Sense, Acumen
 
 Mentioned Skills
 ----------------
 
-See [Search](Search.md)
+See [Search](Search)
 
-See [Bargain](Persuasion.md#bargain)
+See [Bargain](Persuasion#bargain)
 
-See [Command](Command.md)
+See [Command](Command)
 
-See [Persuasion](Persuasion.md)
+See [Persuasion](Persuasion)
 
 Interaction Skills
 ------------------
 
-In _D6 Space_, [Con](Con.md) and [Persuasion](Persuasion.md) are governed by the Perception attribute.
+__Skills covered:__ [Bluff](Con#bluff), [Charm](Persuasion#charm), [Con](Con), [Intimidation](Intimidation), [Persuasion](Persuasion)
+
+A character uses these skills to influence other characters and creatures. They usually fall under the Perception, [Confidence](Confidence), or [Knowledge](Knowledge) attribute.
 
 No Attribute
 ------------
 
-The primary application of Perception can be replaced by the [Search](Search.md) skill.
+The primary application of Perception can be replaced by the [Search](Search) skill.
 
 Notes
 -----
 
 Since most mental abilities rely on a person's perception (gaining knowledge, figuring things out, recognizing patterns, employing empathy), this attribute can govern ALL mental skills if needed. See [Cognition - Wikipedia](https://en.wikipedia.org/wiki/Cognition).
 
-Perception is a D6 [Attribute](index.md#attributes).
+Perception is a D6 [Attribute](index#attributes).

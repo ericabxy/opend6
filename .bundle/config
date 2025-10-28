@@ -1,2 +1,2 @@
 ---
-BUNDLE_PATH: "/home/erekir/.gems"
+BUNDLE_PATH: "vendor/bundle"

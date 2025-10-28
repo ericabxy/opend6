@@ -34,17 +34,17 @@ Raising the die code of a skill costs more during character advancement than dur
 Groups
 ------
 
-__Combat Skills:__ [Brawling](Fighting#brawling), [Dodge](Dodge), [Firearms](Marksmanship#firearms), [Marksmanship](Marksmanship), [Melee Combat](MeleeCombat), [Missile Weapons](Marksmanship#missile-weapons), [Gunnery](Tech#gunnery), [Throwing](Throwing)
+__Athletics Skills:__ [Acrobatics](Acrobatics), [Flying](Flying), [Lifting](Lifting), [Running](Running), [Stamina](Stamina), [Swimming](Swimming), [Throwing](Throwing)
+
+__Combat Skills:__ [Brawling](Fighting#brawling), [Dodge](Dodge), [Firearms](Marksmanship#firearms), [Marksmanship](Marksmanship), [Melee Combat](MeleeCombat), [Missile Weapons](Marksmanship#missile-weapons), [Gunnery](Tech#gunnery)
 
 __Information Skills:__ [Aliens](Scholar#aliens), [Astrography](Scholar#astrography), [Bureaucracy](Scholar#bureaucracy), [Business](Business), [Cultures](Scholar#cultures), [Devices](Tech#devices), [Scholar](Scholar), [Security Regulations](Scholar#security-regulations), [Tech](Tech), [Trading](Business#trading)
 
-__Interaction Skills:__ [Bluff](Con#bluff), [Charm](Persuasion#charm), [Con](Con), [Intimidation](Intimidation), [Persuasion](Persuasion); a character uses these skills to influence other characters and creatures. They usually fall under the [Perception](Perception), [Confidence](Confidence), or [Knowledge](Knowledge) attribute.
+__Interaction Skills:__ [Bluff/Con](Con), [Charm/Persuasion](Persuasion), [Intimidation](Intimidation); a character uses these skills to influence other characters and creatures. They usually fall under the [Perception](Perception), [Confidence](Confidence), or [Knowledge](Knowledge) attribute.
 
-__Movement Skills:__ [Flying](Flying), [Running](Running), [Swimming](Swimming)
+__Observation Skills:__ [Comm](Tech#comm), [Search/Tracking](Search), [Sensors](Tech#sensors)
 
-__Observation Skills:__ [Comm](Tech#comm), [Search](Search), [Sensors](Tech#sensors), [Tracking](Search#tracking)
-
-__Stealth Skills:__ [Hide](Hide), [Sneak](Sneak), [Stealth](Sneak#stealth)
+__Stealth Skills:__ [Hide](Hide), [Sneak/Stealth](Sneak)
 
 No Attributes
 -------------

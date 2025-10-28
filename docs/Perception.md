@@ -16,13 +16,6 @@ See [Command](Command)
 
 See [Persuasion](Persuasion)
 
-Interaction Skills
-------------------
-
-__Skills covered:__ [Bluff](Con#bluff), [Charm](Persuasion#charm), [Con](Con), [Intimidation](Intimidation), [Persuasion](Persuasion)
-
-A character uses these skills to influence other characters and creatures. They usually fall under the Perception, [Confidence](Confidence), or [Knowledge](Knowledge) attribute.
-
 No Attribute
 ------------
 

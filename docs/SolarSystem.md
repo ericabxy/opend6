@@ -36,10 +36,18 @@ For some fun, the attributes were named in such a way that they could be mistake
 Species
 -------
 
-### Eridians
+### Eridian
 
 Elvish.
 
-### Leonids
+### Leonid
 
-Dwarven. Martial. Swords.
+Dwarven. Martial. Swordsmen.
+
+### Hydian
+
+Merchantile. Orcish.
+
+### Couerl
+
+Intelligent quadripeds with twelve fingers.

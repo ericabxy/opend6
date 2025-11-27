@@ -1,4 +1,8 @@
-OpenD6 is a tabletop role-playing game system designed for versatility by providing rigid rules where they are needed and loose rules for adoption, rejection, and adaptation. The core game mechanic is the definition of several [_attributes_](Attribute) for characters to have varying quantifiable abilities, as well as dozens of [_skills_](Skill) for each character to specialize in.
+OpenD6 is a tabletop role-playing game system designed for versatility by providing rigid rules where they are needed and loose rules for adoption, rejection, and adaptation. The core game mechanic involves a tiered hierarchy of traits.
+
+1. [Attributes](Attribute)
+2. [Skills](Skill)
+3. [Specializations](Specialization)
 
 Genre System
 ------------

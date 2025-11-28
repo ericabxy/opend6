@@ -1,3 +1,7 @@
+---
+permalink: /Attribute
+---
+
 Attribute
 ---------
 

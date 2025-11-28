@@ -1,2 +1,27 @@
-title: Open D6 Extension Project
-source: docs
+title: OpenD6 Extension Project
+
+collections_dir: docs
+
+collections:
+  attributes:
+    output: true
+    permalink: /:path
+  professions:
+    output: true
+    permalink: /:path
+  skills:
+    output: true
+    permalink: /:path
+  genre_skills:
+    output: true
+    permalink: /:path
+  systems:
+    output: true
+    permalink: /:path
+
+default:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'default'

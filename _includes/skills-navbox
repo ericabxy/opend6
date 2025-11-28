@@ -1,0 +1,14 @@
+<table>
+  <tr>
+    <th colspan='2'>Skills</th>
+  </tr>
+  <tr>
+    <th>Genre Skills</th>
+    <td>
+      {% for doc in site.genre_skills %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 OpenD6 is a tabletop role-playing game system designed for versatility by providing rigid rules where they are needed and loose rules for adoption, rejection, and adaptation. The core game mechanic involves a tiered hierarchy of traits.
 
 1. [Attributes](Attribute)
@@ -17,3 +21,19 @@ New Systems
 - [Magus Experiment](MagusSystem.md) - low fantasy wizardry setting
 - [Sample Game System](SimpleSystem.md) - a simple cinematic system found in _System Book_
 - [Solar Frontier](SolarSystem.md) - sci-fi system with themes of science, exploration, and political intrigue
+
+<table>
+  <tr>
+    <th colspan='2'>Collections</th>
+  </tr>
+  {% for collection in site.collections %}
+    <tr>
+      <th>{{ collection.label }}</th>
+      <td>
+        {% for doc in collection.docs %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a> &bull;
+        {% endfor %}
+      </td>
+    </tr>
+  {% endfor %}
+</table>

@@ -17,12 +17,6 @@ __Based On:__ Perception, Acumen
 
 __Used By:__ Bodyguard, [Explorer](Explorer.md), Infiltrator, Investigator, Saboteur, Sherrif, Spelljacker, Spy, [Tracker/Bounty Hunter](TrackerBountyHunter.md)
 
-### Shadowing
-
-__Alternate Names:__ Tailing
-
-__Used By:__ Investigator, Sheriff, Spelljacker, Spy, Tracker/Bounty Hunter
-
 ### Tracking
 
 > Following the trail of another person, animal, or creature, or keeping after a moving target without being noticed. (_Adventure_, _Fantasy_, __tracking__)

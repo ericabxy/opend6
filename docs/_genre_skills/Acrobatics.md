@@ -15,28 +15,8 @@ Acrobatics
 
 __Based On:__ [Reflexes](Reflexes), [Agility](Reflexes)
 
-Specialization
---------------
-
-### Acrobatics
-
-> Characters with this skill can tumble, leap, and roll to avoid falling damage, to entertain an audience, or to surprise an opponent in combat. The difficulty required to accomplish a given feat varies with each situation. Use the following table as a guideline. ---<cite>D6 System Book</cite>
-
-Action                                                                                   | Difficulty
----------------------------------------------------------------------------------------- | ----------
-Roll to surprise an opponent (gives +1D to attack roll with melee weapon)                | Easy
-Leap across a gap less than twice the character's height in length                       | Moderate
-Tumble to alleviate damage from a melee weapon (gives +2D to Endurance rolls vs. damage) | Difficult
-
-### Balance
-
-> This skill helps a character maintain her balance, whether on a tightrope or being tripped by an opponent in combat. ---<cite>D6 System Book</cite>
-
-__Based On:__ [Perception](Perception), [Reflexes](Reflexes)
-
-__Used By:__ Pilot, Spelljacker, Spy, [Weapon Master](WeaponMaster)
-
-### Contortion
+Contortion
+----------
 
 > Escaping from otherwise secure physical bonds by twisting, writhing,
 > and contorting the body. ---<cite>D6 Adventure, D6 Fantasy</cite>

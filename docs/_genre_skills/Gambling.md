@@ -12,13 +12,7 @@ Gambling
 
 > Playing and cheating at games of strategy and luck. (_Adventure_, _Space_, _Fantasy_, __gambling__)
 
-__Based On:__ <span title='Adventure & Space'>Perception</span>, <span title='Fantasy'>Acumen</span>
-
-### Gambling
-
-__Based On:__ Perception, Presence
-
-__Used By:__ Cardsharper, [Spellslinger](Spellslinger.md)
+__Based On:__ Perception, Acumen
 
 Notes
 -----

@@ -23,21 +23,9 @@ In *D6 Fantasy*, Artist noticeably omits "literary compositions" from its possib
 
 Of note is the fact that Forgery is an ancillary skill that explicitly states in its description that other skills are needed to detect or make a forgery. Artist seems like a natural fit for this "other skills", as does Reading/Writing. Overall there is a strong case for merging both skills into Artist.
 
-### &lt;Creative Ability&gt;
-
-### Forgery
-
-__Based On:__ <span title='Space'>Perception</span>, <span title='Adventure'>Knowledge</span>, Coordination, Mechanical
-
-__Used By:__ Infiltrator, Smuggler
-
-### &lt;Instrument&gt;
-
-__Based On:__ Perception, Presence, Reflexes
-
 ### Reading/Writing
 
-__Based On:__ <span title='Fantasy'>Acumen</span>
+__Based On:__ Acumen
 
 Notes
 -----

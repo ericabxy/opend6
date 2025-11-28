@@ -1,0 +1,16 @@
+<table>
+  <tr>
+    <th colspan='2'>Collections</th>
+  </tr>
+  {% for collection in site.collections %}
+    <tr>
+      <th>{{ collection.label }}</th>
+      <td>
+        {% for doc in collection.docs %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endfor %}
+      </td>
+    </tr>
+  {% endfor %}
+</table>

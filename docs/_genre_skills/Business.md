@@ -30,15 +30,11 @@ Notes
 
 Business and Trading are essentially the same skill in each genre book with
 marginally different flavor text. *D6 Fantasy* mentions exchange rates,
-bartering, and sales in addition to the common "business practices", "monetary
-value", and "how to make money".
+bartering, and sales in addition to the common "business practices", "monetary value", and "how to make money".
 
-Each description refers to a different set of other skills it can complement.
-In *D6 Space*, Business only complements Bargain. In *D6 Adventure*,
-*D6 Fantasy*, Business complements Bluff/Con, Charm, and Persuasion.
+Each description refers to a different set of other skills it can complement. In *D6 Space*, Business only complements Bargain. In *D6 Adventure*, *D6 Fantasy*, Business complements Bluff/Con, Charm, and Persuasion.
 
-Business is one of the skills who's description included "Knowledge of",
-"Comprehension of", "Understanding of", et cetera.
+Business is one of the skills who's description included "Knowledge of", "Comprehension of", "Understanding of", et cetera.
 
 <table>
 <caption>genre conversion for Business</caption>

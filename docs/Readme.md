@@ -22,18 +22,4 @@ New Systems
 - [Sample Game System](SimpleSystem.md) - a simple cinematic system found in _System Book_
 - [Solar Frontier](SolarSystem.md) - sci-fi system with themes of science, exploration, and political intrigue
 
-<table>
-  <tr>
-    <th colspan='2'>Collections</th>
-  </tr>
-  {% for collection in site.collections %}
-    <tr>
-      <th>{{ collection.label }}</th>
-      <td>
-        {% for doc in collection.docs %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a> &bull;
-        {% endfor %}
-      </td>
-    </tr>
-  {% endfor %}
-</table>
+{% include collections-navbox.html %}

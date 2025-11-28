@@ -1,12 +1,12 @@
 ---
-title: Creative Ability
+title: «Creative Ability»
 based_on:
 - Spirit
 - Perception
 ---
 
-&lt;Creative Ability&gt;
-------------------------
+«Creative Ability»
+------------------
 
 __Based On:__ Spirit, [Perception](Perception.md)
 

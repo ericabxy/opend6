@@ -16,8 +16,6 @@ __Alternate Names:__ Sneak, Stealth
 
 __Based On:__ Perception, Reflexes, Agility
 
-__Used By:__ Cardsharper, Demon Hunter, Investigator, [Performer](Performer.md), Saboteur, Smuggler, Spelljacker, Spy, Tracker/Bounty Hunter
-
 Notes
 -----
 

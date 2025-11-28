@@ -20,21 +20,13 @@ __Based On:__ Strength, Reflexes
 
 > Scaling various surfaces. (_Adventure_, _Fantasy_, __climbing__)
 
-__Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Fantasy'>Agility</span>
+__Based On:__ Reflexes, Agility
 
 ### Jumping
 
 > Leaping over obstacles. (_Adventure_, _Fantasy_, __jumping__)
 
-__Based On:__ <span title='Adventure'>Reflexes</span>, <span title='Fantasy'>Agility</span>
-
-### Scaling
-
-__Alternate Names:__ Rock Climbing
-
-__Based On:__ Reflexes, Strength
-
-__Used By:__ [Explorer](Explorer.md), Investigator, Saboteur, Spelljacker, Spy
+__Based On:__ Reflexes, Agility
 
 Notes
 -----

@@ -1,10 +1,12 @@
 ---
+category: profession
+title: Scholar
 usual_skills:
-- Read/Write <Languages>
-- History of <Area>
-- History of <Nationality>
+- Read/Write «Languages»
+- History of «Area»
+- History of «Nationality»
 - Library Use
-- <Dimension> Knowledge
+- «Dimension» Knowledge
 - Astral Theory
 - Fractals
 - Corpus Juris
@@ -20,7 +22,5 @@ usual_skills:
 
 Scholar (Profession)
 --------------------
-
-__Usual Skills:__
 
 __Role:__ The scholar has spent her life studying the various aspects of arts and sciences and has committed the remainder to teaching those subjects she has grown to love.

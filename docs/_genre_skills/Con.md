@@ -21,10 +21,6 @@ __Based On:__ Perception, Presence, Charisma
 Specializations
 ---------------
 
-### Assume Identity
-
-__Used By:__ Bodyguard, Cardsharper, Infiltrator, Investigator, Saboteur, Smuggler, Spy
-
 ### Bluff
 
 Con is called Bluff in _D6 Fantasy_. Although the names appear essentially synonymous, Bluff could be considered a specific subset or specialization of Con.
@@ -33,13 +29,7 @@ Con is called Bluff in _D6 Fantasy_. Although the names appear essentially synon
 
 > Altering features or clothing to be unrecognizable or to look like someone else. Also useful in acting performances. (_Adventure_, _Fantasy_, __disguise__)
 
-__Based On:__ <span title='Adventure'>Presence</span>, <span title='Fantasy'>Charisma</span>
-
-### Theatrics
-
-__Description:__ This skill measures a character's ability to fool others into believing he is someone else. The _theatrics_ skill total generated for a given attempt becomes the difficulty needed for another character to see through the performance (usually a Perception roll).
-
-__Used By:__ Infiltrator, [Performer](Performer.md)
+__Based On:__ Presence, Charisma
 
 No Attribute
 ------------

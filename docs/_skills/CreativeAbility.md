@@ -1,18 +1,23 @@
 ---
 title: «Creative Ability»
 alternate_names:
-- Animal Training
 - Blacksmithing
 - Cooking
 - Dancing
 - Drawing
-- Illusory Magic
 - Juggling
 - Knots
-- Woodcarving
 based_on:
 - Spirit
 - Perception
+examples:
+- Blacksmithing
+- Cooking
+- Dancing
+- Drawing
+- Juggling
+- Knots
+- Woodcarving
 ---
 
 __Description:__ The _creative ability_ skill covers everything from drawing to singing to poetry to dancing.

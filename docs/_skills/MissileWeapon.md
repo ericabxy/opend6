@@ -4,6 +4,11 @@ alternate_names:
 - «Weapon»
 based_on:
 - Coordination
+examples:
+- Pistol
+- Rifle
+- Machinegun
+- Grenade
 ---
 
 __Time Required:__ 5 seconds

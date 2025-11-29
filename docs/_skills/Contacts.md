@@ -7,7 +7,7 @@ based_on:
 
 __Time Required:__ 10 minutes to 1 hour
 
-__Description:__ Characters must often rely on their ability to locate individuals to form a network of informants who can offer various types of information about people, places, or events in the area they inhabit (cities, planets, sectors, galaxies), or who can pull some string for characters in need.
+__Description:__ Characters must often rely on their ability to locate individuals to form a network of informants who can offer various types of information about people, places, or events in the area they inhabit (cities, planets, sectors, galaxies), or who can pull some strings for characters in need.
 
 Action                                                   | Difficulty
 -------------------------------------------------------- | ----------

@@ -6,6 +6,12 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
+examples:
+- Speak Russian
+- Speak Elfin
+- Speak Dwarvish
+- Speak Troll
+- Speak Giantish
 ---
 
 __Time Required:__ Depends on length of conversation
@@ -18,5 +24,3 @@ Convey and understand simple thoughts                         | Easy
 Converse casually with native speaker                         | Moderate
 Convey and understand complex thoughts                        | Difficult
 Capture accent, intonation, and connotaion of native speakers | Very Difficult
-
-__Examples:__ _Dwarvish, Elfin, Giantish, Russian, Troll_ (p. 27)

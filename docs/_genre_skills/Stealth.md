@@ -5,8 +5,8 @@ based_on:
 - Agility
 ---
 
-Sneak
------
+Stealth
+-------
 
 > Moving silently and avoiding detection, whether through shadows or crowds. (_Adventure_, __sneak__, _Fantasy_, __stealth__)
 

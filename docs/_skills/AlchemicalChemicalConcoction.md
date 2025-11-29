@@ -1,8 +1,6 @@
 ---
-title: Achemical/Chemical Concoction
+title: Alchemical/Chemical Concoction
 alternate_names:
-- Alchemy
-- Chemistry
 - Chemical Concoction
 - Alchemical Concoction
 based_on:
@@ -12,7 +10,7 @@ based_on:
 
 __Description:__ This skill allows characters to create explosive or incendiary substances out of various materials including herbs and other chemicals. Explosives inflict up to half of their skill dice (rounded up) in damage (e.g., a character with a _chemical concoction_ skill of 7D+2 could create a substance that could cause 4D). Incendiary fluids inflict standard fire damage (see Chapter Eight), and the flames last a number of seconds equal to the roll made when creating the substance.
 
-If a character has the _theurgy_ skill (and therefore exists in a world with magic) and makes a Heroic _alchemical concoction_ roll, she may create magical fluids, though she must also have access to the spell she wishes to transfer into the liquid (i.e, she must be able to cast the _banish_ spell to imbue a potion with that power).
+If a character has the [_theurgy_](Theurgy) skill (and therefore exists in a world with magic) and makes a Heroic _alchemical concoction_ roll, she may create magical fluids, though she must also have access to the spell she wishes to transfer into the liquid (i.e, she must be able to cast the _banish_ spell to imbue a potion with that power).
 
 <table>
   <tr>
@@ -36,5 +34,3 @@ If a character has the _theurgy_ skill (and therefore exists in a world with mag
     <td>1D months</td>
   </tr>
 </table>
-
-See [Scholar](Scholar.md#alchemychemistry)

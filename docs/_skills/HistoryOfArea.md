@@ -1,8 +1,5 @@
 ---
 title: History of «Area»
-alternate_names:
-- History of «Nationality»
-- History of «Species»
 based_on:
 - Knowledge
 - Intellect

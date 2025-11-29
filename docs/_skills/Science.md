@@ -1,21 +1,20 @@
 ---
-alternate_names:
-- Astral Theory
-- Criminology
-- Ecology
-- Engineering
-- Finite Mathematics
-- Genetics
-- Inorganic Alchemy
-- Organic Alchemy
-- Thermodynamics
+title: «Science»
 based_on:
 - Knowledge
 - Intellect
+examples:
+- Architecture
+- Astral Events
+- Criminology
+- Ecology
+- Engineering
+- Genetics
+- Inorganic Alchemy
+- Netherlore
+- Organic Alchemy
+- Thermodynamics
 ---
-
-&lt;Science&gt; (type of skill)
----------------
 
 __Description:__ A skill in a science discipline (physics, chemistry, biology, geology, thermodynamics, artificial intelligence, et cetera) represents a character's knowledge of that area.
 

@@ -2,14 +2,17 @@
 title: Identify «Subject»
 alternate_names:
 - Identify Nethercreature
-- Identify Plant
 - Identify Poison
-- Identify Species
-- Identify Substance
 based_on:
 - Knowledge
 - Intellect
 - Perception
+examples:
+- Identify Nethercreature
+- Identify Plant
+- Identify Poison
+- Identify Species
+- Identify Substance
 ---
 
 __Description:__ This skill allows a character to determine whether or not a substance is lethal to his species (increase the difficulty by two levels for other species).

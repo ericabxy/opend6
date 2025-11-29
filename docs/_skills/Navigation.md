@@ -1,5 +1,7 @@
 ---
 title: Navigation
+alternate_names:
+- Chart Constellation
 based_on:
 - Knowledge
 - Intellect

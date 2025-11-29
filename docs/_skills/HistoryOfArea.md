@@ -3,6 +3,10 @@ title: History of «Area»
 based_on:
 - Knowledge
 - Intellect
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 5 seconds

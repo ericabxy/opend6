@@ -7,6 +7,10 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
+categories:
+- System Book
+- skill
+- trait
 examples:
 - Identify Nethercreature
 - Identify Plant

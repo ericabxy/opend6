@@ -4,6 +4,10 @@ alternate_names:
 - «Weapon»
 based_on:
 - Coordination
+categories:
+- System Book
+- skill
+- trait
 examples:
 - Pistol
 - Rifle

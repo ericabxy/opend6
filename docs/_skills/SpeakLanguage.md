@@ -6,8 +6,15 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
+categories:
+- System Book
+- skill
+- trait
 examples:
 - Speak Russian
+- Speak English
+- Speak Spanish
+- Speak Japanese
 - Speak Elfin
 - Speak Dwarvish
 - Speak Troll

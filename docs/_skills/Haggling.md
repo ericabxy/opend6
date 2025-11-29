@@ -3,6 +3,10 @@ title: Haggling
 based_on:
 - Presence
 - Perception
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ Varies depending on local haggling customs

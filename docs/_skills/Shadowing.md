@@ -5,6 +5,10 @@ alternate_names:
 - Tailing
 based_on:
 - Perception
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ Varies

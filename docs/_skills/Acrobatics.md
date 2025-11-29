@@ -1,6 +1,10 @@
 ---
 based_on:
 - Reflexes
+categories:
+- System Book
+- skill
+- trait
 ---
 
 Acrobatics

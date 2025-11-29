@@ -6,6 +6,10 @@ alternate_names:
 based_on:
 - Mechanical
 - Reflexes
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 5 seconds

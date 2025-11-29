@@ -4,6 +4,10 @@ alternate_names:
 - «Weapon»
 based_on:
 - Reflexes
+categories:
+- System Book
+- skill
+- trait
 examples:
 - Blowgun
 - Bow

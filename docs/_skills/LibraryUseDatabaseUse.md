@@ -7,6 +7,10 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Description__ Libraries and databases contain vast stores of information that may prove helpful or at least relevant to a character's goals. The difficulty of a skill attempt depends on the complexity and obscurity of the information sought as well as the size and accuracy of the library/database (beginning with a difficulty of zero).

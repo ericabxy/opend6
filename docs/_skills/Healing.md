@@ -5,6 +5,10 @@ based_on:
 - Intellect
 - Perception
 - Reflexes
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ Varies

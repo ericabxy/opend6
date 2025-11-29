@@ -2,6 +2,10 @@
 title: «Weaponless Fighting Style»
 based_on:
 - Reflexes
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 5 seconds

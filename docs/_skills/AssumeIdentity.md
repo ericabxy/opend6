@@ -1,6 +1,10 @@
 ---
 title: Assume Identity
 based_on: Presence, Intellect
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 10 minutes to 1 hour depending on complexity of disguise

@@ -3,6 +3,10 @@ title: Traps
 based_on:
 - Perception
 - Reflexes
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ Depends on complexity of trap

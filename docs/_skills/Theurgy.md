@@ -1,40 +1,23 @@
 ---
+title: Theurgy
 based_on:
 - Knowledge
 - Intellect
 - Spirit
+categories:
+- System Book
+- skill
+- trait
 ---
 
-Theurgy
--------
-
-__Based On:__ [Knowledge](Knowledge.md), [Intellect](Intellect.md), Spirit
+__Time Required:__ 5 seconds
 
 __Description:__ The _theurgy_ skill represents a character's knowledge of magical incantations and items.
 
-<table>
-  <tr>
-    <th>Action</th>
-    <th>Difficulty</th>
-  <tr>
-  <tr>
-    <td>Knowledge of common spell</td>
-    <td>Easy</td>
-  </tr>
-  <tr>
-    <td>Knowledge of uncommon spell</td>
-    <td>Moderate</td>
-  </tr>
-  <tr>
-    <td>Knowledge of rare spell</td>
-    <td>Difficult</td>
-  </tr>
-  <tr>
-    <td>Identify spell as it is cast by another character</td>
-    <td>Very Difficult</td>
-  </tr>
-  <tr>
-    <td>Identify enchanted items</td>
-    <td>Heroic</td>
-  </tr>
-</table>
+Action                                            | Difficulty
+------------------------------------------------- | ----------
+Knowledge of common spell                         | Easy
+Knowledge of uncommon spell                       | Moderate
+Knowledge of rare spell                           | Difficult
+Identify spell as it is cast by another character | Very Difficult
+Identify enchanted items                          | Heroic

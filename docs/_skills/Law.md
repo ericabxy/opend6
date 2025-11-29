@@ -5,6 +5,10 @@ alternate_names:
 based_on:
 - Intellect
 - Knowledge
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 5 seconds

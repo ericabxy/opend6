@@ -4,6 +4,10 @@ alternate_names:
 - Pilot «Vessel»
 based_on:
 - Perception
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 5 seconds

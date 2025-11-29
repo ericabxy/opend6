@@ -4,6 +4,10 @@ alternate_names:
 - Unlock
 based_on:
 - Coordination
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ Varies

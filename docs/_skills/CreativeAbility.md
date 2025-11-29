@@ -10,6 +10,10 @@ alternate_names:
 based_on:
 - Spirit
 - Perception
+categories:
+- System Book
+- skill
+- trait
 examples:
 - Blacksmithing
 - Cooking

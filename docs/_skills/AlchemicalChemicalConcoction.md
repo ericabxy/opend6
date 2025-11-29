@@ -6,6 +6,10 @@ alternate_names:
 based_on:
 - Intellect
 - Endurance
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Description:__ This skill allows characters to create explosive or incendiary substances out of various materials including herbs and other chemicals. Explosives inflict up to half of their skill dice (rounded up) in damage (e.g., a character with a _chemical concoction_ skill of 7D+2 could create a substance that could cause 4D). Incendiary fluids inflict standard fire damage (see Chapter Eight), and the flames last a number of seconds equal to the roll made when creating the substance.

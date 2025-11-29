@@ -2,6 +2,10 @@
 title: Public Speaking
 based_on:
 - Presence
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ Length of speech

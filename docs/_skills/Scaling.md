@@ -5,12 +5,10 @@ alternate_names:
 based_on:
 - Reflexes
 - Strength
-used_by:
-- Explorer
-- Investigator
-- Saboteur
-- Spelljacker
-- Spy
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Description:__ Climbing human-made structures requires a set of skills similar to but not exactly like that needed for rock climbing. The _scaling_ skill covers everything from pyramids to skyscrapers.

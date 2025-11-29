@@ -3,6 +3,10 @@ title: Meditation
 based_on:
 - Spirit
 - Willpower
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 10 minutes

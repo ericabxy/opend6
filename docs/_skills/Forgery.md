@@ -6,6 +6,10 @@ based_on:
 used_by:
 - Infiltrator
 - Smuggler
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Description:__ A forger fabricates documents or signatures. The level of difficulty depends on the type of creation and the knowledge of the person viewing it. The _forgery_ skill covers both the act of forging as well as the identification of forgeries.

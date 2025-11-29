@@ -3,6 +3,10 @@ title: Contacts
 based_on:
 - Perception
 - Presence
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 10 minutes to 1 hour

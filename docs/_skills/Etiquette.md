@@ -4,6 +4,10 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ 5 seconds

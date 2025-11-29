@@ -3,6 +3,10 @@ title: «Science»
 based_on:
 - Knowledge
 - Intellect
+categories:
+- System Book
+- skill
+- trait
 examples:
 - Architecture
 - Astral Events

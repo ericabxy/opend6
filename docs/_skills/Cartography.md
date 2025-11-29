@@ -4,6 +4,10 @@ based_on:
 - Intellect
 - Perception
 - Coordination
+categories:
+- System Book
+- skill
+- trait
 ---
 
 __Time Required:__ Varies

@@ -1,10 +1,14 @@
 ---
 title: Theatrics
-used_by:
-- Infiltrator
-- Performer
+based_on:
+- Perception
+- Presence
+categories:
+- System Book
+- skill
+- trait
 ---
 
-__Description:__ This skill measures a character's ability to fool others into believing he is someone else. The _theatrics_ skill total generated for a given attempt becomes the difficulty needed for another character to see through the performance (usually a Perception roll).
+__Time Required:__ Depends on the length of performance
 
-__Used By:__ Infiltrator, [Performer](Performer.md)
+__Description:__ This skill measures a character's ability to fool others into believing he is someone else. The _theatrics_ skill total generated for a given attempt becomes the difficulty needed for another character to see through the performance (usually a Perception roll).

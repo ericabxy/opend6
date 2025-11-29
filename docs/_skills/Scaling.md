@@ -13,12 +13,6 @@ used_by:
 - Spy
 ---
 
-__Alternate Names:__ Rock Climbing
-
-__Based On:__ Reflexes, Strength
-
-__Used By:__ [Explorer](Explorer.md), Investigator, Saboteur, Spelljacker, Spy
-
 __Description:__ Climbing human-made structures requires a set of skills similar to but not exactly like that needed for rock climbing. The _scaling_ skill covers everything from pyramids to skyscrapers.
 
 Action                                      | Difficulty

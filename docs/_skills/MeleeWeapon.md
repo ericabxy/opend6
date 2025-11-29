@@ -1,5 +1,7 @@
 ---
 title: «Melee Weapon»
+alternate_names:
+- «Weapon»
 based_on:
 - Reflexes
 ---

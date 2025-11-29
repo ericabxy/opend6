@@ -1,5 +1,7 @@
 ---
 title: Read/Write «Language»
+alternate_names:
+- Read/Write «Languages»
 based_on:
 - Knowledge
 - Intellect

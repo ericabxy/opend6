@@ -6,8 +6,55 @@ layout: default
 
   <h2>{{ page.title }}</h2>
 
-  <p><strong>Based On:</strong> {{ page.based_on }}</p>
+  <p>
+    <strong>Based On:</strong>
+    {% for trait_name in page.based_on %}
+      {% assign traits = site.attributes | where: 'title', trait_name %}
+      {% assign size = traits | size %}
+      {% if size > 0 %}
+        <a href='{{ traits.first.url }}'>{{ traits.first.title }}</a>{% unless forloop.last %},{% endunless %}
+      {% else %}
+        {% assign moretraits = site.attributes | where_exp: 'item', 'item.alternate_names contains trait_name' %}
+        {% assign moresize = moretraits | size %}
+        {% if moresize > 0 %}
+          <a href='{{ moretraits.first.url }}'>{{ trait_name }}</a>{% unless forloop.last %},{% endunless %}
+        {% else %}
+          {{ trait_name }}{% unless forloop.last %},{% endunless %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </p>
+
+  <p>
+    <strong>Used By:</strong>
+    {% for profession in site.professions %}
+      {% if profession.usual_skills contains page.title %}
+        <a href='{{ profession.url }}'>{{ profession.title }}</a>{% unless forloop.last %},{% endunless %}
+      {% else %}
+        {% assign lastitem = forloop.last %}
+        {% for name in page.alternate_names %}
+          {% if profession.usual_skills contains name %}
+            <a href='{{ profession.url }}'>{{ profession.title }}</a>,
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </p>
 
   {{ content }}
 
 </main>
+
+<table role="navigation">
+  <tr>
+    <th>System Book Skills</th>
+  </tr>
+  <tr>
+    <td>
+      {% for doc in site.skills %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

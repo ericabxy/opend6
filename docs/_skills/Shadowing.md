@@ -1,14 +1,19 @@
 ---
 title: Shadowing
-alternative_names: Tailing
-used_by:
-- Investigator
-- Sheriff
-- Spelljacker
-- Spy
-- Tracker/Bounty Hunter
+alternate_names:
+- Tail
+- Tailing
+based_on:
+- Perception
 ---
 
-__Alternate Names:__ Tailing
+__Time Required:__ Varies
 
-__Used By:__ Investigator, Sheriff, Spelljacker, Spy, Tracker/Bounty Hunter
+__Description:__ The _shadowing_ skill represents a character's ability to follow a given target.
+
+Action                                 | Difficulty
+-------------------------------------- | ----------
+Follow target in open area             | Very Easy
+Follow target in small town            | Easy
+Follow target in small city            | Moderate
+Follow target in large, congested city | Very Difficult

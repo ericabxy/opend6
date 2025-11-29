@@ -1,11 +1,11 @@
 ---
 title: Bodyguard
 usual_skills:
-- Weapon
-- WeaponlessFightingStyle
+- «Weapon»
+- «Weaponless Fighting Style»
 - Listen
 - Traps
-- AssumeIdentity
+- Assume Identity
 - Blindfighting
 ---
 

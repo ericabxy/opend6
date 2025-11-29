@@ -1,16 +1,14 @@
 ---
+title: Achemical/Chemical Concoction
+alternate_names:
+- Alchemy
+- Chemistry
+- Chemical Concoction
+- Alchemical Concoction
 based_on:
 - Intellect
 - Endurance
-title: Achemical/Chemical Concoction
 ---
-
-Alchemical/Chemical Concoction
-------------------------------
-
-__Alternate Names:__ [Alchemy](Scholar.md#alchemy), [Chemistry](Scholar.md#chemistry)
-
-__Based On:__ Intellect, Endurance
 
 __Description:__ This skill allows characters to create explosive or incendiary substances out of various materials including herbs and other chemicals. Explosives inflict up to half of their skill dice (rounded up) in damage (e.g., a character with a _chemical concoction_ skill of 7D+2 could create a substance that could cause 4D). Incendiary fluids inflict standard fire damage (see Chapter Eight), and the flames last a number of seconds equal to the roll made when creating the substance.
 

@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<main>
+  <h2>{{ page.title }}</h2>
+  
+  <p>
+    <strong>Usual Skills:</strong>
+    {% for skillname in page.usual_skills %}
+      {% assign skills = site.skills | where: 'title', skillname %}
+      {% assign size = skills | size %}
+      {% if size > 0 %}
+        <a href='{{ skills.first.url }}'>{{ skills.first.title }}</a>{% unless forloop.last %},{% endunless %}
+      {% else %}
+        {% assign moreskills = site.skills | where_exp: 'item', 'item.alternate_names contains skillname' %}
+        {% assign moresize = moreskills | size %}
+        {% if moresize > 0 %}
+          <a href='{{ moreskills.first.url }}'>{{ skillname }}</a>{% unless forloop.last %},{% endunless %}
+        {% else %}
+          {{ skillname }}{% unless forloop.last %},{% endunless %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </p>
+
+  {{ content }}
+
+</main>
+
+<table role="navigation">
+  <tr>
+    <th>Professions</th>
+  </tr>
+  <tr>
+    <td>
+      {% for doc in site.professions %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

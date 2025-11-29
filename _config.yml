@@ -28,6 +28,18 @@ defaults:
   -
     scope:
       path: ''
+      type: 'attributes'
+    values:
+      layout: 'attribute'
+  -
+    scope:
+      path: ''
+      type: 'professions'
+    values:
+      layout: 'profession'
+  -
+    scope:
+      path: ''
       type: 'skills'
     values:
       layout: 'skill'

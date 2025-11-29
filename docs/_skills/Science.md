@@ -1,4 +1,14 @@
 ---
+alternate_names:
+- Astral Theory
+- Criminology
+- Ecology
+- Engineering
+- Finite Mathematics
+- Genetics
+- Inorganic Alchemy
+- Organic Alchemy
+- Thermodynamics
 based_on:
 - Knowledge
 - Intellect
@@ -7,9 +17,7 @@ based_on:
 &lt;Science&gt; (type of skill)
 ---------------
 
-__Based On:__ Knowledge, Intellect
-
-__Description:__ <q>A skill in a science discipline (physics, chemistry, biology, geology, thermodynamics, artificial intelligence, et cetera) represents a character's knowledge of that area.</q>
+__Description:__ A skill in a science discipline (physics, chemistry, biology, geology, thermodynamics, artificial intelligence, et cetera) represents a character's knowledge of that area.
 
 - Anatomy (CORPOREALIST/BIOLOGIST, HEALER/APOTHECRIST/DOCTOR, NECROLOGIST)
 - Artificial Intelligence

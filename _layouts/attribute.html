@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<main>
+
+  {{ content }}
+
+</main>
+
+<table role="navigation">
+  <tr>
+    <th>Attributes</th>
+  </tr>
+  <tr>
+    <td>
+      {% for doc in site.attributes %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

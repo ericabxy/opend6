@@ -1,12 +1,10 @@
 ---
+title: Security
 based_on:
 - Technical
 - Knowledge
 - Intellect
 ---
-
-Traps
------
 
 > Installing, altering, and bypassing electronic security and surveillance systems. (_Adventure_, _Space_, __security__)
 

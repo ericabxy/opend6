@@ -6,18 +6,14 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
-used_by:
-- Archaeologist
-- Demon Hunter
-- Infiltrator
-- Outrider
-- Scholar
-- Spellslinger
-- Theurist
 ---
 
+__Time Required:__ Depends on length of document
 
-__Based On:__ Intellect
+__Description:__ This skill enables a character to comprehend and use the written form of the specified language.
 
-__Used By:__ Archaeologist, Demon Hunter, Infiltrator, Outrider, [Scholar](ScholarProfession.md) [Spellslinger](Spellslinger.md), Theurist
-
+Action                                                    | Difficulty
+--------------------------------------------------------- | ----------
+Create and read simple sentences using a small vocabulary | Easy
+Create and read documents of medium difficulty            | Moderate
+Create and read novels                                    | Very Difficult

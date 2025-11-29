@@ -3,7 +3,9 @@ alternate_names:
 - Dweomercraft
 - Mysticism
 - Witchcraft
-trait: attribute
+categories:
+- attribute
+- trait
 ---
 
 Magic

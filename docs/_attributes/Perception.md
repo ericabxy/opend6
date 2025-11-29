@@ -6,6 +6,9 @@ alternate_names:
 - Sense
 genre_names:
 - Acumen
+categories:
+- attribute
+- trait
 ---
 
 Perception

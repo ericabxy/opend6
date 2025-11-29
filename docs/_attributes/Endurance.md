@@ -2,6 +2,9 @@
 alternate_names:
 - Constitution
 - Stamina
+categories:
+- attribute
+- trait
 ---
 
 Endurance

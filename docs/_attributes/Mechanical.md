@@ -4,6 +4,9 @@ alternate_names:
 - Mechanics
 - Sensory Extension
 - Symbiotic Attachment
+categories:
+- attribute
+- trait
 ---
 
 Mechanical

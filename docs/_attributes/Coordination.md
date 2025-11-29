@@ -2,6 +2,9 @@
 alternate_names:
 - Aim
 - Dexterity
+categories:
+- attribute
+- trait
 ---
 
 Coordination

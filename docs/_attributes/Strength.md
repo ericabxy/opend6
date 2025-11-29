@@ -2,6 +2,9 @@
 alternate_names:
 - Athletics
 - Physique
+categories:
+- attribute
+- trait
 ---
 
 Strength

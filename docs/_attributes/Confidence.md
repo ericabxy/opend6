@@ -3,6 +3,9 @@ alternate_names:
 - Charm
 - Presence
 - Charisma
+categories:
+- attribute
+- trait
 ---
 
 Confidence

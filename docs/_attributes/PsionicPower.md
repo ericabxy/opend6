@@ -1,6 +1,10 @@
 ---
+title: Psionic Power
 alternate_names:
 - Psychic Ability
+categories:
+- attribute
+- trait
 ---
 
 Psionic Power

@@ -2,6 +2,9 @@
 alternate_names:
 - Intelligence
 - Reasoning
+categories:
+- attribute
+- trait
 ---
 
 Intellect

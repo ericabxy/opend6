@@ -3,6 +3,9 @@ alternate_names:
 - Lore
 - Wisdom
 - Science
+categories:
+- attribute
+- trait
 ---
 
 Knowledge

@@ -1,6 +1,9 @@
 ---
 alternate_names:
 - Technology
+categories:
+- attribute
+- trait
 ---
 
 Technical

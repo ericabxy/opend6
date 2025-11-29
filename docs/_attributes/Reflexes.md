@@ -3,6 +3,9 @@ title: Reflexes
 alternate_names:
 - Agility
 - Balance
+categories:
+- attribute
+- trait
 ---
 
 Reflexes

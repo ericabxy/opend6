@@ -3,6 +3,9 @@ alternate_names:
 - Mental Fortitude
 - Mind
 - Spirit
+categories:
+- attribute
+- trait
 ---
 
 Willpower

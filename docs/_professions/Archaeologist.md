@@ -1,4 +1,7 @@
 ---
+categories:
+- System Book
+- profession
 usual_skills:
 - Swimming
 - Unlock

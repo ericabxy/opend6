@@ -10,6 +10,9 @@ usual_skills:
 - Tailing
 - Terrain
 - Tracking
+categories:
+- System Book
+- profession
 ---
 
 __Role:__ The tracker seeks out and captures anyone or anything that will bring her a great price (or even a not-so-great price, depending on her current financial status).

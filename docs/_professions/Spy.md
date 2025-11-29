@@ -11,6 +11,9 @@ usual_skills:
 - Assume Identity
 - Tailing
 - Scaling
+categories:
+- System Book
+- profession
 ---
 
 __Role:__ Spies lead truly dangerous lives, sneaking into enemy territory, gathering valuable information, and returning to their patrons undetected. In most nations, city-states, and star systems, espionage carries a penalty of death, and as a result, few spies survive for very long---although those that do are either very good or very high on the enemy's hit-list.

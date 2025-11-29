@@ -1,4 +1,8 @@
 ---
+title: Alchemist
+categories:
+- System Book
+- profession
 usual_skills:
 - Fire Knowledge
 - Alchemical Concoction

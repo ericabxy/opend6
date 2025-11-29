@@ -11,6 +11,9 @@ usual_skills:
 - Scaling
 - Mechanics
 - Thermodynamics
+categories:
+- System Book
+- profession
 ---
 
 __Role:__ Saboteurs hire themselves out as special agents to various governments and organizations. They typically have experience in _engineering_ and _alchemy (chemistry)_ and use these skills to carry out their assignments of sabotage.

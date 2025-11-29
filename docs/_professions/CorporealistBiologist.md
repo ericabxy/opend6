@@ -9,6 +9,9 @@ usual_skills:
 - Anatomy
 - Organic Alchemy
 - Cellular Knowledge
+categories:
+- System Book
+- profession
 ---
 
 __Role:__ Corporealists share the awe of anatomy that [necrologists](Necrologist.md) possess. But, unlike their counterparts, they believe in the sanctity of all life, regardless of kingdom, class, or species.

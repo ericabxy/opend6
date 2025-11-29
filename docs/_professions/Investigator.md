@@ -13,6 +13,9 @@ usual_skills:
 - Scaling
 - Urban Geography
 - Criminology
+categories:
+- System Book
+- profession
 ---
 
 __Role:__ The investigator, unlike the [sheriff](Sheriff.md), works for private citizens in need of a number of services. From tracking to spying to the solving of mysteries, these individuals take advantage of various resources, including shady contacts and friends in high places.

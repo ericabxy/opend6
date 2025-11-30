@@ -2,6 +2,7 @@
 based_on:
 - Agility
 - Physique
+category: Genre Book
 ---
 
 Running

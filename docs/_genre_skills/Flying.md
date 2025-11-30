@@ -1,11 +1,12 @@
 ---
+title: Flying
+alternate_names:
+- Flying/0-G
 based_on:
 - Agility
 - Reflexes
+category: Genre Book
 ---
-
-Flying
-------
 
 > Maneuvering under one's own power (such as with wings) or in null
 > gravity. (_Adventure_, __flying__)

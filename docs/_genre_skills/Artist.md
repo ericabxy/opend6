@@ -2,6 +2,7 @@
 based_on:
 - Acumen
 - Perception
+category: Genre Book
 ---
 
 Artist

@@ -3,6 +3,7 @@ based_on:
 - Knowledge
 - Presence
 - Charisma
+category: Genre Book
 ---
 
 Mettle

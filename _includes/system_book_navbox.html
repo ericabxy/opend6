@@ -24,7 +24,7 @@
   <tr>
     <th>Skills</th>
     <td>
-      {% for doc in site.core_skills %}
+      {% for doc in site.skills %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
         {% unless forloop.last %}&bull;{% endunless %}
       {% endfor %}

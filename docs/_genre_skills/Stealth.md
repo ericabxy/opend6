@@ -1,20 +1,17 @@
 ---
+title: Stealth
+alternate_names:
+- Sneak
 based_on:
 - Perception
 - Reflexes
 - Agility
+category: Genre Book
 ---
-
-Stealth
--------
 
 > Moving silently and avoiding detection, whether through shadows or crowds. (_Adventure_, __sneak__, _Fantasy_, __stealth__)
 
 > Moving silently, avoiding detection and hiding one-self. (_Space_, __sneak__)
-
-__Alternate Names:__ Sneak, Stealth
-
-__Based On:__ Perception, Reflexes, Agility
 
 Notes
 -----

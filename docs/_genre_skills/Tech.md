@@ -1,19 +1,16 @@
 ---
+title: Tech
+alternate_names:
+- Devices
 based_on:
 - Knowledge
 - Intellect
+category: Genre Book
 ---
-
-Tech
-----
 
 > Using and designing complex mechanical equipment. Actually building items requires crafting. (_Fantasy_, __devices__)
 
 > Using and designing (not making) complex mechanical or electronic equipment, such as programming and operating computers and manipulating communication devices. (_Adventure_, __tech__)
-
-__Alternate Names:__ Tech, Devices
-
-__Based On:__ Knowledge, Intellect
 
 Tech represents an understanding of complex technologies. You can use, design, and even fix technologically advanced equipment and devices, but making or building anything requires additional skill in [Crafting](Crafting.md).
 

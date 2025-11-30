@@ -1,19 +1,19 @@
 ---
+title: Repair/Craft
+alternate_names:
+- Crafting
+- Repair
 based_on:
 - Technical
 - Perception
 - Acumen
-title: Repair/Craft
+category: Genre Book
 ---
 
 Crafting
 --------
 
 > Creating, fixing, or modifying equipment, weapons, armor, and vehicles, as well as woodworking, metalworking, constructing buildings, and the like. (*Fantasy*, **crafting**)
-
-__Alternate Names:__ Repair, Crafting
-
-__Based On:__ Technical, Perception, Acumen
 
 ### Repair
 

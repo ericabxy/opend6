@@ -2,6 +2,7 @@
 based_on:
 - Perception
 - Acumen
+category: Genre Book
 ---
 
 Investigation

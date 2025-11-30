@@ -3,6 +3,7 @@ based_on:
 - Perception
 - Presence
 - Charisma
+category: Genre Book
 ---
 
 Persuasion

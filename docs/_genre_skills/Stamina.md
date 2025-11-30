@@ -2,6 +2,7 @@
 based_on:
 - Strength
 - Physique
+category: Genre Book
 ---
 
 Stamina

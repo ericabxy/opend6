@@ -2,6 +2,7 @@
 based_on:
 - Reflexes
 - Agility
+category: Genre Book
 ---
 
 Fighting

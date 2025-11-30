@@ -1,6 +1,7 @@
 ---
 based_on:
 - Coordination
+category: Genre Book
 ---
 
 Marksmanship

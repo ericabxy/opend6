@@ -2,6 +2,7 @@
 based_on:
 - Agility
 - Coordination
+category: Genre Book
 ---
 
 Throwing

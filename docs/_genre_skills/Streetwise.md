@@ -4,6 +4,7 @@ based_on:
 - Perception
 - Acumen
 title: Streetwise
+category: Genre Book
 ---
 
 > Finding information, goods, and contacts in an urban environment, particularly through criminal organizations, black markets, and other illicit operations. Also useful for determining possible motives and methods of criminals. (_Adventure_, _Space_, __streetwise__)

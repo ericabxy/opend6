@@ -2,6 +2,7 @@
 based_on:
 - Knowledge
 - Intellect
+category: Genre Book
 ---
 
 Languages

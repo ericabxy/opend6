@@ -1,11 +1,12 @@
 ---
+title: Con
+alternate_names:
+- Bluff
 based_on:
 - Perception
 - Presence
 - Charisma
----
-
-Con
+category: Genre Book
 ---
 
 > Lying, tricking, or deceiving others, as well as verbal evasion, misdirection, and blustering. Disguise can complement uses of this skill. Also useful in putting on acting performances. (_Fantasy_, __bluff__)
@@ -13,10 +14,6 @@ Con
 > Bluffing, lying, tricking, or deceiving others, as well as verbal evasiveness, misdirection, and blustering. Also useful in putting on acting performances. (_Adventure_, __con__)
 
 > Bluffing, lying, tricking, or deceiving others, as well as verbal evasiveness, misdirection, blustering, and altering features or clothing to be unrecognizable or to look like someone else. Also useful in putting on acting performances. (_Space_, __con__)
-
-__Alternative Names:__ Con, Bluff
-
-__Based On:__ Perception, Presence, Charisma
 
 Specializations
 ---------------

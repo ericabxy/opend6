@@ -3,6 +3,7 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
+category: Genre Book
 ---
 
 Scholar

@@ -1,6 +1,6 @@
-{% assign skills = site.core_skills | where_exp: 'item', 'item.based_on contains page.title' %}
+{% assign skills = site.skills | where_exp: 'item', 'item.based_on contains page.title' %}
 {% for alternate_name in page.alternate_names %}
-  {% assign more = site.core_skills | where_exp: 'item', 'item.based_on contains alternate_name' %}
+  {% assign more = site.skills | where_exp: 'item', 'item.based_on contains alternate_name' %}
   {% assign skills = skills | concat: more %}
 {% endfor %}
 {% if skills.size > 0 %}

@@ -1,8 +1,12 @@
 ---
+title: Medicine
+alternate_names:
+- Healing
 based_on:
 - Knowledge
 - Perception
 - Acumen
+category: Genre Book
 ---
 
 Medicine

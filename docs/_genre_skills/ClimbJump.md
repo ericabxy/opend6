@@ -3,6 +3,7 @@ title: Climb/Jump
 based_on:
 - Strength
 - Reflexes
+category: Genre Book
 ---
 
 Climb/Jump

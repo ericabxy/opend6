@@ -2,9 +2,7 @@
 based_on:
 - Perception
 - Presence
-used_by:
-- Cardsharper
-- Spellslinger
+category: Genre Book
 ---
 
 Gambling

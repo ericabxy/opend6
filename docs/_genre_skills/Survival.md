@@ -3,6 +3,7 @@ based_on:
 - Knowledge
 - Perception
 - Acumen
+category: Genre Book
 ---
 
 Survival

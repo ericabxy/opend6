@@ -1,15 +1,14 @@
 ---
+title: Swimming
+alternate_names:
+- Swim
 based_on:
 - Strength
 - Physique
+category: Genre Book
 ---
 
-Swimming
---------
-
 > Moving and surviving in a liquid medium. (_Adventure_, _Space_, _Fantasy_, __swimming__)
-
-__Based On:__ Strength, Physique
 
 Swimming
 --------

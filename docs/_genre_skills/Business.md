@@ -1,21 +1,18 @@
 ---
+title: Business
+alternate_names:
+- Trading
 based_on:
 - Knowledge
 - Intellect
+category: Genre Book
 ---
-
-Business
---------
 
 > Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has. Business can complement charm, con, and persuasion when haggling over prices for goods and services being bought or sold. (_Adventure_, __business__)
 
 > Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has. Business can complement bargain when haggling over prices for goods and services being bought or sold. (_Space_, __business__)
 
 > Knowledge of business practices, exchange rates, the monetary value of goods and opportunities, and other information regarding barter and sales, including the ability to determine how to make money with another skill the character has. Trading can complement bluff, charm, and persuasion when haggling over prices for goods and services being bought or sold. (_Fantasy_, __trading__)
-
-__Alternate Names:__ Business, Trading
-
-__Based On:__ Knowledge, Intellect
 
 ### Appraisal
 

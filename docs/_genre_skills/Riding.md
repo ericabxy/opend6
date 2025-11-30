@@ -3,6 +3,7 @@ based_on:
 - Reflexes
 - Agility
 - Mechanical
+category: Genre Book
 ---
 
 Riding

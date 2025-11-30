@@ -16,10 +16,10 @@ This project details a unified [Genre System](GenreSystem) accomplished by close
 New Systems
 -----------
 
-- [Children of Gaia](GaiaSystem.md) - superhuman setting
-- [Dungeon System](DungeonSystem.md) - experimental mapping of OpenD6 attributes to the D20 SRD
-- [Magus Experiment](MagusSystem.md) - low fantasy wizardry setting
-- [Sample Game System](SimpleSystem.md) - a simple cinematic system found in _System Book_
-- [Solar Frontier](SolarSystem.md) - sci-fi system with themes of science, exploration, and political intrigue
+- [Children of Gaia](GaiaSystem) - superhuman setting
+- [Dungeon System](DungeonSystem) - experimental mapping of OpenD6 attributes to the D20 SRD
+- [Magus Experiment](MagusSystem) - low fantasy wizardry setting
+- [Sample Game System](SimpleSystem) - a simple cinematic system found in _System Book_
+- [Solar Frontier](SolarSystem) - sci-fi system with themes of science, exploration, and political intrigue
 
 {% include collections_navbox.html %}

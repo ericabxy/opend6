@@ -18,6 +18,9 @@ collections:
   systems:
     output: true
     permalink: /:path
+  templates:
+    output: true
+    permalink: /:path
 
 defaults:
   -

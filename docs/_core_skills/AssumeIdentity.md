@@ -16,5 +16,5 @@ Action                                                          | Difficulty
 Fool others for a short amount of time at a short distance away | Moderate
 Disguise his facial features                                    | Difficult
 Alter bodily appearence\*                                       | Very Difficult
-=============================================================== | ==============
+
 \* shorter, taller, slimmer, different species

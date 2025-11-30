@@ -5,18 +5,11 @@
   <tr>
     <th>Attributes</th>
     <td>
-        <strong>Core:</strong>
-        {% assign attributes = site.attributes | where_exp: 'item', 'item.categories contains "core"' %}
-        {% for doc in attributes %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endfor %}
-        <strong>Optional:</strong>
-        {% assign attributes = site.attributes | where_exp: 'item', 'item.categories contains "optional"' %}
-        {% for doc in attributes %}
-          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-          {% unless forloop.last %}&bull;{% endunless %}
-        {% endfor %}
+      {% assign docs = site.attributes | sort: 'order' %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
     </td>
   </tr>
   <tr>

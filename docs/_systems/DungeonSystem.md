@@ -2,58 +2,52 @@
 title: Dungeon System
 ---
 
-Dungeon Crawl
--------------
+Dungeon System
+--------------
 
 Attributes and Skills
 ---------------------
 
 ### [Strength](Strength)
 
-- [Climbing](ClimbJump#climbing)
-- [Jumping](ClimbJump#jumping)
+- [Climbing](Scaling)
+- [Jumping](Jumping)
+- [Melee Weapon](MeleeWeapon)
 - [Swimming](Swimming)
+- [Unarmed Combat](WeaponlessFightingStyle)
 
 ### [Dexterity](Coordination)
 
 - [Acrobatics](Acrobatics)
-- [Hide](Hide)
-- [Lockpicking](SleightOfHand#lockpicking)
-- [Riding](Riding)
-- [Sleight of Hand](SleightOfHand#pick-pocket)
+- [Balance](Balance)
+- [Lockpicking](Lockpicking)
+- [Missile Weapon](MissileWeapon)
+- [Creature Riding](CreatureRiding)
 - [Sneak](Sneak)
 
 ### [Constitution](Endurance)
 
-- [Stamina](Stamina)
-
 ### [Intelligence](Intellect)
 
-- [Crafting](RepairCraft#crafting)
-  - Appraisal
-  - [Forgery](RepairCraft#forgery)
+- [Alchemical Concoction](AlchemicalChemicalConcoction)
+- [Arcane Lore](ArcaneLore)
+- [History of Area](HistoryOfArea)
+- [Speak Language](SpeakLanguage)
+- [Theurgy](Theurgy)
 - [Traps](Traps)
-- [Languages](Languages)
-- [Lipreading](Search#lipreading)
-- [Search](Search)
-- Scholar
-  - [Arcane Lore](Scholar#arcane-lore)
-  - Arcane Script
-  - Alchemical Concoction
-  - Knowledge
-  - [Theurgy](Scholar#theurgy)
 
 ### [Wisdom](Knowledge)
 
-- [Healing](Medicine#healing)
-- [Perception](Search#perception)
-- [Survival](Survival)
+- [Blindfighting](Blindfighting)
+- [Healing](Healing)
+- [Tracking](Tracking)
 
 ### [Charisma](Confidence)
 
-- [Animal Handling](Persuasion#animal-handling)
-- [Bluff](Con#bluff)
-- [Intimidation](Intimidation)
-- [Investigation](Investigation)
-- [Persuasion](Persuasion)
-- [Theatrics](Con#theatrics)
+- [Assume Identity](AssumeIdentity)
+- [Gambling](Gambling)
+- [Haggling](Haggling)
+- [Information Gathering](InformationGathering)
+- [Instrument](Instrument)
+- [Public Speaking](PublicSpeaking)
+- [Theatrics](Theatrics)

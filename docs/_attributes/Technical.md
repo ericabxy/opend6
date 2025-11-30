@@ -1,11 +1,7 @@
 ---
 alternate_names:
 - Technology
-categories:
-- System Book
-- attribute
-- optional
-- trait
+order: 11
 ---
 
 > The Technical attribute measures a character's aptitude for technological equipment, from computers to electronic listening devices to electronic security, a well as those skills that require a combination of Knowledge and Coordination, like _first aid_ and _forgery_.

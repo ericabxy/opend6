@@ -4,11 +4,7 @@ alternate_names:
 - Mechanics
 - Sensory Extension
 - Symbiotic Attachment
-categories:
-- System Book
-- attribute
-- optional
-- trait
+order: 8
 ---
 
 > Mechanics represents a character's ability to repair machinery, vehicles, weapons, armor, androids, and so on. It can also measure ability in skills which require a combination of Reflexes and Knowledge, like shield operation, riding, and driving (you must first learn how to operate the device, but then you must rely on quickness to use the device to its potential).

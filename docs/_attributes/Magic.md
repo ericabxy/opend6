@@ -8,6 +8,7 @@ categories:
 - attribute
 - optional
 - trait
+order: 7
 ---
 
 > The Magic attribute guages a character's affinity for the use of mystical forces. Most skills based on this attribute are spells, though others do exist, for example, the ability to determine what incantation another character is attempting to perform.

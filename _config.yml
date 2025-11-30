@@ -9,7 +9,7 @@ collections:
   professions:
     output: true
     permalink: /:path
-  skills:
+  core_skills:
     output: true
     permalink: /:path
   genre_skills:
@@ -34,12 +34,18 @@ defaults:
   -
     scope:
       path: ''
-      type: 'professions'
+      type: 'core_skills'
     values:
-      layout: 'profession'
+      layout: 'skill'
   -
     scope:
       path: ''
-      type: 'skills'
+      type: 'genre_skills'
     values:
       layout: 'skill'
+  -
+    scope:
+      path: ''
+      type: 'professions'
+    values:
+      layout: 'profession'

@@ -4,7 +4,7 @@
   </tr>
   {% for collection in site.collections %}
     <tr>
-      <th>{{ collection.label }}</th>
+      <th>{{ collection.label | camelize | replace: '_', ' ' }}</th>
       <td>
         {% for doc in collection.docs %}
           <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>

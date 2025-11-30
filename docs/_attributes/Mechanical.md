@@ -5,16 +5,13 @@ alternate_names:
 - Sensory Extension
 - Symbiotic Attachment
 categories:
+- System Book
 - attribute
+- optional
 - trait
 ---
 
-Mechanical
-----------
-
-> __Mechanics__ represents a character's ability to repair machinery, vehicles, weapons, armor, androids, and so on. It can also measure ability in skills which require a combination of Reflexes and Knowledge, like shield operation, riding, and driving (you must first learn how to operate the device, but then you must rely on quickness to use the device to its potential). ---<cite>D6 System Book</cite>
-
-__Alternate Names:__ Mechanics, Sensory Extension, Symbiotic Attachment
+> Mechanics represents a character's ability to repair machinery, vehicles, weapons, armor, androids, and so on. It can also measure ability in skills which require a combination of Reflexes and Knowledge, like shield operation, riding, and driving (you must first learn how to operate the device, but then you must rely on quickness to use the device to its potential).
 
 By combining [Reflexes](Reflexes) and [Knowledge](Knowledge), Mechanical is a kind of applied Knowledge attribute.
 

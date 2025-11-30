@@ -3,16 +3,15 @@ alternate_names:
 - Aim
 - Dexterity
 categories:
+- System Book
 - attribute
+- core
 - trait
+order: 1
+title: Coordination
 ---
 
-Coordination
-------------
-
-> __Coordination__ represents a character's ability to perform feats that require manual dexterity or hand-eye cooperation, i.e., fine motor skills. Such tasks include firing a bow or gun, picking a lock, and throwing a grenade. ---<cite>D6 System Book</cite>
-
-__Alternate Names:__ Aim, Dexterity
+> Coordination represents a character's ability to perform feats that require manual dexterity or hand-eye cooperation, i.e., fine motor skills. Such tasks include firing a bow or gun, picking a lock, and throwing a grenade.
 
 See [Marksmanship](Marksmanship)
 

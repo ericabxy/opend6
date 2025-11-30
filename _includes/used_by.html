@@ -1,0 +1,13 @@
+{% assign professions = site.professions | where_exp: 'item', 'item.usual_skills contains page.title' %}
+{% for alternate_name in page.alternate_names %}
+  {% assign more = site.professions | where_exp: 'item', 'item.usual_skills contains alternate_name' %}
+  {% assign professions = professions | concat: more %}
+{% endfor %}
+{% if professions.size > 0 %}
+  <p>
+    <strong>Used By:</strong>
+    {% for profession in professions %}
+      <a href='{{ profession.url }}'>{{ profession.title }}</a>{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}

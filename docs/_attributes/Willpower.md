@@ -4,16 +4,13 @@ alternate_names:
 - Mind
 - Spirit
 categories:
+- System Book
 - attribute
+- optional
 - trait
 ---
 
-Willpower
----------
-
-> A character's __Willpower__ represents his ability to withstand mental attacks, whether they come from situational pressures, like stress, or direct assault, like magical or psychic phenomena. ---<cite>D6 System Book</cite)
-
-__Alternate Names:__ Mental Fortitude, Mind, Spirit
+> A character's Willpower represents his ability to withstand mental attacks, whether they come from situational pressures, like stress, or direct assault, like magical or psychic phenomena.
 
 Spirit
 ------
@@ -24,8 +21,3 @@ No Attribute
 ------------
 
 Willpower can be replaced by the [Mettle](Mettle) skill.
-
-Notes
------
-
-Willpower is a D6 [Attribute](index#attributes).

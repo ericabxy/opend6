@@ -3,21 +3,21 @@ layout: default
 ---
 
 <main>
+  <h2>{{ page.title }}</h2>
+
+  {% if page.alternate_names %}
+    <p>
+      <strong>Alternate Names:</strong>
+      {% for name in page.alternate_names %}
+        {{ name }}{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    </p>
+  {% endif %}
+
+  {% include skills_based_on_attribute.html %}
 
   {{ content }}
-
+  
 </main>
 
-<table role="navigation">
-  <tr>
-    <th>Attributes</th>
-  </tr>
-  <tr>
-    <td>
-      {% for doc in site.attributes %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
-        {% unless forloop.last %}&bull;{% endunless %}
-      {% endfor %}
-    </td>
-  </tr>
-</table>
+{% include system_book_navbox.html %}

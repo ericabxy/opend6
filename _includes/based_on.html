@@ -1,0 +1,18 @@
+<p>
+  <strong>Based On:</strong>
+  {% for trait_name in page.based_on %}
+    {% assign traits = site.attributes | where: 'title', trait_name %}
+    {% assign size = traits | size %}
+    {% if size > 0 %}
+      <a href='{{ traits.first.url }}'>{{ traits.first.title }}</a>{% unless forloop.last %},{% endunless %}
+    {% else %}
+      {% assign moretraits = site.attributes | where_exp: 'item', 'item.alternate_names contains trait_name' %}
+      {% assign moresize = moretraits | size %}
+      {% if moresize > 0 %}
+        <a href='{{ moretraits.first.url }}'>{{ trait_name }}</a>{% unless forloop.last %},{% endunless %}
+      {% else %}
+        {{ trait_name }}{% unless forloop.last %},{% endunless %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</p>

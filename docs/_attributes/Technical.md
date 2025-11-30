@@ -2,16 +2,13 @@
 alternate_names:
 - Technology
 categories:
+- System Book
 - attribute
+- optional
 - trait
 ---
 
-Technical
----------
-
-> The __Technical__ attribute measures a character's aptitude for technological equipment, from computers to electronic listening devices to electronic security, a well as those skills that require a combination of Knowledge and Coordination, like _first aid_ and _forgery_. ---<cite>D6 System Book</cite>
-
-__Alternate Names:__ Technology
+> The Technical attribute measures a character's aptitude for technological equipment, from computers to electronic listening devices to electronic security, a well as those skills that require a combination of Knowledge and Coordination, like _first aid_ and _forgery_.
 
 By combining [Knowledge](Knowledge) and [Coordination](Coordination), Technical is a kind of applied Knowledge attribute.
 
@@ -30,8 +27,3 @@ No Attribute
 ------------
 
 Technical can be replaced by the [Tech](Tech) skill.
-
-Notes
------
-
-Technical is a D6 [Attribute](index#attributes).

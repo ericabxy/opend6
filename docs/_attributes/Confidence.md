@@ -1,21 +1,17 @@
 ---
+title: Confidence
 alternate_names:
 - Charm
 - Presence
 - Charisma
 categories:
+- System Book
 - attribute
+- optional
 - trait
 ---
 
-Confidence
-----------
-
-> This attribute <ins>__Confidence__</ins> represents a character's personal effect on others. It includes such skills as oration, acting, and grooming. ---<cite>D6 System Book</cite>
-
-__Alternate Names:__ Charm, Presence, Charisma
-
-__Trait:__ [Attribute](Attribute)
+> This attribute <ins>__Confidence__</ins> represents a character's personal effect on others. It includes such skills as oration, acting, and grooming.
 
 Mentioned Skills
 ----------------

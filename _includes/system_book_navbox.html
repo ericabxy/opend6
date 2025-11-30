@@ -1,0 +1,40 @@
+<table>
+  <tr>
+    <th colspan='2'>System Book</th>
+  </tr>
+  <tr>
+    <th>Attributes</th>
+    <td>
+        <strong>Core:</strong>
+        {% assign attributes = site.attributes | where_exp: 'item', 'item.categories contains "core"' %}
+        {% for doc in attributes %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endfor %}
+        <strong>Optional:</strong>
+        {% assign attributes = site.attributes | where_exp: 'item', 'item.categories contains "optional"' %}
+        {% for doc in attributes %}
+          <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+          {% unless forloop.last %}&bull;{% endunless %}
+        {% endfor %}
+    </td>
+  </tr>
+  <tr>
+    <th>Professions</th>
+    <td>
+      {% for doc in site.professions %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+  <tr>
+    <th>Skills</th>
+    <td>
+      {% for doc in site.core_skills %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

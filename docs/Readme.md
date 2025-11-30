@@ -22,4 +22,4 @@ New Systems
 - [Sample Game System](SimpleSystem.md) - a simple cinematic system found in _System Book_
 - [Solar Frontier](SolarSystem.md) - sci-fi system with themes of science, exploration, and political intrigue
 
-{% include collections-navbox.html %}
+{% include collections_navbox.html %}

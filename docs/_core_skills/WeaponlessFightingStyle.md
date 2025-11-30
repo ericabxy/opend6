@@ -6,6 +6,10 @@ categories:
 - System Book
 - skill
 - trait
+examples:
+- Martial Arts
+- Wrestling
+- Brawling
 ---
 
 __Time Required:__ 5 seconds

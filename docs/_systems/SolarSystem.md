@@ -11,23 +11,25 @@ Attributes and Skills
 For some fun, the attributes were named in such a way that they could be mistaken for an academic journal.
 
 - [Fitness](Strength)
-  - [Manual Dexterity](SleightOfHand)
-  - [Reflexes](Dodge)
+  - [Dexterity](SleightOfHand)
+  - [Agility](Dodge)
   - [Stamina](Stamina)
   - [Strength](Lifting)
-  - [Unarmed Combat](Fighting)
+  - [Hand-to-hand Combat](Fighting)
 - [Reason](Intellect)
-  - [Command](Command)
-  - [Persuasion](Persuasion)
 - [Science](Knowledge)
-  - Computers
-  - Languages
-  - Engineering
-  - Medicine
-  - Robotics
+  - [Anatomy](Anatomy)
+  - [Computers](ComputerOperations)
+  - [Languages](SpeakLanguage)
+  - [Engineering](Science#engineering)
+  - [Medicine](Healing)
+  - [Navigation](Navigation)
+  - [Robotics](Science#robotics)
 - [Observation](Perception)
-  - [Investigation](Investigation)
-  - [Navigation](Navigation#astrogation)
+  - [Contacts](Contacts)
+  - [Creative Ability](CreativeAbility)
+  - [Identify Subject](IdentifySubject)
+  - [Tracking](Tracking)
 - [Technology](Technical)
   - [Atmospheric Flight Systems](Piloting)
   - [Communications](Tech#comm)

@@ -12,29 +12,29 @@ Attributes and Skills
 
 ### Coordination
 
-- [Dexterity](SleightOfHand.md)
-- [Throwing](Throwing.md)
+- [Dexterity](SleightOfHand)
+- [Throwing](Throwing)
 
 ### Endurance
 
-- [Swimming](Swimming.md)
+- [Swimming](Swimming)
 
 ### Reflexes
 
-- [Acrobatics](Acrobatics.md)
-- [Brawling](Fighting.md)
-- [Dodge](Dodge.md)
-- [Running](Running.md)
-- [Stealth](Stealth.md)
+- [Acrobatics](Acrobatics)
+- [Brawling](Fighting)
+- [Dodge](Dodge)
+- [Running](Running)
+- [Stealth](Stealth)
 
 ### Strength
 
-- [Climbing](ClimbJump.md#climbing)
-- [Jumping](ClimbJump.md)
+- [Climbing](ClimbJump#climbing)
+- [Jumping](ClimbJump)
 
 ### Perception
 
-- [Contacts](Streetwise.md)
-- [Healing](Medicine.md)
-- [Tracking](Search.md)
-- [Willpower](Willpower.md)
+- [Contacts](Streetwise)
+- [Healing](Medicine)
+- [Tracking](Search)
+- [Willpower](Willpower)

@@ -10,64 +10,64 @@ Genre combines all the skills shared between _D6 Adventure_, _D6 Space_, and _D6
 Attributes and Skills
 ---------------------
 
-### [Coordination](Coordination.md)
+### [Coordination](Coordination)
 
-- [Marksmanship](Marksmanship.md) <span title='Space: Reflexes'>?</span>
-- [Piloting](Piloting.md) <span title='Space: Mechanical'>?</span>
-- [Sleight of Hand](SleightOfHand.md) <span title='Space: Reflexes'>?</span>
-- [Throwing](Throwing.md) <span title='Space: Reflexes'>?</span>
+- [Marksmanship](Marksmanship) <span title='Space: Reflexes'>?</span>
+- [Piloting](Piloting) <span title='Space: Mechanical'>?</span>
+- [Sleight of Hand](SleightOfHand) <span title='Space: Reflexes'>?</span>
+- [Throwing](Throwing) <span title='Space: Reflexes'>?</span>
 
-### [Reflexes](Reflexes.md)
+### [Reflexes](Reflexes)
 
-- [Acrobatics](Acrobatics.md)
-- [Climb/Jump](ClimbJump.md) <span title='Space: Strength'>?</span>
-- [Dodge](Dodge.md)
-- [Brawling](Fighting.md)
-- [Flying](Flying.md)
-- [Melee Combat](MeleeCombat.md)
-- [Riding](Riding.md)
-- [Sneak](Sneak.md) <span title='Space: Perception'>?</span>
+- [Acrobatics](Acrobatics)
+- [Climb/Jump](ClimbJump) <span title='Space: Strength'>?</span>
+- [Dodge](Dodge)
+- [Brawling](Fighting)
+- [Flying](Flying)
+- [Melee Combat](MeleeCombat)
+- [Riding](Riding)
+- [Sneak](Sneak) <span title='Space: Perception'>?</span>
 
-### [Strength](Strength.md)
+### [Strength](Strength)
 
-- [Lifting](Lifting.md)
-- [Running](Running.md) <span title='Space: Reflexes'>?</span>
-- [Stamina](Stamina.md)
-- [Swimming](Swimming.md)
+- [Lifting](Lifting)
+- [Running](Running) <span title='Space: Reflexes'>?</span>
+- [Stamina](Stamina)
+- [Swimming](Swimming)
 
-### [Knowledge](Knowledge.md)
+### [Knowledge](Knowledge)
 
-- [Business](Business.md)
-- [Languages](Languages.md)
-- [Medicine](Medicine.md) <span title='Space: Technical'>?</span>
-- [Navigation](Navigation.md) <span title='Space: Mechanical'>?</span>
-- [Scholar](Scholar.md)
-- [Tech](Tech.md)
-- [Security](Traps.md) <span title='Space: Technical'>?</span>
+- [Business](Business)
+- [Languages](Languages)
+- [Medicine](Medicine) <span title='Space: Technical'>?</span>
+- [Navigation](Navigation) <span title='Space: Mechanical'>?</span>
+- [Scholar](Scholar)
+- [Tech](Tech)
+- [Security](Traps) <span title='Space: Technical'>?</span>
 
-### [Perception](Perception.md)
+### [Perception](Perception)
 
-- [Artist](Artist.md)
-- [Repair](RepairCraft.md) <span title='Space: Technical'>?</span>
-- [Gambling](Gambling.md)
-- [Hide](Hide.md)
-- [Investigation](Investigation.md)
-- [Know-how](Know-how.md)
-- [Search](Search.md)
-- [Streetwise](Streetwise.md) <span title='Space: Knowledge'>?</span>
-- [Survival](Survival.md) <span title='Space: Knowledge'>?</span>
+- [Artist](Artist)
+- [Repair](RepairCraft) <span title='Space: Technical'>?</span>
+- [Gambling](Gambling)
+- [Hide](Hide)
+- [Investigation](Investigation)
+- [Know-how](Know-how)
+- [Search](Search)
+- [Streetwise](Streetwise) <span title='Space: Knowledge'>?</span>
+- [Survival](Survival) <span title='Space: Knowledge'>?</span>
 
-### [Confidence](Confidence.md)
+### [Confidence](Confidence)
 
-- [Command](Command.md)
-- [Con](Con.md)
-- [Intimidation](Intimidation.md)
-- [Persuasion](Persuasion.md)
-- [Willpower](Mettle.md)
+- [Command](Command)
+- [Con](Con)
+- [Intimidation](Intimidation)
+- [Persuasion](Persuasion)
+- [Willpower](Mettle)
 
-### [Extranormal](Extranormal.md)
+### [Extranormal](Extranormal)
 
-See [Magic](ExtranormalMagic.md), [Psionics](ExtranormalPsionics.md), [Miracles](ExtranormalMiracles.md), or [Metaphysics](ExtranormalMetaphysics.md).
+See [Magic](ExtranormalMagic), [Psionics](ExtranormalPsionics), [Miracles](ExtranormalMiracles), or [Metaphysics](ExtranormalMetaphysics).
 
 Methodology
 -----------
@@ -85,6 +85,6 @@ The name used in majority (at least two of the three books) determines the skill
 See Also
 --------
 
-- [Adventure System](AdventureSystem.md)
-- [Space System](SpaceSystem.md)
-- [Fantasy System](FantasySystem.md)
+- [Adventure System](AdventureSystem)
+- [Space System](SpaceSystem)
+- [Fantasy System](FantasySystem)

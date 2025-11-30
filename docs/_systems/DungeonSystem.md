@@ -8,52 +8,52 @@ Dungeon Crawl
 Attributes and Skills
 ---------------------
 
-### [Strength](Strength.md)
+### [Strength](Strength)
 
-- [Climbing](ClimbJump.md#climbing)
-- [Jumping](ClimbJump.md#jumping)
-- [Swimming](Swimming.md)
+- [Climbing](ClimbJump#climbing)
+- [Jumping](ClimbJump#jumping)
+- [Swimming](Swimming)
 
-### [Dexterity](Coordination.md)
+### [Dexterity](Coordination)
 
-- [Acrobatics](Acrobatics.md)
-- [Hide](Hide.md)
-- [Lockpicking](SleightOfHand.md#lockpicking)
-- [Riding](Riding.md)
-- [Sleight of Hand](SleightOfHand.md#pick-pocket)
-- [Sneak](Sneak.md)
+- [Acrobatics](Acrobatics)
+- [Hide](Hide)
+- [Lockpicking](SleightOfHand#lockpicking)
+- [Riding](Riding)
+- [Sleight of Hand](SleightOfHand#pick-pocket)
+- [Sneak](Sneak)
 
-### [Constitution](Endurance.md)
+### [Constitution](Endurance)
 
-- [Stamina](Stamina.md)
+- [Stamina](Stamina)
 
-### [Intelligence](Intellect.md)
+### [Intelligence](Intellect)
 
-- [Crafting](RepairCraft.md#crafting)
+- [Crafting](RepairCraft#crafting)
   - Appraisal
-  - [Forgery](RepairCraft.md#forgery)
-- [Traps](Traps.md)
-- [Languages](Languages.md)
-- [Lipreading](Search.md#lipreading)
-- [Search](Search.md)
+  - [Forgery](RepairCraft#forgery)
+- [Traps](Traps)
+- [Languages](Languages)
+- [Lipreading](Search#lipreading)
+- [Search](Search)
 - Scholar
-  - [Arcane Lore](Scholar.md#arcane-lore)
+  - [Arcane Lore](Scholar#arcane-lore)
   - Arcane Script
   - Alchemical Concoction
   - Knowledge
-  - [Theurgy](Scholar.md#theurgy)
+  - [Theurgy](Scholar#theurgy)
 
-### [Wisdom](Knowledge.md)
+### [Wisdom](Knowledge)
 
-- [Healing](Medicine.md#healing)
-- [Perception](Search.md#perception)
-- [Survival](Survival.md)
+- [Healing](Medicine#healing)
+- [Perception](Search#perception)
+- [Survival](Survival)
 
-### [Charisma](Confidence.md)
+### [Charisma](Confidence)
 
-- [Animal Handling](Persuasion.md#animal-handling)
-- [Bluff](Con.md#bluff)
-- [Intimidation](Intimidation.md)
-- [Investigation](Investigation.md)
-- [Persuasion](Persuasion.md)
-- [Theatrics](Con.md#theatrics)
+- [Animal Handling](Persuasion#animal-handling)
+- [Bluff](Con#bluff)
+- [Intimidation](Intimidation)
+- [Investigation](Investigation)
+- [Persuasion](Persuasion)
+- [Theatrics](Con#theatrics)

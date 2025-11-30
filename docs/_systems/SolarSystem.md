@@ -10,32 +10,32 @@ Attributes and Skills
 
 For some fun, the attributes were named in such a way that they could be mistaken for an academic journal.
 
-- [Fitness](Strength.md)
-  - [Manual Dexterity](SleightOfHand.md)
-  - [Reflexes](Dodge.md)
-  - [Stamina](Stamina.md)
-  - [Strength](Lifting.md)
-  - [Unarmed Combat](Fighting.md)
-- [Reason](Intellect.md)
-  - [Command](Command.md)
-  - [Persuasion](Persuasion.md)
-- [Science](Knowledge.md)
+- [Fitness](Strength)
+  - [Manual Dexterity](SleightOfHand)
+  - [Reflexes](Dodge)
+  - [Stamina](Stamina)
+  - [Strength](Lifting)
+  - [Unarmed Combat](Fighting)
+- [Reason](Intellect)
+  - [Command](Command)
+  - [Persuasion](Persuasion)
+- [Science](Knowledge)
   - Computers
   - Languages
   - Engineering
   - Medicine
   - Robotics
-- [Observation](Perception.md)
-  - [Investigation](Investigation.md)
-  - [Navigation](Navigation.md#astrogation)
-- [Technology](Technical.md)
-  - [Atmospheric Flight Systems](Piloting.md)
-  - [Communications](Tech.md#comm)
-  - [Defensive Systems](Tech.md)
-  - [Personal Equipment](Tech.md)
-  - [Security Systems](Traps.md#security)
-  - [Sensors](Tech.md#sensors)
-  - [Space Flight Systems](Piloting.md)
+- [Observation](Perception)
+  - [Investigation](Investigation)
+  - [Navigation](Navigation#astrogation)
+- [Technology](Technical)
+  - [Atmospheric Flight Systems](Piloting)
+  - [Communications](Tech#comm)
+  - [Defensive Systems](Tech)
+  - [Personal Equipment](Tech)
+  - [Security Systems](Traps#security)
+  - [Sensors](Tech#sensors)
+  - [Space Flight Systems](Piloting)
 
 Species
 -------

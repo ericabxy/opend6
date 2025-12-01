@@ -1,12 +1,9 @@
 ---
+title: Strength
 alternate_names:
 - Athletics
 - Physique
-categories:
-- System Book
-- attribute
-- core
-- trait
+category: System Book
 order: 4
 ---
 

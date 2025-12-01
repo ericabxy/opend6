@@ -4,6 +4,7 @@ alternate_names:
 - Mechanics
 - Sensory Extension
 - Symbiotic Attachment
+category: System Book
 order: 8
 ---
 

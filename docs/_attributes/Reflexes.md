@@ -3,11 +3,7 @@ title: Reflexes
 alternate_names:
 - Agility
 - Balance
-categories:
-- System Book
-- attribute
-- core
-- trait
+category: System Book
 order: 3
 ---
 

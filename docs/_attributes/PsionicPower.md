@@ -2,6 +2,7 @@
 title: Psionic Power
 alternate_names:
 - Psychic Ability
+category: System Book
 order: 10
 ---
 

@@ -1,17 +1,14 @@
 ---
+title: Knowledge
 alternate_names:
 - Lore
 - Wisdom
 - Science
-categories:
-- System Book
-- attribute
-- optional
-- trait
+category: System Book
 order: 6
 ---
 
-> The __Knowledge__ attribute represents a character's level of education in various fields, from scientific pursuits like physics to philosophical concepts, from history and languages to magical lore and planetary systems. Any information a character could know in the game world could fall underneath this attribute. ---<cite>D6 System Book</cite>
+> The Knowledge attribute represents a character's level of education in various fields, from scientific pursuits like physics to philosophical concepts, from history and languages to magical lore and planetary systems. Any information a character could know in the game world could fall underneath this attribute.
 
 Referenced Skills
 -----------------

@@ -1,13 +1,10 @@
 ---
+title: Magic
 alternate_names:
 - Dweomercraft
 - Mysticism
 - Witchcraft
-categories:
-- System Book
-- attribute
-- optional
-- trait
+category: System Book
 order: 7
 ---
 

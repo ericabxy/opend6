@@ -1,4 +1,10 @@
-title: OpenD6 Extension Project
+title: OpenD6 Project
+description: Collecting and correlating data from the Open-D6 roleplaying game system.
+github_username: ericabxy
+
+#theme: minima
+plugins:
+  - jekyll-feed
 
 collections_dir: docs
 

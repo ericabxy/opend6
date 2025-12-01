@@ -35,3 +35,7 @@ Disadvantages
 
 Orc Species
 -----------
+
+### Darkvision (+3D)
+
+Orcs can see perfectly fine in total darkness, albeit in black-and-white.

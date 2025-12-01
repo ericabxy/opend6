@@ -1,8 +1,10 @@
 ---
+title: Willpower
 alternate_names:
 - Mental Fortitude
 - Mind
 - Spirit
+category: System Book
 order: 12
 ---
 

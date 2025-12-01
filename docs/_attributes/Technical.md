@@ -1,6 +1,8 @@
 ---
+title: Technical
 alternate_names:
 - Technology
+category: System Book
 order: 11
 ---
 

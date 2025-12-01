@@ -4,6 +4,7 @@ alternate_names:
 - Charm
 - Presence
 - Charisma
+category: System Book
 order: 10
 ---
 

@@ -1,0 +1,14 @@
+<table>
+  <tr>
+    <th colspan='2'>Professions Navigation</th>
+  <tr>
+    <th>System Book</th>
+    <td>
+      {% assign docs = site.professions %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

@@ -3,7 +3,10 @@ based_on:
 - Perception
 - Acumen
 title: Know-how
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Know-how

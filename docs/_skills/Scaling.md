@@ -6,7 +6,10 @@ alternate_names:
 based_on:
 - Reflexes
 - Strength
-category: System Book
+categories:
+- System Book
+- Adventure
+- Fantasy
 ---
 
 __Description:__ Climbing human-made structures requires a set of skills similar to but not exactly like that needed for rock climbing. The _scaling_ skill covers everything from pyramids to skyscrapers.

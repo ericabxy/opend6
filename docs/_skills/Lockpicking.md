@@ -4,7 +4,10 @@ alternate_names:
 - Unlock
 based_on:
 - Coordination
-category: System Book
+categories:
+- System Book
+- Adventure
+- Fantasy
 ---
 
 __Time Required:__ Varies

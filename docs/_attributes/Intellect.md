@@ -3,8 +3,9 @@ title: Intellect
 alternate_names:
 - Intelligence
 - Reasoning
-category: optional
-source: System Book
+categories:
+- System Book
+- Optional
 order: 5
 ---
 

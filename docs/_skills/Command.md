@@ -3,7 +3,10 @@ based_on:
 - Perception
 - Presence
 - Charisma
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Command

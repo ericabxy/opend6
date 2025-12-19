@@ -6,7 +6,9 @@ based_on:
 - Technical
 - Knowledge
 - Intellect
-category: Genre Book
+categories:
+- Adventure
+- Space
 ---
 
 > Installing, altering, and bypassing electronic security and surveillance systems. (_Adventure_, _Space_, __security__)

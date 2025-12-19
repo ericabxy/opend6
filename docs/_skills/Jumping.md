@@ -3,7 +3,10 @@ title: Jumping
 based_on:
 - Reflexes
 - Strength
-category: System Book
+categories:
+- System Book
+- Adventure
+- Fantasy
 ---
 
 __Time Required:__ 5 seconds

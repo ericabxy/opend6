@@ -3,7 +3,10 @@ based_on:
 - Knowledge
 - Intellect
 - Perception
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Scholar

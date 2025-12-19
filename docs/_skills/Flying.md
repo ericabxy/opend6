@@ -5,7 +5,10 @@ alternate_names:
 based_on:
 - Agility
 - Reflexes
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 > Maneuvering under one's own power (such as with wings) or in null

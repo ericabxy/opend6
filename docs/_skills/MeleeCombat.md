@@ -3,7 +3,10 @@ based_on:
 - Agility
 - Reflexes
 title: Melee Combat
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Melee Combat

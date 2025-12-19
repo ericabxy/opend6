@@ -2,7 +2,10 @@
 based_on:
 - Strength
 - Physique
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Stamina

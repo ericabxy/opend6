@@ -2,7 +2,10 @@
 based_on:
 - Perception
 - Acumen
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Hide

@@ -2,7 +2,10 @@
 based_on:
 - Agility
 - Coordination
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Throwing

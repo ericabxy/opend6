@@ -2,7 +2,9 @@
 based_on:
 - Knowledge
 - Intellect
-category: Genre Book
+categories:
+- Adventure
+- Space
 ---
 
 Languages

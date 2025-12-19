@@ -3,7 +3,10 @@ based_on:
 - Agility
 - Coordination
 title: Sleight of Hand
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Sleight of Hand

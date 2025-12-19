@@ -5,7 +5,7 @@
   <tr>
     <th>Core Attributes</th>
     <td>
-      {% assign docs = site.attributes | where: 'category', 'core' %}
+      {% assign docs = site.attributes | where_exp: 'item', 'item.categories contains "Core"' %}
       {% for doc in docs %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
         {% unless forloop.last %}&bull;{% endunless %}
@@ -15,7 +15,7 @@
   <tr>
     <th>Optional Attributes</th>
     <td>
-      {% assign docs = site.attributes | where: 'category', 'optional' %}
+      {% assign docs = site.attributes | where_exp: 'item', 'item.categories contains "Optional"' %}
       {% for doc in docs %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
         {% unless forloop.last %}&bull;{% endunless %}

@@ -3,7 +3,11 @@ title: Gambling
 based_on:
 - Perception
 - Presence
-category: System Book
+categories:
+- System Book
+- Adventure
+- Space
+- Fantasy
 ---
 
 __Time Required:__ Length of a game

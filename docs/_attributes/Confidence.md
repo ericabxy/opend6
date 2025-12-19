@@ -4,8 +4,9 @@ alternate_names:
 - Charm
 - Presence
 - Charisma
-category: optional
-source: System Book
+categories:
+- System Book
+- Optional
 order: 10
 ---
 

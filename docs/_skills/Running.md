@@ -2,7 +2,10 @@
 based_on:
 - Agility
 - Physique
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Running

@@ -2,7 +2,10 @@
 based_on:
 - Reflexes
 - Agility
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Fighting

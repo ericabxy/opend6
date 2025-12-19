@@ -2,7 +2,10 @@
 title: Tracking
 based_on:
 - Perception
-category: System Book
+categories:
+- System Book
+- Adventure
+- Fantasy
 ---
 
 __Time Required:__ 5 seconds

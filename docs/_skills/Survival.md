@@ -3,7 +3,10 @@ based_on:
 - Knowledge
 - Perception
 - Acumen
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Survival

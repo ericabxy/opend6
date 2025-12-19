@@ -3,7 +3,10 @@ based_on:
 - Knowledge
 - Presence
 - Charisma
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Mettle

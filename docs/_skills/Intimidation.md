@@ -3,7 +3,10 @@ based_on:
 - Knowledge
 - Presence
 - Charisma
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Intimidation
@@ -12,8 +15,6 @@ Intimidation
 > Using physical presence, verbal threats, taunts, torture, or fear to influence others or get information out of them. (_Adventure_, _Fantasy_, __intimidation__)
 
 > Using physical presence, verbal threats, taunts, or fear to influence others or get information out of them. (_Space_, __intimidation__)
-
-__Based On:__ Knowledge, Presence, Charisma
 
 Notes
 -----

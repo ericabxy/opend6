@@ -1,7 +1,9 @@
 ---
 based_on:
 - Coordination
-category: Genre Book
+categories:
+- Adventure
+- Fantasy
 ---
 
 Marksmanship

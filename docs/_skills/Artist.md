@@ -2,7 +2,10 @@
 based_on:
 - Acumen
 - Perception
-category: Genre Book
+categories:
+- Adventure
+- Space
+- Fantasy
 ---
 
 Artist

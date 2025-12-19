@@ -3,7 +3,9 @@ title: Traps
 based_on:
 - Perception
 - Reflexes
-category: System Book
+categories:
+- System Book
+- Fantasy
 ---
 
 __Time Required:__ Depends on complexity of trap

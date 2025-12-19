@@ -2,7 +2,11 @@
 title: Acrobatics
 based_on:
 - Reflexes
-category: System Book
+categories:
+- System Book
+- Adventure
+- Space
+- Fantasy
 ---
 
 __Time Required:__ 5 seconds.

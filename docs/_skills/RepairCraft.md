@@ -7,7 +7,9 @@ based_on:
 - Technical
 - Perception
 - Acumen
-category: Genre Book
+categories:
+- Adventure
+- Fantasy
 ---
 
 Crafting

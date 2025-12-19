@@ -3,7 +3,10 @@ title: Sneak
 based_on:
 - Reflexess
 - Perception
-category: System Book
+categories:
+- System Book
+- Adventure
+- Space
 ---
 
 __Time Required:__ 5 seconds

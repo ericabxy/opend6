@@ -4,7 +4,11 @@ alternate_names:
 - «Weapon»
 based_on:
 - Coordination
-category: System Book
+categories:
+- System Book
+- Adventure
+- Space
+- Fantasy
 ---
 
 __Time Required:__ 5 seconds

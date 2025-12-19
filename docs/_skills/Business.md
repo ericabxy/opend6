@@ -5,7 +5,9 @@ alternate_names:
 based_on:
 - Knowledge
 - Intellect
-category: Genre Book
+categories:
+- Adventure
+- Space
 ---
 
 > Comprehension of business practices and the monetary value of goods and opportunities, including the ability to determine how to make money with another skill the character has. Business can complement charm, con, and persuasion when haggling over prices for goods and services being bought or sold. (_Adventure_, __business__)

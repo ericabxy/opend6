@@ -1,0 +1,14 @@
+{% assign core_skills = site.skills | where: 'category', 'System Book' %}
+{% assign skills = core_skills | where_exp: 'item', 'item.based_on contains page.title' %}
+{% for alternate_name in page.alternate_names %}
+  {% assign more = core_skills | where_exp: 'item', 'item.based_on contains alternate_name' %}
+  {% assign skills = skills | concat: more %}
+{% endfor %}
+{% if skills.size > 0 %}
+  <p>
+    <strong>Core Skills:</strong>
+    {% for skill in skills %}
+      <a href='{{ skill.url }}'>{{ skill.title }}</a>{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}

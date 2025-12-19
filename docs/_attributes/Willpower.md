@@ -4,8 +4,8 @@ alternate_names:
 - Mental Fortitude
 - Mind
 - Spirit
-category: System Book
-order: 12
+category: optional
+source: System Book
 ---
 
 > A character's Willpower represents his ability to withstand mental attacks, whether they come from situational pressures, like stress, or direct assault, like magical or psychic phenomena.

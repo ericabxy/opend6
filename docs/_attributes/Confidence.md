@@ -4,11 +4,12 @@ alternate_names:
 - Charm
 - Presence
 - Charisma
-category: System Book
+category: optional
+source: System Book
 order: 10
 ---
 
-> This attribute <ins>__Confidence__</ins> represents a character's personal effect on others. It includes such skills as oration, acting, and grooming.
+> This attribute represents a character's personal effect on others. It includes such skills as oration, acting, and grooming.
 
 Mentioned Skills
 ----------------

@@ -3,7 +3,8 @@ title: Strength
 alternate_names:
 - Athletics
 - Physique
-category: System Book
+category: core
+source: System Book
 order: 4
 ---
 

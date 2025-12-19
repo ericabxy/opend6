@@ -3,7 +3,8 @@ title: Endurance
 alternate_names:
 - Constitution
 - Stamina
-category: System Book
+category: core
+source: System Book
 order: 2
 ---
 

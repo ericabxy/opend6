@@ -2,8 +2,8 @@
 title: Psionic Power
 alternate_names:
 - Psychic Ability
-category: System Book
-order: 10
+category: optional
+source: System Book
 ---
 
 > Like Magic, this attribute applies only in game worlds where this phenomenon exists, and represents a character's ability to wield psychic powers, from danger sense to pyrotechnics to telekinesis.

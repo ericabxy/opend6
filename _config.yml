@@ -2,7 +2,9 @@ title: OpenD6 Project
 description: Collecting and correlating data from the Open-D6 roleplaying game system.
 github_username: ericabxy
 
-#theme: minima
+theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
@@ -16,9 +18,6 @@ collections:
     output: true
     permalink: /:path
   skills:
-    output: true
-    permalink: /:path
-  genre_skills:
     output: true
     permalink: /:path
   systems:
@@ -44,12 +43,6 @@ defaults:
     scope:
       path: ''
       type: 'skills'
-    values:
-      layout: 'skill'
-  -
-    scope:
-      path: ''
-      type: 'genre_skills'
     values:
       layout: 'skill'
   -

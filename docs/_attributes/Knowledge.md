@@ -4,8 +4,8 @@ alternate_names:
 - Lore
 - Wisdom
 - Science
-category: System Book
-order: 6
+category: optional
+source: System Book
 ---
 
 > The Knowledge attribute represents a character's level of education in various fields, from scientific pursuits like physics to philosophical concepts, from history and languages to magical lore and planetary systems. Any information a character could know in the game world could fall underneath this attribute.

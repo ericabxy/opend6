@@ -3,7 +3,8 @@ title: Reflexes
 alternate_names:
 - Agility
 - Balance
-category: System Book
+category: core
+source: System Book
 order: 3
 ---
 

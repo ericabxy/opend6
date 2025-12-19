@@ -1,0 +1,25 @@
+<table>
+  <tr>
+    <th colspan='2'>Attributes</th>
+  </tr>
+  <tr>
+    <th>Core Attributes</th>
+    <td>
+      {% assign docs = site.attributes | where: 'category', 'core' %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+  <tr>
+    <th>Optional Attributes</th>
+    <td>
+      {% assign docs = site.attributes | where: 'category', 'optional' %}
+      {% for doc in docs %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a>
+        {% unless forloop.last %}&bull;{% endunless %}
+      {% endfor %}
+    </td>
+  </tr>
+</table>

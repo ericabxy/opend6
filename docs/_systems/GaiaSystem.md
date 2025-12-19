@@ -10,31 +10,27 @@ _Children of Gaia_ is a superpower setting with characters that have elemental, 
 Attributes and Skills
 ---------------------
 
+### Strength
+
+### Endurance
+
 ### Coordination
 
 - [Dexterity](SleightOfHand)
 - [Throwing](Throwing)
 
-### Endurance
-
-- [Swimming](Swimming)
-
 ### Reflexes
 
 - [Acrobatics](Acrobatics)
-- [Brawling](Fighting)
-- [Dodge](Dodge)
+- [Brawling](WeaponlessFightingStyle)
+- [Climbing](Scaling)
+- [Jumping](Jumping)
 - [Running](Running)
-- [Stealth](Stealth)
-
-### Strength
-
-- [Climbing](ClimbJump#climbing)
-- [Jumping](ClimbJump)
+- [Stealth](Sneak)
+- [Swimming](Swimming)
 
 ### Perception
 
-- [Contacts](Streetwise)
-- [Healing](Medicine)
-- [Tracking](Search)
-- [Willpower](Willpower)
+- [Contacts](Contacts)
+- [Healing](Healing)
+- [Tracking](Tracking)
